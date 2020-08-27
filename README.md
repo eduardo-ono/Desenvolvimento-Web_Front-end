@@ -1,9 +1,17 @@
 # Desenvolvimento Web
 
+## Softwares
+
+    BlueGriffon: http://bluegriffon.org
+
 
 ## Bibliografia
 
-https://goalkicker.com/GitBook/
-https://goalkicker.com/HTML5Book/
-https://goalkicker.com/CSSBook/
-https://goalkicker.com/JavaScriptBook/
+### Git
+    https://goalkicker.com/GitBook/
+### HTML5
+    https://goalkicker.com/HTML5Book/
+### CSS
+    https://goalkicker.com/CSSBook/
+### JavaScript
+    https://goalkicker.com/JavaScriptBook/
