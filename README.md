@@ -2,16 +2,20 @@
 
 ## Softwares
 
-    BlueGriffon: http://bluegriffon.org
+    BlueGriffon - http://bluegriffon.org
 
 
 ## Bibliografia
 
 ### Git
-    https://goalkicker.com/GitBook/
+- https://git-scm.com/book/en/v2/
+- https://goalkicker.com/GitBook/
+
 ### HTML5
-    https://goalkicker.com/HTML5Book/
+- https://goalkicker.com/HTML5Book/
+
 ### CSS
-    https://goalkicker.com/CSSBook/
+- https://goalkicker.com/CSSBook/
+
 ### JavaScript
-    https://goalkicker.com/JavaScriptBook/
+- https://goalkicker.com/JavaScriptBook/
