@@ -1,8 +1,14 @@
 # Desenvolvimento Web
 
-## Softwares
+Prof. Eduardo Ono
 
-    BlueGriffon - http://bluegriffon.org
+
+## Softwares
+- Microsoft Visual Studio Code - https://code.visualstudio.com
+- BlueGriffon - http://bluegriffon.org
+
+## Material de Apoio
+- https://www.w3schools.com
 
 
 ## Bibliografia
