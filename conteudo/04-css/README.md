@@ -2,6 +2,8 @@
 
 Prof. Eduardo Ono
 
+Home Page: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/04-css
+
 <br>
 
 ## Aulas
@@ -16,8 +18,9 @@ Prof. Eduardo Ono
 
 ### Fundamentos
 
-* [Traversy Media] CSS Crash Course for Absolute Beginners | [YouTube](https://youtu.be/yfoY53QXEnI) (1:25:10)
-* [Derek Banas] CSS3 Tutorial | [YouTube](https://youtu.be/CUxH_rWSI1k) (59:36)
+[Traversy Media] CSS Crash Course for Absolute Beginners | [YouTube](https://youtu.be/yfoY53QXEnI) (1:25:10)
+
+[Derek Banas] CSS3 Tutorial | [YouTube](https://youtu.be/CUxH_rWSI1k) (59:36)
 
 <br>
 
