@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>aula-js-005-darkmode.html</title>
+    <meta name="author" content="Eduardo Ono">
+    <style type="text/css">
+      /* body */
+      body {
+        margin: 5%;
+        color: blue;
+      }
+    </style>
+    <script type="text/javascript">
+      for (var i = 0; i < 2; i++)
+      {
+        document.write("<h2>Olá mundo!</h2>");
+      }
+    </script>
+    <script type="text/javascript">
+      function modificarTexto()
+      {
+        var str = "<p>Olá mundo!</p>";
+        var el = document.getElementById("caju");
+        el.innerHTML += str;  // el.innerHTML = el.innerHTML + str;
+        el.style.color = "red";
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Desenvolvimento Web (JavaScript)</h1>
+    <p><br>
+    </p>
+    <p id="caju">Executando código JavaScript:</p>
+    <p><br>
+    </p>
+    <p><a href="javascript:modificarTexto()">Link</a></p>
+    <p><a href="javascript:;" onclick="javascript:modificarTexto()">Link</a> </p>
+    <button name="button" onclick="javascript:modificarTexto()">Executar código
+      JavaScript</button>
+    <p><br>
+    </p>
+  </body>
+</html>

@@ -2,14 +2,30 @@
 
 Prof. Eduardo Ono
 
+<br>
+
+## Conteúdo Programático
+
+```
+- Overview
+- HTML
+- CSS
+- JavaScript
+- JSON
+- AJAX
+```
+<br>
 
 ## Softwares
 - Microsoft Visual Studio Code - https://code.visualstudio.com
 - BlueGriffon - http://bluegriffon.org
 
+<br>
+
 ## Material de Apoio
 - https://www.w3schools.com
 
+<br>
 
 ## Bibliografia
 
@@ -17,11 +33,6 @@ Prof. Eduardo Ono
 - https://git-scm.com/book/en/v2/
 - https://goalkicker.com/GitBook/
 
-### HTML5
-- https://goalkicker.com/HTML5Book/
+<br>
 
-### CSS
-- https://goalkicker.com/CSSBook/
-
-### JavaScript
-- https://goalkicker.com/JavaScriptBook/
+## Filmes recomendados

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>aula</title>
+    <style type="text/css" rel="stylesheet">
+    	body {
+        font-size: 1.5em;
+      }
+    </style>
+  </head>
+  <body>
+    <p><br>
+    </p>
+    <p id="nome">Nome:</p>
+    <p id="tamanho-nome">Tamanho do nome (em caracteres):</p>
+    <button name="exibirButton" type="button" onclick="exibirDados()">Exibir</button><button
+      type="button" style="width: 64px" onclick="alterarDados()">Alterar</button>
+    <script>
+      
+      function exibirDados() {
+        var elNome = document.getElementById("nome");
+        var str = elNome.innerHTML;
+        str += "\n";
+        str += elTamanhoNome.innerHTML;
+        alert(str);
+      }  // exibirDados()
+      
+    	function alterarDados() {
+        str nome = "Fulano de Tal";
+        el.innerHTML = "Nome: Fulano de Tal";
+        el.innerHTML = "Tamanho do nome: ", nome.length); 
+      }              
+    </script>
+  </body>
+</html>

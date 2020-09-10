@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>aula-js-005-darkmode.html</title>
+    <meta name="author" content="Eduardo Ono">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <style type="text/css">
+      /* body */
+      body {
+        margin: 10%;
+      }
+    	.light-mode {
+        color: black;
+        background: white;
+      }
+      .dark-mode {
+        color: white;
+        background: black;
+      }
+      /* a */
+      .dark-mode a:link {
+        color: #66ffff;
+        text-decoration: none;
+      }
+      .dark-mode a:visited {
+        color: #ff99ff;
+        text-decoration: none;
+      }
+      .dark-mode a:hover {
+        text-decoration: underline overline;
+      }
+      .dark-mode a:active {
+        color: #ff0000;
+      }
+    </style>
+  </head>
+  <body class="light-mode">
+    <h1>Desenvolvimento Web (JavaScript)</h1>
+    <p><br>
+    </p>
+    <p>Executando código JavaScript:</p>
+    <p>Link (Opçao 1): <a href="javascript:lightMode()">light-mode</a></p>
+    <p>Link (Opção 2): <a href="javascript:;" onclick="javascript:darkMode()">dark-mode</a></p>
+    <p> <a href="javascript:darkMode()"><img src="night-mode.png" alt="" style="width: 108px; height: 60px;"><br>
+      </a></p>
+    <p><br>
+    </p>
+    <div style="text-align: center;"><a data-fancybox href="night-mode.png"><img src="night-mode.png"
+
+          alt="" style="width: 286px; height: 160px;"></a></div>
+    <p> </p>
+    <div id="caju"> </div>
+    <script type="text/javascript">
+      // var vetor = document.getElementsByTag("p");
+      // alert(vetor[1].innerHTML);
+    	function lightMode() {
+        document.body.className = "light-mode";
+        document.getElementById("caju").innerHTML = '<img src="night-mode.png" alt="" style="width: 108px; height: 60px;">';
+      }
+      function darkMode() {
+        document.body.className = "dark-mode";
+      }
+    </script>
+    <p></p>
+  </body>
+</html>

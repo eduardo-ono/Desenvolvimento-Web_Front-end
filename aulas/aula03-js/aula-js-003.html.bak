@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>aula-js-005-darkmode.html</title>
+    <meta name="author" content="Eduardo Ono">
+    <style type="text/css">
+      /* body */
+      body {
+        margin: 10%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Desenvolvimento Web (JavaScript)</h1>
+    <p><br>
+    </p>
+    <p>Peso (kg): <input id="peso" type="text"></p>
+    <p>Altura (m): <input id="altura" type="text"></p>
+    <p id="imc">IMC: </p>
+    <p id="resultado">Resultado: </p>
+    <button name="button" onclick="calcularImc()">Calcular IMC</button>
+    <script type="text/javascript">
+      function calcularImc()
+      {
+        var peso = document.querySelector("#peso").value;
+        var altura = document.querySelector("#altura").value;
+        if (peso == "")
+          alert("Peso inválido!");
+        var imc = peso / (altura * altura);  // var imc = peso / Math.pow(altura, 2);
+        // if (peso == "") alert(peso);
+        var str = "";
+        if (imc < 18.5)
+          str = "Abaixo do peso!";
+        else if (imc < 25)
+          str = "Peso normal!";
+       		else
+            str = "Acima do peso!";
+        document.getElementById("imc").innerHTML = "IMC = " + parseFloat(imc.toFixed(2));
+        document.getElementById("resultado").innerHTML = "Resultado: " + str;
+      }
+    </script>
+  </body>
+</html>
