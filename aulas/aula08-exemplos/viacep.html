@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>viacep</title>
+    <meta name="author" content="Eduardo Ono">
+    <style>
+      body {
+        margin: 5% 20% 5% 20%;
+      }
+    	label {
+      }
+    </style>
+    <script type="text/javascript">
+      
+      function limpaFormulario()
+      {
+        var labels = document.getElementsByTagName("label");
+        for (var i = 1; i < labels.length; i++)
+        {
+          var inputs = labels[i].getElementsByTagName("input");
+          inputs[0].value = "";
+        }
+      }
+      
+      function meu_callback(conteudo)
+      {
+        if (!("erro" in conteudo))
+        {
+          document.getElementById("rua").value = (conteudo.logradouro);
+          document.getElementById("bairro").value = (conteudo.bairro);
+          document.getElementById("cidade").value = (conteudo.localidade);
+          document.getElementById("uf").value = (conteudo.uf);
+          document.getElementById("ibge").value = (conteudo.ibge);
+        }
+        else  // CEP não encontrado
+        {
+          limpaFormulario();
+        }
+      }
+      
+    	function pesquisarCep(valor)
+      {
+        // Filtra apenas dígitos
+        var cep = valor.replace(/\D/g, '');
+        // Valida o cep
+        if (cep != "")
+        {
+          // Expressão regular para validar o CEP
+          var validaCep = /^[0-9]{8}$/;
+          if (validaCep.test(cep))
+          {
+            // Preenche os campos com "..." enquanto consulta o webservice
+            var labels = document.getElementsByTagName("label");
+            for (var i = 1; i < labels.length; i++)
+            {
+              var inputs = labels[i].getElementsByTagName("input");
+              inputs[0].value = "...";
+            }
+          
+            // Cria um elemento JavaScript e sincroniza com o callback
+            var script = document.createElement("script");
+            script.src = "https://viacep.com.br/ws/" + cep + "/json/?callback=meu_callback";
+            alert(script.src);
+            document.body.appendChild(script);
+        	}
+        	else
+          {
+         		limpaFormulario();
+        	}
+        }
+        else
+          limpaFormulario();
+      }  // function
+    </script>
+  </head>
+  <body>
+    <p>Desenvolvimento Web</p>
+    <p>Prof. Eduardo Ono</p>
+    <p><br>
+    </p>
+    <label>Cep: <input name="cep" id="cep" value="" size="10" maxlength="9" onblur="pesquisarCep(this.value);"
+        type="text"></label><br>
+    <br>
+    <hr><br>
+    <label>Rua: <input name="rua" id="rua" class="endereco" size="60" type="text"></label><br>
+    <label>Bairro: <input name="bairro" id="bairro" class="endereco" size="40"
+        type="text"></label><br>
+    <label>Cidade: <input name="cidade" id="cidade" class="endereco" size="40"
+        type="text"></label><br>
+    <label>Estado: <input name="uf" id="uf" class="endereco" size="2" type="text"></label><br>
+    <label>IBGE: <input name="ibge" id="ibge" class="endereco" size="8" type="text"></label><br>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p>Adaptado de: <a href="https://viacep.com.br/exemplo/javascript/">https://viacep.com.br/exemplo/javascript/</a>
+      <br>
+    </p>
+    <p> <br>
+    </p>
+  </body>
+</html>
