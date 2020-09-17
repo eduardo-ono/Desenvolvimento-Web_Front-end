@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>JS - addEventListener()</title>
+    <meta name="author" content="Eduardo Ono">
+    <style>
+    	body {
+        margin: 5% 20% 5% 20%;
+      }
+    </style>
+    <script>
+      function inicializarLinks() {
+        var el = document.getElementById("conteiner");
+        el.innerHTML = "<ul id='links'>asxsaxsaxsasax</ul>";
+      }
+    	var el = document.getElementById("links");
+    </script>
+  </head>
+  <body onload="inicializarLinks()"><br>
+    <p>ID do vídeo (YouTube): <input name="input" type="text"> <button name="button"
+        onclick="adicionarLink()">Adicionar</button><br>
+    </p>
+    <p> <br>
+    </p>
+    <div id="conteiner"> </div>
+  </body>
+</html>
