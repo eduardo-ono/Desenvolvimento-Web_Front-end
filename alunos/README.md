@@ -1,4 +1,4 @@
-## Desenvolvimento Web - Páginas dos Alunos
+## Desenvolvimento Web - Web Sites dos Alunos
 
 Prof. Eduardo Ono
 
