@@ -7,7 +7,9 @@ Prof. Eduardo Ono
 ### Overview
 <br>
 
-![Fig](../../mapas-mentais/js-linguagem.svg)
+<p>
+<a href="../../mapas-mentais/js-linguagem.svg" target="_new"><img src="../../mapas-mentais/js-linguagem.svg"></a>
+</p>
 
 <br>
 
@@ -19,6 +21,8 @@ Prof. Eduardo Ono
 * [Derek Banas] [ECMAScript 6 Tutorial](https://youtu.be/Jakoi0G8lBg) (YouTube, 45:30)
 * [Programming with Mosh] [ES6 Tutorial: Learn Modern JavaScript in 1 Hour](https://youtu.be/NCwa_xi0Uuc) (YouTube, 50:04)
 * [Academind] [JavaScript Data Structures: Getting Started](https://youtu.be/41GSinwoMYA) (YouTube, 1:36:46)
+
+<br>
 
 ### JavaScript Orientado a Objetos
 <br>

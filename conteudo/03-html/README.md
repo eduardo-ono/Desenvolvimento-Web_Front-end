@@ -1,6 +1,11 @@
-# HTML
+## Desenvolvimento Web - HTML
 
-## Vídeos
+Prof. Eduardo Ono
+
+<br>
+
+### Material de Apoio
+<br>
 
 * [CodeBeauty] [HTML & CSS (2020) - Introduction to HTML](https://www.youtube.com/watch?v=3UxQ_LLzR-8&list=PL43pGnjiVwgR0KvKTXdJDrCpzUYkFQqDo) (YouTube, 20:39)
 
@@ -9,7 +14,7 @@
     - Introdução à HTML
     ```
 
-* [CodeBeauty] [H](https://www.youtube.com/watch?v=l0ft6Pr23Z8&list=PL43pGnjiVwgR0KvKTXdJDrCpzUYkFQqDo) (YouTube, 31:40)
+* [CodeBeauty] [HTML & CSS (2020) - How to add image and link?](https://www.youtube.com/watch?v=l0ft6Pr23Z8&list=PL43pGnjiVwgR0KvKTXdJDrCpzUYkFQqDo) (YouTube, 31:40)
 
     ```
     - Inserindo links e imagens: tags "a" e "img" 
