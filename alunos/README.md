@@ -8,6 +8,7 @@ Prof. Eduardo Ono
 <br>
 
 * Ayla Monteiro - https://aylaholanda.github.io/developmentweb/
+* Breno Barbieri - https://brenofbarbieri.github.io/prova-ono/
 * Bruno Berni - https://brunoberni.github.io/Contador-por-extenso/
 * Caio Fernando - https://projeto-website.netlify.app
 * Erick Antunes Inacio - https://erickantunes.github.io/ErickAntunes/
