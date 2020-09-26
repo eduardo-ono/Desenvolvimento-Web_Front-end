@@ -1,5 +1,4 @@
 ## Desenvolvimento Web - Overview
-<hr><br>
 
 Prof. Eduardo Ono
 
@@ -23,3 +22,11 @@ Prof. Eduardo Ono
 <br>
 
 * [Traversy Media] [Starting a Serious Web Development Project](https://youtu.be/gGGPTskb7c8) (YouTube, 19:03)
+
+<br>
+
+### Vídeos Recomendados - Dicas para a Carreira Profissional de um Desenvolvedor Web
+<br>
+
+* [Danki Code] [O que Você PRECISA Saber Ter SUCESSO Como Desenvolvedor Web nos Dias De Hoje!](https://www.youtube.com/watch?v=KProuszNyKQ) (12:01)
+* [Danki Code] [Como Divulgar o seu Trabalho de Programador](https://www.youtube.com/watch?v=mObLc_hn2t0) (4:10)
