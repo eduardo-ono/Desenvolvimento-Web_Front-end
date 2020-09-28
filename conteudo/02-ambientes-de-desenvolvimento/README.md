@@ -5,15 +5,18 @@ Prof. Eduardo Ono
 <br>
 
 ### Microsoft Visual Studio Code
-<br>
 
 * https://code.visualstudio.com
+
+### BlueGriffon
+
+* http://bluegriffon.org/
 
 <br>
 
 ### Git/GitHub
 
-[<img src="../../mapas-mentais/git-github.svg" width="360px">](../../mapas-mentais/git-github.svg)
+[<img src="../../mapas-mentais/git-github.svg" width="250px">](../../mapas-mentais/git-github.svg)
 
 <br>
 
