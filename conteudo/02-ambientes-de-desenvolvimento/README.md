@@ -11,6 +11,8 @@ Prof. Eduardo Ono
 
 [<img src="../../mapas-mentais/git-github.svg" width="300px">](../../mapas-mentais/git-github.svg)
 
+* [Filipe Deschamps] [680 Recursos Grátis para Programadores Frontend, Backend, DevOps e Designers](https://www.youtube.com/watch?v=tpaSZ8x21PI) (YouTube, 10:00)
+
 <br>
 
 ## Editores/IDEs (Geral)
@@ -19,7 +21,13 @@ Prof. Eduardo Ono
 ### Microsoft Visual Studio Code (VS Code)
 <br>
 
+Instalação:
+
 * https://code.visualstudio.com
+
+* [freeCodeCamp.org] [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo) (YouTube, 1:32:34)
+
+<br>
 
 Extensões:
 

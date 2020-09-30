@@ -1,6 +1,8 @@
-## JavaScript
+## Desenvolvimento Web > Conteúdo > JavaScript
 
 Prof. Eduardo Ono
+
+Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/05-js/
 
 <br>
 
