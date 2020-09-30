@@ -8,7 +8,7 @@ Prof. Eduardo Ono
 <br>
 
 <p>
-<a href="../../mapas-mentais/js-linguagem.svg" target="_new"><img src="../../mapas-mentais/js-linguagem.svg"></a>
+<a href="../../mapas-mentais/js-linguagem.svg" target="_new"><img src="../../mapas-mentais/js-linguagem.svg" width="300px"></a>
 </p>
 
 <br>
