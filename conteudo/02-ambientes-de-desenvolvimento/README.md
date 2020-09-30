@@ -1,12 +1,34 @@
-## Desenvolvimento Web - Ambiente de Desenvolvimento
+# Desenvolvimento Web - Ambientes de Desenvolvimento
 
 Prof. Eduardo Ono
 
 <br>
 
-### Microsoft Visual Studio Code
+## Ferramentas
+<br>
+
+### Git/GitHub
+
+[<img src="../../mapas-mentais/git-github.svg" width="300px">](../../mapas-mentais/git-github.svg)
+
+<br>
+
+## Editores/IDEs (Geral)
+<br>
+
+### Microsoft Visual Studio Code (VS Code)
+<br>
 
 * https://code.visualstudio.com
+
+Extensões:
+
+* [Código Fonte TV] [23 Extensões do VS Code para 2020](https://www.youtube.com/watch?v=tmgpF7Bn3_E) (YouTube, 15:44)
+
+<br>
+
+### Editores HTML
+<br>
 
 ### BlueGriffon
 
@@ -14,32 +36,40 @@ Prof. Eduardo Ono
 
 <br>
 
-### Git/GitHub
-
-[<img src="../../mapas-mentais/git-github.svg" width="250px">](../../mapas-mentais/git-github.svg)
-
+## Node.js e (pacote) live-server
 <br>
 
-### Node.js e (pacote) live-server
-<br>
+O **Node.js** é um ambiente de execução para JavaScript, sendo necessário para a instalação e execução do live-server.<br>
+O **live-server** é um pequeno servidor para desenvolvimento web (HTML/CSS/JS) com capacidade para "live reload" ("hot reload"). Não deve ser utilizado em ambientes de produção.<br><br>
 
-Instalação no Windows
-
-    > npm install -g live-server
+Instalação do Node.js (Windows)
 
 * [Bóson Treinamentos] [Como baixar e instalar o Node.js no Windows 10](https://youtu.be/Wras1X6rBrc) (YouTube, 10:22)
 
+Instalação do live-server (Windows)
+
+    > npm install -g live-server
+
+
 <br>
 
-Instalação no Linux (Ubuntu)
+Instalação do Node.js (Ubuntu)
 
     $ sudo apt install nodejs
+
+Instalação do live-server (Ubuntu)
+
+    $ npm install -g live-server
+
+<br>
 
 Para executar o live-server, mudar para o diretório do projeto e digitar:
 
     live-server
 
 <br>
+
+## Sistemas Operacionais
 
 ### Linux (Ubuntu)
 <br>
