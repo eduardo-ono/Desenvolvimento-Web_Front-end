@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API - Cotação do Dólar</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+</head>
+<body>
+    <script>
+        $.ajax({
+            type: "GET",
+            dataType: "JSON",
+            url: "https://economia.awesomeapi.com.br/json/all",
+            success: function(data) {
+                document.write("Código: " + data["USD"]["code"] + "<br>");
+                document.write("Nome: " + data["USD"]["name"] + "<br>");
+                document.write("Compra: " + data["USD"]["bid"] + "<br>");
+                document.write("Venda: " + data["USD"]["ask"] + "<br>");
+            }
+        });
+    </script>
+</body>
+</html>
