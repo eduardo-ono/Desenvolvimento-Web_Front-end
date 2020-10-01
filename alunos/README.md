@@ -7,11 +7,25 @@ Prof. Eduardo Ono
 ### 2020_2 - GTADS4AN
 <br>
 
+* Adrian Santos Pereira - https://adrianpereirasantos.github.io/Projeto-site/
+
+    _Site com problema no conteúdo. Soma de dois produtos é algo como a x b + c x d._
+
 * Ayla Monteiro - https://aylaholanda.github.io/developmentweb/
 
     _Site OK. O tema é interessante e o site tem potencial para se tornar uma boa referência em teclados mecânicos._
-    _Sugestão: Indicar outros site e canais que façam review de produtos._
+    _Sugestão: Indicar outros site e canais que façam review de teclados._
     _Obs.: O botão Sign Up Now não está funcionando._
+
+    _Dicas de sites:_
+
+    * _Redragon Anti-Ghosting Test: https://www.redragon.com.br/antighosting_
+
+    * _[Hardware Canucks] [The Best Gaming Keyboards of 2019!](https://www.youtube.com/watch?v=nPYkLuXKA48) (YouTube)_
+
+    * _[TechLead] [I found the Perfect Keyboard for programming](https://www.youtube.com/watch?v=fxCYXA2zPc8) (YouTube)_
+
+    * _[randomfrankp] [5 Mechanical Gaming Keyboards Under $50!](https://www.youtube.com/watch?v=fxB-eShqIGw) (YouTube)_
 
 * Breno Barbieri - https://brenofbarbieri.github.io/prova-ono/
 
@@ -19,7 +33,7 @@ Prof. Eduardo Ono
 
 * Bruno Berni - https://brunoberni.github.io/Contador-por-extenso/
 
-    _Site sem "título" to tema. No passado existiram softwares que escreviam números por extenso para o preenchimento automático de cheques._
+    _Site sem "título" do tema. No passado existiram softwares que escreviam números por extenso para o preenchimento automático de cheques._
     _Sugestão: Identificar autoria do site._
     _Sugestão: O usuário deveria ser informado sobre o intervalo limitado de números que podem ser processados._
     _Obs.: Conceito de "dark mode" não está totalmente correto._
@@ -109,13 +123,13 @@ Prof. Eduardo Ono
 * Matheus Azzoni - https://matheusazzoni.github.io/codigo_morse.github.io/index.html
 
     _Site OK com tema interessante._
-    _Sugestão: Identificar o autor do site._
+    _Sugestão: Identificar a autoria do site._
     _Obs.: Conceito de "Dark mode" não está totalmente correto._
 
 * Matheus da Silva Saraiva Lima - https://limatt.github.io/tecno_bin/
 
     _Site OK com tema interessante._
-    _Sugestão: Identificar o autor do site._
+    _Sugestão: Identificar a autoria do site._
     _Obs.: O tema (light ou dark) não se mantém quando um link é "clicado"._
     _Obs.: Conceito de "Dark mode" não está totalmente correto._
 
@@ -164,7 +178,7 @@ Prof. Eduardo Ono
 
     _Site OK. É um "game" bastante simples mas que pode ter uma aplicação relevante._
     _Lembro-me de ter usado algo parecido para testar a precisão de mouses ópticos._
-    _Sugestão: Identificar o auto do site._
+    _Sugestão: Identificar a autoria do site._
 
 * Vitor Moisés de Freitas Rey - https://vitormfrey.github.io/index.html
 

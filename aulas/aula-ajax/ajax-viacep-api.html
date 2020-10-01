@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>viacep</title>
+    <meta name="author" content="Eduardo Ono">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <style>
+        body {
+            margin: 5% 20% 5% 20%;
+            font-size: 1.1em;
+            background-color: beige;
+        }
+        hr {
+            border: 1px solid silver;
+        }
+        label {
+            display: block;
+            padding: 1.rem;
+        }
+        .output {
+            color: darkslategray;
+            font-size: 1rem;
+        }
+    </style>
+    <script type="text/javascript">
+
+        function limpaFormulario() {
+            var labels = document.getElementsByTagName("label");
+            for (var i = 1; i < labels.length; i++) {
+                var inputs = labels[i].getElementsByTagName("input");
+                inputs[0].value = "";
+            }
+        }
+
+        function pesquisarCep(valor) {
+            // Filtra apenas dígitos através de expressões regulares:
+            // https://www.w3schools.com/js/js_regexp.asp
+            var cep = valor.replace(/\D/g, '');
+            // Valida o cep
+            if (cep != "") {
+                // Expressão regular para validar o CEP
+                var validaCep = /^[0-9]{8}$/;
+                if (validaCep.test(cep)) {
+                    // Preenche os campos com "..." enquanto consulta o webservice
+                    var labels = document.getElementsByTagName("label");
+                    for (var i = 1; i < labels.length; i++) {
+                        var inputs = labels[i].getElementsByTagName("input");
+                        inputs[0].value = "...";
+                    }
+
+                    // Faz requisição à API
+                    $.ajax({
+                        type: "GET",
+                        dataType: "JSON",
+                        url: "https://viacep.com.br/ws/" + cep + "/json/",
+                        success: function(data) {
+                            document.getElementById("rua").value = (data.logradouro);
+                            document.getElementById("bairro").value = (data.bairro);
+                            document.getElementById("cidade").value = (data.localidade);
+                            document.getElementById("uf").value = (data.uf);
+                            document.getElementById("ibge").value = (data.ibge);
+                        }
+                    });
+                }
+                else {
+                    limpaFormulario();
+                }
+            }
+            else
+                limpaFormulario();
+        }  // function
+    </script>
+</head>
+
+<body>
+    <h1>Desenvolvimento Web</h1>
+    <hr>
+    <h4>Prof. Eduardo Ono</h4>
+    <p><br>
+    </p>
+    <hr>
+    <label>Cep: <input name="cep" id="cep" value="" size="10" maxlength="9" onblur="pesquisarCep(this.value);"
+            type="text"></label>
+    <input class="output" type="button" value="Buscar" onclick="pesquisarCep(document.getElementById('cep').value)">
+    <br>
+    <hr><br>
+    <label>Rua: <input name="rua" id="rua" class="output" size="60" type="text" disabled></label><br>
+    <label>Bairro: <input name="bairro" id="bairro" class="output" size="40" type="text" disabled></label><br>
+    <label>Cidade: <input name="cidade" id="cidade" class="output" size="40" type="text" disabled></label><br>
+    <label>Estado: <input name="uf" id="uf" class="output" size="2" type="text" disabled></label><br>
+    <label>IBGE: <input name="ibge" id="ibge" class="output" size="8" type="text" disabled></label><br>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p>Adaptado de: <a href="https://viacep.com.br/exemplo/javascript/">https://viacep.com.br/exemplo/javascript/</a>
+        <br>
+    </p>
+    <p> <br>
+    </p>
+</body>
+
+</html>
