@@ -2,13 +2,11 @@
 
 Prof. Eduardo Ono
 
-<br><br>
-
-## Ferramentas
 <br>
+
+## Ferramentas de Desenvolvimento
 
 > ### Git/GitHub
-<br>
 
 Comandos Básicos do Git
 
@@ -18,16 +16,15 @@ Vídeos:
 
 * [Filipe Deschamps] [680 Recursos Grátis para Programadores Frontend, Backend, DevOps e Designers](https://www.youtube.com/watch?v=tpaSZ8x21PI) (YouTube, 10:00)
 
-<br><br>
-
-## Editores/IDEs (Geral)
 <br>
 
+## Editores/IDEs (Geral)
+
 > ### Microsoft Visual Studio Code (VS Code)
+
 <br>
 
 ### Instalação (Windows)
-<br>
 
 Site do desenvolvedor:
 
@@ -37,12 +34,10 @@ Vídeos:
 
 * [freeCodeCamp.org] [Visual Studio Code Crash Course](https://www.youtube.com/watch?v=WPqXP_kLzpo) (YouTube, 1:32:34)
 
-
 <br>
 
 ### Instalação (Ubuntu)
 
-<br>
 No Terminal, digitar:
 
     $ sudo snap install code --classic
@@ -53,20 +48,17 @@ Extensões:
 
 * [Código Fonte TV] [23 Extensões do VS Code para 2020](https://www.youtube.com/watch?v=tmgpF7Bn3_E) (YouTube, 15:44)
 
-<br><br>
+<br>
 
 ## Editores HTML
-<br>
 
 > ### BlueGriffon
-<br>
 
 * http://bluegriffon.org/
 
 <br>
 
 ## Node.js e (pacote) live-server
-<br>
 
 > O **Node.js** é um ambiente de execução para JavaScript, sendo necessário para a instalação e execução de outros softwares.<br>
 
@@ -75,7 +67,6 @@ Extensões:
 <br>
 
 ### Instalação do Node.js (Windows)
-<br>
 
 * [Bóson Treinamentos] [Como baixar e instalar o Node.js no Windows 10](https://youtu.be/Wras1X6rBrc) (YouTube, 10:22)
 
@@ -99,29 +90,26 @@ Para executar o live-server, mudar para o diretório do projeto e digitar:
 
     live-server
 
-<br><br>
+<br>
 
 ## Sistemas Operacionais
-<br>
 
 > ### Linux (Ubuntu)
-<br>
 
 * [Fabio Akita] [O Guia DEFINITIVO de UBUNTU para Devs Iniciantes](https://youtu.be/epiyExCyb2s) (YouTube, 1:20:18)
 
 <br>
 
 > ### Microsoft Windows
-<br>
 
-<br><br>
+<br>
 
 ### Vídeos Recomendados
-<br>
 
 * [LINUXtips] [Giovanni Bassi - Usando um ambiente Linux completo no Windows com WSL e VSCode (Abr/2020)](https://www.youtube.com/watch?v=_Uqf5_kN6Rw) (YouTube, 2:10:00)
 
-<br><br>
+<br>
 
 ## Bibliografia
-<br>
+
+* BOOTH, Joseph D. [GitHub Succinctly](https://www.syncfusion.com/ebooks/github_succinctly), 80p, 2016.
