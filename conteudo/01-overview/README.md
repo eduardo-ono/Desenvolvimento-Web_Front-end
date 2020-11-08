@@ -25,13 +25,18 @@ Prof. Eduardo Ono
 
 <br>
 
-## Sites de Hospedagem
+## Alguns dos Principais Sites de Hospedagem no País
 
-* 
+* https://www.hostgator.com.br
+* https://www.locaweb.com.br
+* https://www.hostinger.com.br
 
-## Vídeos Recomendados - Dicas para a Carreira Profissional de um Desenvolvedor Web
 <br>
 
+## Vídeos Recomendados - Dicas para a Carreira de um Profissional
+<br>
+
+* [Programador BR] [O maior erro que você pode cometer para sua carreira](https://www.youtube.com/watch?v=2v-pT8rDvE4) (YouTube, 7:51, Nov/2020)
 * [Danki Code] [O que Você PRECISA Saber Ter SUCESSO Como Desenvolvedor Web nos Dias De Hoje!](https://www.youtube.com/watch?v=KProuszNyKQ) (12:01)
 * [Danki Code] [Como Divulgar o seu Trabalho de Programador](https://www.youtube.com/watch?v=mObLc_hn2t0) (4:10)
 

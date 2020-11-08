@@ -27,7 +27,7 @@ Função tradicional:
 function calcularIMC(peso, altura) {
     var imc = 0;
     if (peso > 0 && altura > 0) {
-        imc = peso / (altura * altura);
+        imc = peso / (altura ** 2);
     }
     return imc;
 }
@@ -36,18 +36,30 @@ var imc = calcularIMC(67, 1.73);
 console.log(imc.toFixed(1));
 ```
 
-Função Anônima:
+Função Anônima (função que não possui um nome):
 
 ```js
 const imc = (peso, altura) {
     var imc = 0;
     if (peso > 0 && altura > 0) {
-        imc = peso / (altura * altura);
+        imc = peso / (altura ** 2);
     }
     return imc;
 }
 
 console.log(imc(67, 1.73).toFixed(1));
+```
+
+Função Anônima "auto-executável":
+
+```js
+(function () {
+    var now = new Date();
+    var time = ("0" + now.getHours()).slice(-2) + ":" +
+        ("0" + now.getMinutes()).slice(-2) + ":" +
+        ("0" + now.getSeconds()).slice(-2);
+    console.log(time);
+})();
 ```
 
 </details>
@@ -61,7 +73,7 @@ Função tradicional:
 function calcularIMC(peso, altura) {
     var imc = 0;
     if (peso > 0 && altura > 0) {
-        imc = peso / (altura * altura);
+        imc = peso / (altura ** 2);
     }
     return imc;
 }
@@ -73,7 +85,7 @@ Arrow Function:
 const imc = (peso, altura) => {
     var imc = 0;
     if (peso > 0 && altura > 0) {
-        imc = peso / (altura * altura);
+        imc = peso / (altura ** 2);
     }
     return imc;
 }
@@ -82,7 +94,21 @@ console.log(imc(68, 1.73).toFixed(1));
 
 // ou
 
-const imc = (peso, altura) => (peso > 0 && altura > 0) ? peso / (altura * altura) : 0;
+const imc = (peso, altura) => (peso > 0 && altura > 0) ? peso / (altura ** 2) : 0;
+
+console.log(imc(68, 1.73).toFixed(1));
+```
+
+Arrow Function "auto-executável"
+
+```js
+(() => {
+    var now = new Date();
+    var time = ("0" + now.getHours()).slice(-2) + ":" +
+        ("0" + now.getMinutes()).slice(-2) + ":" +
+        ("0" + now.getSeconds()).slice(-2);
+    console.log(time);
+})();
 ```
 
 </details>
@@ -98,27 +124,6 @@ const pessoa = () => {
 const pessoa = () => ({"nome": "Fulano de Tal"});
 
 console.log(pessoa());
-
-```
-
-Função "auto-executável"
-
-```js
-(function () {
-    const pessoa = () => ({"nome": "Fulano de Tal"});
-
-    console.log(pessoa());
-})();
-```
-
-Arrow Function "auto-executável"
-
-```js
-(() => {
-    const pessoa = () => ({"nome": "Fulano de Tal"});
-
-    console.log(pessoa());
-})();
 ```
 
 </details>
