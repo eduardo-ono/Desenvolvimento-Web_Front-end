@@ -11,6 +11,8 @@ Prof. Eduardo Ono
 
     _Site com problema no conteúdo. Soma de dois produtos é algo como a x b + c x d._
 
+* Alan Martins - https://inspiring-villani-0bfdba.netlify.app
+
 * Ayla Monteiro - https://aylaholanda.github.io/developmentweb/
 
     _Site OK. O tema é interessante e o site tem potencial para se tornar uma boa referência em teclados mecânicos._
