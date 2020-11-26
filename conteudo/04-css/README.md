@@ -1,3 +1,5 @@
+### Desenvolvimento Web
+
 # CSS (Cascading Style Sheets)
 
 Prof. Eduardo Ono
@@ -7,25 +9,24 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/04-css
 <br>
 
 ## Aulas
-<br>
 
 * https://github.com/eduardo-ono/desenvolvimento-web/tree/master/aulas
 
+## Conceitos
+
 <br>
 
-## Vídeos
-<br>
+## Vídeos Relacionados
 
 ### Fundamentos
 
 * [Traversy Media] CSS Crash Course for Absolute Beginners | [YouTube](https://youtu.be/yfoY53QXEnI) (1:25:10)
-
 * [Derek Banas] CSS3 Tutorial | [YouTube](https://youtu.be/CUxH_rWSI1k) (59:36)
+* [DevPleno] [Descobrir trechos de CSS não utilizados - Dica Rápida](https://www.youtube.com/watch?v=NUxWnkyE0mY) (YouTube, 3:37, Jul/2017)
 
 <br>
 
 ### Tópicos
-<br>
 
 #### Flexbox
 
@@ -39,7 +40,6 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/04-css
 <br>
 
 ### Frameworks
-<br>
 
 #### Bootstrap
 
@@ -54,7 +54,6 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/04-css
 <br>
 
 ## Bibliografia
-<br>
 
 * [CSS Notes for Professionals](https://goalkicker.com/CSSBook/)
 
