@@ -55,7 +55,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
                     /*
                     */
                 }
-                #id_selector {
+                #id-selector {
                     /*
                     */
                 }
