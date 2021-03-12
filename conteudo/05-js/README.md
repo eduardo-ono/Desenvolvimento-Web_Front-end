@@ -147,7 +147,15 @@ console.log(pessoa());
 
 <br>
 
+## Canais do YouTube Recomendados
+
+* [queroser.ninja - Fernando Daciuk](https://www.youtube.com/channel/UCoMS25HuclMfa6IQJNcvh2w)
+
+<br>
+
 ## Bibliografia
 
 * FLANAGAN, David. [JavaScript - O Guia Definitivo, 6 ed.](https://www.academia.edu/40442620/JavaScript_O_Guia_Definitivo_v), Porto Alegre: Bookman, 2013.
 * [JavaScript Notes for Professionals](https://goalkicker.com/HTML5Book/) (PDF)
+
+<br>

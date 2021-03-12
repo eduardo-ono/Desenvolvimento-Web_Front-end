@@ -110,6 +110,8 @@ Prof. Eduardo Ono
 
     _Obs.: O site não tem objetivo definido..._
 
+* Lucas Barbosa - https://besck2000.github.io/prova-ono-ads/
+
 * Lucas Carbone - https://carbone-lucas.github.io/prova-ono/
 
     _Site OK, mas com propósito ambíguo._

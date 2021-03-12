@@ -1,4 +1,4 @@
-# Desenvolvimento Web
+# Desenvolvimento Web (Front-End)
 
 Prof. Eduardo Ono
 
@@ -10,34 +10,21 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 <br>
 
-## Conteúdo
+## Conteúdo Programático
 
-* Overview
-    * Desenvolvimento Front-End
-    * Desenvolvimento Back-End
-    * Desenvolvimento Full-Stack
-* Conceitos
-* Ambientes e Ferramentas de Desenvolvimento, Teste e Produção
-* HTML
-* CSS
-* JavaScript
+Aula | Data  | Conteúdo
+---  | ---   | ---
+ 01  | 26/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub
+ 02  | 05/03 | Configuração do GitHub Pages; Instalação e configuração do VS Code e extensão Live Server; Introdução à linguagem HTML
+ 03  | 12/03 | Introdução a CSS
+ 04  | 19/03 | Introdução à linguagem JavaScript
+ 05  | ---   | Programação Orientada à Objetos em JavaScript; Programação Funcional em JavaScript
 * APIs
 * JSON
 * AJAX
-* Bibliotecas
-    * jQuery
-    * Angular
-    * React.js
-    * Vue.js
+* Bibliotecas (jQuery, Angular, React.js, Vue.js)
 * Frameworks
     * Bootstrap
-
-<br>
-
-## Softwares
-
-* Microsoft Visual Studio Code - https://code.visualstudio.com
-* BlueGriffon - http://bluegriffon.org
 
 <br>
 
@@ -47,7 +34,10 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 <br>
 
-## Filmes recomendados
+## Softwares
+
+* Microsoft Visual Studio Code - https://code.visualstudio.com
+* BlueGriffon - http://bluegriffon.org
 
 <br>
 
@@ -63,8 +53,20 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 * [Yuval Noah Harari] [Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8) (YouTube, 1:33:30)
 
+<br>
+
 ## Bibliografia
 
 * https://git-scm.com/book/en/v2/
 * [Git Notes for Professionals](https://goalkicker.com/GitBook/)
 * BUNA, Samer. [React.js Succinctly](https://www.syncfusion.com/ebooks/reactjs_succinctly), 102p, 2016.
+
+<br>
+
+## Documentários Recomendados
+
+Thumbs | Título
+| --- | --- |
+[![Trailer](https://img.youtube.com/vi/oNUl_9ZYA6w/default.jpg)](https://youtu.be/oNUl_9ZYA6w) | History of the Internet / National Geographic 2018 / BBC Documentary 2018
+
+<br>
