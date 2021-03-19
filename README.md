@@ -12,13 +12,13 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 ## Conteúdo Programático
 
-Aula | Data  | Conteúdo
----  | ---   | ---
- 01  | 26/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub
- 02  | 05/03 | Configuração do GitHub Pages; Instalação e configuração do VS Code e extensão Live Server; Introdução à linguagem HTML
- 03  | 12/03 | Introdução a CSS
- 04  | 19/03 | Introdução à linguagem JavaScript
- 05  | ---   | Programação Orientada à Objetos em JavaScript; Programação Funcional em JavaScript
+| Aula | Data  | Conteúdo |
+| ---  | ---   | ---      |
+ 01 | 26/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub
+ 02 | 05/03 | Configuração do GitHub Pages; Instalação e configuração do VS Code e extensão Live Server; Introdução à linguagem HTML
+ 03 | 12/03 | Introdução a CSS
+ 04 | 19/03 | Introdução à linguagem JavaScript
+ 05 | ---   | Programação Orientada à Objetos em JavaScript; Programação Funcional em JavaScript
 * APIs
 * JSON
 * AJAX
@@ -65,8 +65,8 @@ Aula | Data  | Conteúdo
 
 ## Documentários Recomendados
 
-Thumbs | Título
+| Thumbs | Título |
 | --- | --- |
-[![Trailer](https://img.youtube.com/vi/oNUl_9ZYA6w/default.jpg)](https://youtu.be/oNUl_9ZYA6w) | History of the Internet / National Geographic 2018 / BBC Documentary 2018
+[![Trailer](https://img.youtube.com/vi/oNUl_9ZYA6w/default.jpg)](https://youtu.be/oNUl_9ZYA6w) | History of the Internet / National Geographic 2018 / BBC Documentary 2018 (54:02)
 
 <br>

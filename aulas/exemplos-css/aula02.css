@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto&display=swap');
+
+body {
+  font-family: 'Dancing Script', sans-serif;
+  
+}
+
+.global {
+  text-align: center;
+}
+
+.autor {
+  color: black;
+}

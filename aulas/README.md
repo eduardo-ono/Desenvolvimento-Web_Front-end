@@ -10,9 +10,15 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 ### Aula 01
 
-* Revisão de Redes, Protocolos de Comunicação, História da Internet
-* Overview de Desenvolvimento Web
-* Criação do Ambiente de Desenvolvimento
+  * Revisão de Redes, Protocolos de Comunicação, História da Internet
+    * [Learn Engineering] [How does the INTERNET work?](https://www.youtube.com/watch?v=x3c1ih2NJEg) (YouTube, 8:58)
+    * Vídeos
+      * [PowerCert Animated Videos] [IP Address - IPv4 vs IPv6 Tutorial](https://www.youtube.com/watch?v=ThdO9beHhpA) (YouTube, 9:22, Jul/2016)
+      * [PowerCert Animated Videos] [Como um servidor DNS (sistema de nomes de domínio) funciona](https://www.youtube.com/watch?v=mpQZVYPuDGU) (YouTube, 6:04, Mai/2016)
+      * [PowerCert Animated Videos] [TCP vs UDP Comparison](https://www.youtube.com/watch?v=uwoD5YsGACg) (YouTube, 4:36, Nov/2016)
+      * [PowerCert Animated Videos] [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig) (YouTube, 6:30, Dez/2018)
+  * Overview de Desenvolvimento Web
+  * Criação do Ambiente de Desenvolvimento (Git/GitHub)
     * Instalação e configuração da ferramenta Git
     * Criação e configuração de uma conta no GitHub
 
@@ -20,11 +26,14 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 ### Aula 02
 
-* Configuração do GitHub
+  * Configuração do GitHub
     * Habilitando o GitHub Pages (servidor Web do GitHub)
-* Configuração do ambiente de desenvolvimento
+  * Configuração do ambiente de desenvolvimento (VS Code)
     * Microsoft Visual Studio Code (VS Code)
-        * Extensão: Live Server (Ritwick Dey)
+      * Extensão: Live Server (Ritwick Dey)
+      * Vídeos
+        * [Código Fonte TV] [O Segredo de Como Escrever HTML 50% Mais Rápido no VS Code](https://www.youtube.com/watch?v=8jLfTDn3_TM) (YouTube, 7:56, Fev/2021)
+
 
 <br>
 
@@ -68,6 +77,16 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
             <link rel="stylesheet" href="mystyle.css">
         </head>
         ```
+  * SASS
+    * Conceito
+      * [Código Fonte TV] [Sass // Dicionário do Programador](https://www.youtube.com/watch?v=WJSJCduJCQM) (YouTube, 4:45, Jul/2018)
+
+<br>
+
+## Aula 04: CSS (Cont.); Introdução à Linguagem JavaScript
+
+  *
+
 <br>
 
 ## Softwares
