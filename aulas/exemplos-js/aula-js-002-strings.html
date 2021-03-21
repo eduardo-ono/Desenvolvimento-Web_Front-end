@@ -14,22 +14,23 @@
     </p>
     <p id="nome">Nome:</p>
     <p id="tamanho-nome">Tamanho do nome (em caracteres):</p>
-    <button name="exibirButton" type="button" onclick="exibirDados()">Exibir</button><button
-      type="button" style="width: 64px" onclick="alterarDados()">Alterar</button>
+    <button name="exibirButton" type="button" onclick="exibirDados()">Exibir</button><button
+
+      type="button" style="width: 64px" onclick="javascript:alterarDados()">Alterar</button>
     <script>
       
       function exibirDados() {
         var elNome = document.getElementById("nome");
-        var str = elNome.innerHTML;
-        str += "\n";
-        str += elTamanhoNome.innerHTML;
+        var str = "\tTeste\n";
+        str += elNome.innerHTML;
         alert(str);
       }  // exibirDados()
       
     	function alterarDados() {
-        str nome = "Fulano de Tal";
-        el.innerHTML = "Nome: Fulano de Tal";
-        el.innerHTML = "Tamanho do nome: ", nome.length); 
+        var el = document.getElementById("nome");
+        var nome = "Fulano de Tal";
+        el.innerHTML = "Nome: Fulano de Tal<br>";
+        el.innerHTML += "Tamanho do nome: " + nome.length; 
       }              
     </script>
   </body>
