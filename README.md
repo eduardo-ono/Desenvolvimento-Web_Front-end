@@ -15,16 +15,13 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 | Aula | Data  | Conteúdo |
 | ---  | ---   | ---      |
  01 | 26/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub
- 02 | 05/03 | Configuração do GitHub Pages; Instalação e configuração do VS Code e extensão Live Server; Introdução à linguagem HTML
+ 02 | 05/03 | Configuração do GitHub Pages; Instalação e configuração do VS Code; Introdução à linguagem HTML
  03 | 12/03 | Introdução a CSS
  04 | 19/03 | Introdução à linguagem JavaScript
- 05 | ---   | Programação Orientada à Objetos em JavaScript; Programação Funcional em JavaScript
-* APIs
-* JSON
-* AJAX
-* Bibliotecas (jQuery, Angular, React.js, Vue.js)
-* Frameworks
-    * Bootstrap
+ 05 | 26/03 | Programação Funcional e Orientada à Objetos em JavaScript
+ 06 | 02/04 | APIs, JSON, AJAX
+ 07 | 09/04 | Frameworks: Bootstrap
+ 08 | 16/04 | Desenvolvimento Back-End; Introdução à linguagem PHP
 
 <br>
 
@@ -43,10 +40,13 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 ## Bibliografia
 
+| Capa | Descrição |
+| ---  | --- |
+<img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | [FLANAGAN_2013] FLANAGAN, David; **JavaScript - O Guia Definitivo (6e)**, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+
   * [CHACON_2014] CHACON, Scott; STRAUB, Ben; [**Pro Git (2e)**](https://git-scm.com/book/en/v2), Apress, 2014.
 
-  * [FLANAGAN_2013] FLANAGAN, David; **JavaScript - O Guia Definitivo (6e)**, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
-  
+  * 
 <br>
 
 ## Bibliografia Complementar
@@ -59,7 +59,9 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 ## Vídeos Recomendados
 
-* [Yuval Noah Harari] [Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8) (YouTube, 1:33:30)
+| Thumb | Título |
+| --- | --- |
+[![Trailer](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg)](https://youtu.be/Boj9eD0Wug8) | [Yuval Noah Harari] [Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8) (YouTube, 1:33:30)
 
 <br>
 
@@ -68,9 +70,8 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 | Thumb | Título |
 | --- | --- |
 [![Trailer](https://img.youtube.com/vi/oNUl_9ZYA6w/default.jpg)](https://youtu.be/oNUl_9ZYA6w) | History of the Internet / National Geographic 2018 / BBC Documentary 2018 (54:02)
-
-* [PC Tweaks] [History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw) (54:02)
-* [The Documentary Network] [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (56:08)
-* [DW Documentary] [Internet from outer space | DW Documentary](https://www.youtube.com/watch?v=IsqSwMsI_mc) (YouTube, 42:25, Out/2020)
+[![Trailer](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg)](https://youtu.be/ILQeXZTOpkw) | [PC Tweaks] [History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw) (54:02)
+[![Trailer](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg)](https://youtu.be/4Q7FTjhvZ7Y) | [The Documentary Network] [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (56:08)
+[![Trailer](https://img.youtube.com/vi/IsqSwMsI_mc/default.jpg)](https://youtu.be/IsqSwMsI_mc) | [DW Documentary] [Internet from outer space / DW Documentary](https://www.youtube.com/watch?v=IsqSwMsI_mc) (YouTube, 42:25, Out/2020)
 
 <br>
