@@ -18,10 +18,10 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
  02 | 05/03 | Configuração do GitHub Pages; Instalação e configuração do VS Code; Introdução à linguagem HTML
  03 | 12/03 | Introdução a CSS
  04 | 19/03 | Introdução à linguagem JavaScript
- 05 | 26/03 | Programação Funcional e Orientada à Objetos em JavaScript
- 06 | 02/04 | APIs, JSON, AJAX
+ 05 | 26/03 | APIs, JSON, AJAX
+ 06 | Fer.  | Programação Funcional e Orientada à Objetos em JavaScript
  07 | 09/04 | Frameworks: Bootstrap
- 08 | 16/04 | Desenvolvimento Back-End; Introdução à linguagem PHP
+ 08 | 16/04 | Desenvolvimento Back-End; Introdução à linguagem PHP / 1a. AVALIAÇÃO
 
 <br>
 
