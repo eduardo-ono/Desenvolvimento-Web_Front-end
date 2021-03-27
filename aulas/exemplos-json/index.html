@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Eduardo Ono">
+    <meta name="keywords" content="masterpieces">
+    <title>Praising Pop</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css">
+    <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap');
+        body {
+            background-image: url('./background.jpg');
+            background-repeat: no-repeat;
+            /* background-size: cover; */
+            font-family: 'Dancing Script', cursive;
+            font-size: 1.6rem;
+        }
+        footer {
+            margin: 0% 20% 0% 20%;
+            text-align: center;
+        }
+        hr {
+            border: 1px solid lightgray;
+        }
+        .title {
+            font-family: 'Homemade Apple', cursive;
+            color: lightgray;
+            font-size: 4rem;
+            text-align: center;
+        }
+        .content {
+            margin: 5% 20% 5% 20%;
+            text-align: center;
+            padding-top: 20rem;
+        }
+        .musica {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        figcaption {
+            font-size: 1.3rem;
+        }
+    </style>
+    <script>
+        function exibirMusicas() {
+            var json = `{
+                "musicas": [
+                {
+                    "id": "eAti8JNmJi8",
+                    "title": "Goodbye Yellow Brick Road",
+                    "artist": "Sara Bareilles",
+                    "year": 2015,
+                    "info": "American Voices with Renée Fleming (s42e5), Jan 9, 2015",
+                    "composers": "Elton John",
+                    "original-artist": "Elton John",
+                    "original-year": ""
+                },
+                {
+                    "id": "kbD7OFIQJ4s",
+                    "title": "Bohemian Rhapsody",
+                    "artist": "Yuval Salomon",
+                    "year": 0,
+                    "info": "",
+                    "composers": "Freddie Mercury",
+                    "original-artist": "Elton John",
+                    "original-year": ""
+                },
+                {
+                    "id": "relfz3ZFsZA",
+                    "title": "The Sound of Silence",
+                    "artist": "Emma Louise and Husky Gawenda",
+                    "year": 0,
+                    "info": "",
+                    "composers": "Paul Simon",
+                    "original-artist": "Simon and Garfunkel",
+                    "original-year": ""
+                },
+                {
+                    "id": "bx4wz55J0Qg",
+                    "title": "Purple Rain",
+                    "artist": "Kent Nishimura",
+                    "year": 0,
+                    "info": "",
+                    "composers": "Prince",
+                    "original-artist": "Prince",
+                    "original-year": ""
+                },
+                {
+                    "id": "SgI1yJ5DgL4",
+                    "title": "What a Wonderful World",
+                    "artist": "Kent Nishimura",
+                    "year": 0,
+                    "info": "",
+                    "composers": "Bob Thiele, George David Weiss",
+                    "original-artist": "Louis Armstrong",
+                    "original-year": ""
+                }
+            ]}`;
+            var obj = JSON.parse(json);
+            var str = "";
+            // Percorre o vetor musicas
+            for (var i = 0; i < obj['musicas'].length; i++) {
+                var id = obj['musicas'][i]['id'];
+                var title = obj['musicas'][i]['title'];
+                var artist = obj['musicas'][i]['artist'];
+                var info = obj['musicas'][i]['info'];
+                str += '<div class="musica"><figure>';
+                str += "<p>" + artist + " - " + title + "</p>";
+                str += '<p><a data-fancybox href="https://www.youtube.com/watch?v=' + id + '">' +
+                    '<img src="http://img.youtube.com/vi/' + id + '/mqdefault.jpg" alt=""></a></p>';
+                str += '<figcaption>' + info + '</figcaption>';
+                str += '</figure></div>';
+            }
+            var conteudo = document.getElementById('musicas');
+            conteudo.innerHTML = str;
+        }
+    </script>
+</head>
+
+<body onload="exibirMusicas()">
+    <div class="title">
+        <p>Praising Pop</p>
+    </div>
+    <div class="content">
+        <p><b>Praising Pop</b> is an attempt to create a site devoted to those artists who depict Pop Music through transcendental renderings, albeit retaining the "soul" of the original song.</p>
+        <p><br></p>
+        <div id="musicas"></div>
+        <p><br></p>
+    </div>
+    <footer>
+        <hr>
+        <p>Eduardo Ono, 2020.</p>
+    </footer>
+</body>
+
+</html>
