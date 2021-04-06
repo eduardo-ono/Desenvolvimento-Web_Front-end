@@ -42,7 +42,7 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 | Capa | Descrição |
 | ---  | --- |
-<img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | [ROBBIN+2018] Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics (5e), 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
+<img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | <p>[ROBBINS_2018]</p>ROBBINS, Jennifer N.; **Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5.ed.**, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
 <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | [FLANAGAN_2013] FLANAGAN, David; **JavaScript - O Guia Definitivo (6e)**, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
 
 <br>
@@ -51,9 +51,10 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 | Capa | Descrição |
 | ---  | ---       |
-<img src="https://git-scm.com/images/progit2.png" width="100px"> | [CHACON_2014] CHACON, Scott; STRAUB, Ben; [**Pro Git (2e)**](https://git-scm.com/book/en/v2), Apress, 2014.
+<img src="https://git-scm.com/images/progit2.png" width="100px"> | <p>[CHACON_2014]</p>CHACON, Scott; STRAUB, Ben; [**Pro Git, 2. ed.**](https://git-scm.com/book/en/v2), Apress, 2014.
 <img src="https://goalkicker.com/GitBook/GitGrow.png" width="100px"> | [Git Notes for Professionals](https://goalkicker.com/GitBook/)
-<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/react-succinctly.png" width="100px"> | [BUNA_2016] BUNA, Samer. [React.js Succinctly](https://www.syncfusion.com/ebooks/reactjs_succinctly), 102p, 2016.
+<img src="./referencias/capas/haverbeke-3e_2018.jpg" width="100px"> | <p>[HAVERBEKE-3e_2018]</p>HAVERBEKE, Marijn. [**Eloquent JavaScript, 3. ed.**](https://archive.org/details/2018eloquentjavascript), 2018.
+<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/react-succinctly.png" width="100px"> | <p>[BUNA_2016]</p>BUNA, Samer. [React.js Succinctly](https://www.syncfusion.com/ebooks/reactjs_succinctly), 102p, 2016.
 
 <br>
 
