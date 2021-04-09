@@ -97,17 +97,33 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 ## Aula 05 - Criando Formulários com HTML e CSS
 
-  * Tags input
-    * Vídeo Aula
-      * [] []() (YouTube, )
+  * Formulário geral
+    * Vídeo Aulas
+      [] []() (YouTube, )
+
+  * Formulário de login responsivo
+    * Vídeo Aulas
+      * [Girl Coding] [Criando um formulário de login responsivo com HTML e CSS](https://www.youtube.com/watch?v=MkXuQ9CcHqU) (YouTube, 23:16, Jan/2021)
 
 <br>
 
 ## Aula 06 - AJAX / Uso de APIs
 
-  * APIs
-    ViaCEP
-    * Exemplo
-      * [./exemplos/api/viacep.html](./exemplos/api/viacep.html)
+  * ### CSS - Position
+    * **Vídeo Aulas**
+      * [Girl Coding] [Entendendo sobre position no CSS](https://www.youtube.com/watch?v=Y7NeqpwLM2g) (YouTube, 12:08, Jan/2021)
+
+  * ### AJAX
+    * **Conceitos**
+
+  * ### APIs
+
+    * **API de Cotações de Moedas**
+      * https://eduardo-ono.github.io/desenvolvimento-web/aulas/exemplos/api/cotacao-dolar.html
+      * Código-fonte: [./exemplos/api/cotacao-dolar.html](./exemplos/api/cotacao-dolar.html)
+
+    * **ViaCEP**
+      * https://eduardo-ono.github.io/desenvolvimento-web/aulas/exemplos/api/viacep.html
+      * Código-fonte: [./exemplos/api/viacep.html](./exemplos/api/viacep.html)
 
 <br>
