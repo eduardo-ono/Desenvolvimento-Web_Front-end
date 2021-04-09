@@ -42,8 +42,8 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 | Capa | Descrição |
 | ---  | --- |
-<img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | <p>[ROBBINS_2018]</p>ROBBINS, Jennifer N.; **Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5.ed.**, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
-<img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | [FLANAGAN_2013] FLANAGAN, David; **JavaScript - O Guia Definitivo (6e)**, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | <p>[ROBBINS_2018]</p>ROBBINS, Jennifer N.; **Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5. ed.**, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
+| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <p>[FLANAGAN_2013]</p>FLANAGAN, David; **JavaScript - O Guia Definitivo, 6. ed.**, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
 
 <br>
 

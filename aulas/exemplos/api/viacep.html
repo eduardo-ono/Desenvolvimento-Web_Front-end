@@ -4,22 +4,33 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <title>viacep</title>
     <meta name="author" content="Eduardo Ono">
+    <link rel="stylesheet" href="../style.css">
     <style>
-      body {
-        margin: 5% 20% 5% 20%;
+      hr {
+        border: 1px solid;
+        color: silver;
       }
-    	label {
+      label {
+        display: inline-block;
+        width: 100px;
+        margin: 0 0 7px 0;
       }
-    </style>
-    <script type="text/javascript">
-      
-      function limpaFormulario()
+      input {
+        display: inline-block;
+        width: 300px;
+        height: 30px;
+        margin: 0 0 7px 0;
+      }
+      </style>
+    <script type="text/javascript" src="../main.js"></script>
+    <script>
+      function popularFormulario(str)
       {
         var labels = document.getElementsByTagName("label");
         for (var i = 1; i < labels.length; i++)
         {
           var inputs = labels[i].getElementsByTagName("input");
-          inputs[0].value = "";
+          inputs[0].value = str;
         }
       }
       
@@ -35,11 +46,11 @@
         }
         else  // CEP não encontrado
         {
-          limpaFormulario();
+          popularFormulario("Não encontrado!");
         }
       }
       
-    	function pesquisarCep(valor)
+      function pesquisarCep(valor)
       {
         // Filtra apenas dígitos
         var cep = valor.replace(/\D/g, '');
@@ -51,31 +62,27 @@
           if (validaCep.test(cep))
           {
             // Preenche os campos com "..." enquanto consulta o webservice
-            var labels = document.getElementsByTagName("label");
-            for (var i = 1; i < labels.length; i++)
-            {
-              var inputs = labels[i].getElementsByTagName("input");
-              inputs[0].value = "...";
-            }
+            popularFormulario("...");
           
             // Cria um elemento JavaScript e sincroniza com o callback
             var script = document.createElement("script");
             script.src = "https://viacep.com.br/ws/" + cep + "/json/?callback=meu_callback";
             document.body.appendChild(script);
-        	}
-        	else
+          }
+          else
           {
-         		limpaFormulario();
-        	}
+             popularFormulario(""); // Limpa os inputs
+          }
         }
         else
-          limpaFormulario();
+          popularFormulario(""); // Limpa os inputs
       }  // function
     </script>
   </head>
   <body>
-    <p>Desenvolvimento Web</p>
-    <p>Prof. Eduardo Ono</p>
+    <h4>Desenvolvimento Web (Front-End)</h4>
+    <h1>API: viaCEP</h1>
+    <p class="autor">Prof. Eduardo Ono</p>
     <p><br>
     </p>
     <label>Cep: <input name="cep" id="cep" value="" size="10" maxlength="9" onblur="pesquisarCep(this.value);"
@@ -94,12 +101,14 @@
     <label>IBGE: <input name="ibge" id="ibge" class="endereco" size="8" type="text"></label><br>
     <p><br>
     </p>
-    <p><br>
-    </p>
     <p>Adaptado de: <a href="https://viacep.com.br/exemplo/javascript/">https://viacep.com.br/exemplo/javascript/</a>
       <br>
     </p>
     <p> <br>
     </p>
-  </body>
+    <div id="footer"></div>
+    <script>
+      adicionarFooter();
+    </script>
+  </body=>
 </html>
