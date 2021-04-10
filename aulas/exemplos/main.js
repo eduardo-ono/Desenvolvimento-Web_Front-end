@@ -17,3 +17,9 @@ function adicionarFooter()
     // document.write(str);
     footer[0].innerHTML = str;
 }
+
+function adicionarTudo()
+{
+  adicionarHeader();
+  adicionarFooter();
+}

@@ -20,7 +20,11 @@
               str += "Código: " + data["USD"]["code"] + "<br>";
               str += "Nome: " + data["USD"]["name"] + "<br>";
               str += "Compra: " + data["USD"]["bid"] + "<br>";
-              str += "Venda: " + data["USD"]["ask"] + "<br>";
+              str += "Venda: " + data["USD"]["ask"] + "<br><br>";
+              str += "Código: " + data["EUR"]["code"] + "<br>";
+              str += "Nome: " + data["EUR"]["name"] + "<br>";
+              str += "Compra: " + data["EUR"]["bid"] + "<br>";
+              str += "Venda: " + data["EUR"]["ask"] + "<br>";
               var conteudo = document.getElementById('conteudo');
               conteudo.innerHTML = str;
           }

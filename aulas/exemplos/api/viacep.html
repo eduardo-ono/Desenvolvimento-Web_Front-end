@@ -63,7 +63,6 @@
           {
             // Preenche os campos com "..." enquanto consulta o webservice
             popularFormulario("...");
-          
             // Cria um elemento JavaScript e sincroniza com o callback
             var script = document.createElement("script");
             script.src = "https://viacep.com.br/ws/" + cep + "/json/?callback=meu_callback";
@@ -80,7 +79,7 @@
     </script>
   </head>
   <body>
-    <h4>Desenvolvimento Web (Front-End)</h4>
+    <div id="header"></div>
     <h1>API: viaCEP</h1>
     <p class="autor">Prof. Eduardo Ono</p>
     <p><br>
@@ -106,9 +105,11 @@
     </p>
     <p> <br>
     </p>
-    <div id="footer"></div>
+    <footer></footer>
     <script>
-      adicionarFooter();
+      // adicionarHeader();
+      // adicionarFooter();
+      adicionarTudo();
     </script>
-  </body=>
+  </body>
 </html>
