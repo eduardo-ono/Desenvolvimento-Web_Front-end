@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AJAX</title>
+
+  <script>
+    function init() {
+      var btn = document.getElementById("btn");
+      btn.addEventListener("click", function () {
+        var request = new XMLHttpRequest();
+        var url = 'https://eduardo-ono.github.io/Praising-Pop/db.json';
+        request.open('GET', url);
+        request.onload = function() {
+          console.log(request.responseText);
+          var data = JSON.parse(request.responseText);
+          renderHTML(data);
+        }
+        request.send();
+      });
+    }
+
+    function renderHTML(data) {
+      var conteudo = document.getElementById("content");
+      var str = "teste";
+      for (i = 0; i < data.length; i++) {
+        str += "<p>" + data[i].id + "</p>";
+      }
+    }
+  </script>
+
+</head>
+<body onload="init()">
+   <button id="btn">Teste</button>
+  <div id="content"></div>
+</body>
+</html>

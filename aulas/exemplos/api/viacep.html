@@ -1,115 +1,113 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>viacep</title>
-    <meta name="author" content="Eduardo Ono">
-    <link rel="stylesheet" href="../style.css">
-    <style>
-      hr {
-        border: 1px solid;
-        color: silver;
-      }
-      label {
-        display: inline-block;
-        width: 100px;
-        margin: 0 0 7px 0;
-      }
-      input {
-        display: inline-block;
-        width: 300px;
-        height: 30px;
-        margin: 0 0 7px 0;
-      }
-      </style>
-    <script type="text/javascript" src="../main.js"></script>
-    <script>
-      function popularFormulario(str)
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <title>viacep</title>
+  <meta name="author" content="Eduardo Ono">
+  <link rel="stylesheet" href="../style.css">
+
+  <style>
+    hr {
+      border: 1px solid;
+      color: silver;
+    }
+    label {
+      display: inline-block;
+      width: 100px;
+      margin: 0 0 7px 0;
+    }
+    input {
+      display: inline-block;
+      width: 300px;
+      height: 30px;
+      margin: 0 0 7px 0;
+    }
+  </style>
+
+  <script type="text/javascript" src="../main.js"></script>
+
+  <script>
+    function popularFormulario(str)
+    {
+      var labels = document.getElementsByTagName("label");
+      for (var i = 1; i < labels.length; i++)
       {
-        var labels = document.getElementsByTagName("label");
-        for (var i = 1; i < labels.length; i++)
-        {
-          var inputs = labels[i].getElementsByTagName("input");
-          inputs[0].value = str;
-        }
+        var inputs = labels[i].getElementsByTagName("input");
+        inputs[0].value = str;
       }
-      
-      function meu_callback(conteudo)
+    }
+    
+    function meu_callback(conteudo)
+    {
+      if (!("erro" in conteudo))
       {
-        if (!("erro" in conteudo))
-        {
-          document.getElementById("rua").value = (conteudo.logradouro);
-          document.getElementById("bairro").value = (conteudo.bairro);
-          document.getElementById("cidade").value = (conteudo.localidade);
-          document.getElementById("uf").value = (conteudo.uf);
-          document.getElementById("ibge").value = (conteudo.ibge);
-        }
-        else  // CEP não encontrado
-        {
-          popularFormulario("Não encontrado!");
-        }
+        document.getElementById("rua").value = (conteudo.logradouro);
+        document.getElementById("bairro").value = (conteudo.bairro);
+        document.getElementById("cidade").value = (conteudo.localidade);
+        document.getElementById("uf").value = (conteudo.uf);
+        document.getElementById("ibge").value = (conteudo.ibge);
       }
-      
-      function pesquisarCep(valor)
+      else  // CEP não encontrado
       {
-        // Filtra apenas dígitos
-        var cep = valor.replace(/\D/g, '');
-        // Valida o cep
-        if (cep != "")
+        popularFormulario("Não encontrado!");
+      }
+    }
+    
+    function pesquisarCep(valor)
+    {
+      // Filtra apenas dígitos
+      var cep = valor.replace(/\D/g, '');
+      // Valida o cep
+      if (cep != "")
+      {
+        // Expressão regular para validar o CEP
+        var validaCep = /^[0-9]{8}$/;
+        if (validaCep.test(cep))
         {
-          // Expressão regular para validar o CEP
-          var validaCep = /^[0-9]{8}$/;
-          if (validaCep.test(cep))
-          {
-            // Preenche os campos com "..." enquanto consulta o webservice
-            popularFormulario("...");
-            // Cria um elemento JavaScript e sincroniza com o callback
-            var script = document.createElement("script");
-            script.src = "https://viacep.com.br/ws/" + cep + "/json/?callback=meu_callback";
-            document.body.appendChild(script);
-          }
-          else
-          {
-             popularFormulario(""); // Limpa os inputs
-          }
+          // Preenche os campos com "..." enquanto consulta o webservice
+          popularFormulario("...");
+          // Cria um elemento JavaScript e sincroniza com o callback
+          var script = document.createElement("script");
+          script.src = "https://viacep.com.br/ws/" + cep + "/json/?callback=meu_callback";
+          document.body.appendChild(script);
         }
         else
-          popularFormulario(""); // Limpa os inputs
-      }  // function
-    </script>
-  </head>
-  <body>
-    <div id="header"></div>
-    <h1>API: viaCEP</h1>
-    <p class="autor">Prof. Eduardo Ono</p>
-    <p><br>
-    </p>
-    <label>Cep: <input name="cep" id="cep" value="" size="10" maxlength="9" onblur="pesquisarCep(this.value);"
+        {
+            popularFormulario(""); // Limpa os inputs
+        }
+      }
+      else
+        popularFormulario(""); // Limpa os inputs
+    }  // function
+  </script>
+</head>
 
-        type="text"></label><br>
+<body>
+  <div id="header"></div>
+  <h1>API: viaCEP</h1>
+  <p class="autor">Prof. Eduardo Ono</p>
+  <p><br>
+  </p>
+  <label>Cep: <input name="cep" id="cep" value="" size="10" maxlength="9" onblur="pesquisarCep(this.value);" type="text"></label><br>
+  <br>
+  <hr><br>
+  <label>Rua: <input name="rua" id="rua" class="endereco" size="60" type="text"></label><br>
+  <label>Bairro: <input name="bairro" id="bairro" class="endereco" size="40" type="text"></label><br>
+  <label>Cidade: <input name="cidade" id="cidade" class="endereco" size="40" type="text"></label><br>
+  <label>Estado: <input name="uf" id="uf" class="endereco" size="2" type="text"></label><br>
+  <label>IBGE: <input name="ibge" id="ibge" class="endereco" size="8" type="text"></label><br>
+  <p><br>
+  </p>
+  <p>Adaptado de: <a href="https://viacep.com.br/exemplo/javascript/">https://viacep.com.br/exemplo/javascript/</a>
     <br>
-    <hr><br>
-    <label>Rua: <input name="rua" id="rua" class="endereco" size="60" type="text"></label><br>
-    <label>Bairro: <input name="bairro" id="bairro" class="endereco" size="40"
-
-        type="text"></label><br>
-    <label>Cidade: <input name="cidade" id="cidade" class="endereco" size="40"
-
-        type="text"></label><br>
-    <label>Estado: <input name="uf" id="uf" class="endereco" size="2" type="text"></label><br>
-    <label>IBGE: <input name="ibge" id="ibge" class="endereco" size="8" type="text"></label><br>
-    <p><br>
-    </p>
-    <p>Adaptado de: <a href="https://viacep.com.br/exemplo/javascript/">https://viacep.com.br/exemplo/javascript/</a>
-      <br>
-    </p>
-    <p> <br>
-    </p>
-    <footer></footer>
-    <script>
-      // adicionarHeader();
-      // adicionarFooter();
-      adicionarTudo();
-    </script>
-  </body>
+  </p>
+  <p> <br>
+  </p>
+  <footer></footer>
+  <script>
+    // adicionarHeader();
+    // adicionarFooter();
+    adicionarTudo();
+  </script>
+</body>
 </html>
