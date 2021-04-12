@@ -10,7 +10,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 <details>
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
-    Aula 01 - Introdução ao Desenvolvimento Web
+    <strong>Aula 01 - Introdução ao Desenvolvimento Web</strong>
   </summary>
   <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
@@ -35,7 +35,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 <details>
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
-    Aula 02 - Configurando o Ambiente de Desenvolvimento / Introdução ao HTML
+    <strong>Aula 02 - Configurando o Ambiente de Desenvolvimento; Introdução ao HTML</strong>
   </summary>
   <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
@@ -57,7 +57,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 <details>
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
-    Aula 03 - Introdução ao CSS (Cascading Style Sheets)
+    <strong>Aula 03 - Introdução ao CSS (Cascading Style Sheets)</strong>
   </summary>
   <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
@@ -73,34 +73,35 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
         <p style="color: red">Este é um parágrafo escrito na cor vermelha.</p>
         <p>Esta é um parágrafo com esta <spam style="color: blue">palavra</spam> em cor azul.</p>
         ```
-        * CSS Interno
-        ```html
-        <head>
-            <style>
-                body {
-                    background-color: yellow;  /* cor de fundo */
-                }
-                p {
-                    color: blue;
-                    margin-left: 40px;
-                }
-                .class-selector {
-                    /*
-                    */
-                }
-                #id-selector {
-                    /*
-                    */
-                }
-            </style>
-        </head>
-        ```
-        * CSS Externo
-        ```html
-        <head>
-            <link rel="stylesheet" href="mystyle.css">
-        </head>
-        ```
+    * CSS Interno
+      ```html
+      <head>
+          <style>
+              body {
+                  background-color: yellow;  /* cor de fundo */
+              }
+              p {
+                  color: blue;
+                  margin-left: 40px;
+              }
+              .class-selector {
+                  /*
+                  */
+              }
+              #id-selector {
+                  /*
+                  */
+              }
+          </style>
+      </head>
+      ```
+    * CSS Externo
+    ```html
+    <head>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+    ```
+
   * SASS
     * Conceitos
       * [Código Fonte TV] [Sass // Dicionário do Programador](https://www.youtube.com/watch?v=WJSJCduJCQM) (YouTube, 4:45, Jul/2018)
@@ -111,7 +112,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 <details>
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
-    Aula 04 - CSS (Cont.) / Introdução à Linguagem JavaScript
+    <strong>Aula 04 - CSS (Cont.); Introdução à Linguagem JavaScript</strong>
   </summary>
   <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
@@ -124,7 +125,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 <details>
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
-    Aula 05 - Criando Formulários com HTML e CSS
+    <strong>Aula 05 - Criando Formulários com HTML e CSS</strong>
   </summary>
   <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
@@ -142,7 +143,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 <details>
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
-    Aula 06 - AJAX / Uso de APIs
+    <strong>Aula 06 - AJAX / Uso de APIs</strong>
   </summary>
   <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
