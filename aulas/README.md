@@ -73,6 +73,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
         <p style="color: red">Este é um parágrafo escrito na cor vermelha.</p>
         <p>Esta é um parágrafo com esta <spam style="color: blue">palavra</spam> em cor azul.</p>
         ```
+    
     * CSS Interno
       ```html
       <head>
@@ -95,6 +96,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
           </style>
       </head>
       ```
+    
     * CSS Externo
     ```html
     <head>
@@ -147,14 +149,14 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   </summary>
   <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
-  * ### CSS - Position
+  * CSS - Position
     * **Vídeo Aulas**
       * [Girl Coding] [Entendendo sobre position no CSS](https://www.youtube.com/watch?v=Y7NeqpwLM2g) (YouTube, 12:08, Jan/2021)
 
-  * ### AJAX
+  * AJAX
     * **Conceitos**
 
-  * ### APIs
+  * APIs
 
     * **API de Cotações de Moedas**
       * https://eduardo-ono.github.io/desenvolvimento-web/aulas/exemplos/api/cotacao-dolar.html
