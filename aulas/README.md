@@ -8,23 +8,36 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 
 <br>
 
-### Aula 01 - Introdução ao Desenvolvimento Web
+<details>
+  <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
+    Aula 01 - Introdução ao Desenvolvimento Web
+  </summary>
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
 
   * Revisão de Redes; Protocolos de Comunicação; História da Internet
     * Vídeos
+      * [TecMundo] [A História da Internet - TecMundo](https://www.youtube.com/watch?v=pKxWPo73pX0) (YouTube, 14:34, Abr/2018)
       * [Learn Engineering] [How does the INTERNET work?](https://www.youtube.com/watch?v=x3c1ih2NJEg) (YouTube, 8:58)
       * [PowerCert Animated Videos] [IP Address - IPv4 vs IPv6 Tutorial](https://www.youtube.com/watch?v=ThdO9beHhpA) (YouTube, 9:22, Jul/2016)
       * [PowerCert Animated Videos] [Como um servidor DNS (sistema de nomes de domínio) funciona](https://www.youtube.com/watch?v=mpQZVYPuDGU) (YouTube, 6:04, Mai/2016)
       * [PowerCert Animated Videos] [TCP vs UDP Comparison](https://www.youtube.com/watch?v=uwoD5YsGACg) (YouTube, 4:36, Nov/2016)
       * [PowerCert Animated Videos] [SSL, TLS, HTTP, HTTPS Explained](https://www.youtube.com/watch?v=hExRDVZHhig) (YouTube, 6:30, Dez/2018)
+  
   * Overview de Desenvolvimento Web
-  * Criação do Ambiente de Desenvolvimento (Git/GitHub)
+  
+  * Criação do Ambiente de Desenvolvimento: Git/GitHub
     * Instalação e configuração da ferramenta Git
     * Criação e configuração de uma conta no GitHub
 
-<br>
+    <br>
+  </section>
+</details>
 
-### Aula 02 - Configurando o Ambiente de Desenvolvimento / Introdução ao HTML
+<details>
+  <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
+    Aula 02 - Configurando o Ambiente de Desenvolvimento / Introdução ao HTML
+  </summary>
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
 
   * Configuração do GitHub
     * Habilitando o GitHub Pages (servidor Web do GitHub)
@@ -38,9 +51,15 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   * Introdução ao HTML
     * Definição
 
-<br>
+    <br>
+  </section>
+</details>
 
-### Aula 03 - Introdução ao CSS (Cascading Style Sheets)
+<details>
+  <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
+    Aula 03 - Introdução ao CSS (Cascading Style Sheets)
+  </summary>
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
 
 * CSS (Cascading Style Sheets)
   * Conceitos
@@ -86,16 +105,28 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
     * Conceitos
       * [Código Fonte TV] [Sass // Dicionário do Programador](https://www.youtube.com/watch?v=WJSJCduJCQM) (YouTube, 4:45, Jul/2018)
 
-<br>
+    <br>
+  </section>
+</details>
 
-## Aula 04 - CSS (Cont.) / Introdução à Linguagem JavaScript
+<details>
+  <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
+    Aula 04 - CSS (Cont.) / Introdução à Linguagem JavaScript
+  </summary>
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
 
   * Introdução à linguagem JavaScript
     * Conceitos
 
-<br>
+    <br>
+  </section>
+</details>
 
-## Aula 05 - Criando Formulários com HTML e CSS
+<details>
+  <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
+    Aula 05 - Criando Formulários com HTML e CSS
+  </summary>
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
 
   * Formulário geral
     * Vídeo Aulas
@@ -105,9 +136,15 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
     * Vídeo Aulas
       * [Girl Coding] [Criando um formulário de login responsivo com HTML e CSS](https://www.youtube.com/watch?v=MkXuQ9CcHqU) (YouTube, 23:16, Jan/2021)
 
-<br>
+    <br>
+  </section>
+</details>
 
-## Aula 06 - AJAX / Uso de APIs
+<details>
+  <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
+    Aula 06 - AJAX / Uso de APIs
+  </summary>
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
 
   * ### CSS - Position
     * **Vídeo Aulas**
@@ -125,5 +162,9 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
     * **ViaCEP**
       * https://eduardo-ono.github.io/desenvolvimento-web/aulas/exemplos/api/viacep.html
       * Código-fonte: [./exemplos/api/viacep.html](./exemplos/api/viacep.html)
+
+    <br>
+  </section>
+</details>
 
 <br>

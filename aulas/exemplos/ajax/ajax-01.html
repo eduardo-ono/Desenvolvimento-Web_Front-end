@@ -13,7 +13,7 @@
         var request = new XMLHttpRequest();
         var url = 'https://eduardo-ono.github.io/Praising-Pop/db.json';
         request.open('GET', url);
-        request.onload = function() {
+        request.onload = function () {
           console.log(request.responseText);
           var data = JSON.parse(request.responseText);
           renderHTML(data);

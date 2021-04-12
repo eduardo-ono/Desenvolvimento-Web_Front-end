@@ -1,27 +1,41 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AJAX sem jQuery</title>
   <script>
-    var ajax = new XMLHttpRequest();
-    ajax.open('GET', 'https://github.com/eduardo-ono/Desenvolvimento-Web/conteudo/json/exemplos/colors.json');
-    ajax.send();
-    ajax.addEventListener('readystatechange', function () {
-      if (ajax.readyState === 4 && ajax.status === 200)
-      {
-        
-      }
-    });
+    function main() {
+      var ajax = new XMLHttpRequest();
+      ajax.open('GET', 'https://eduardo-ono.github.io/desenvolvimento-web/conteudo/json/exemplos/colors.json');
+      ajax.send();
+      ajax.addEventListener('readystatechange', function () {
+        if (ajax.readyState === 4 && ajax.status === 200)
+        {
 
+        }
+      });
+      ajax.onload = function () {
+        var cores = JSON.parse(ajax.responseText);
+        renderHTML(cores);
+      }
+    }
+
+    function renderHTML(cores) {
+      var keys = Object.keys(cores);
+      var conteudo = document.getElementById('container');
+      var str = '';
+      for (i = 0; i < keys.length; i++)
+      {
+        str += '<p>' + keys[i] + ': ' + '<span style="background-color: #' + cores[keys[i]] + '">' + cores[keys[i]] + '</span></p>';
+      }
+      conteudo.innerHTML = str;
+    }
   </script>
 </head>
 
-<body>
-  
+<body onload="main()">
+  <div id="container"></div>
 </body>
-
 </html>
