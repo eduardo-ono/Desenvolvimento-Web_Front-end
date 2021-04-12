@@ -37,7 +37,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
     Aula 02 - Configurando o Ambiente de Desenvolvimento / Introdução ao HTML
   </summary>
-  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
   * Configuração do GitHub
     * Habilitando o GitHub Pages (servidor Web do GitHub)
