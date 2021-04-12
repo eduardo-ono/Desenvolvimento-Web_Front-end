@@ -64,6 +64,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
 * CSS (Cascading Style Sheets)
   * Conceitos
     * [Código Fonte TV] [Dicionário do Programador](https://www.youtube.com/watch?v=229xfk3EEM8) (YouTube, Mai/2020, 14:39)
+<!--
 
 * Inserindo CSS na página HTML
   * <a href="https://www.w3schools.com/css/css_howto.asp" target="_blank">Como adicionar código CSS</a>
@@ -107,9 +108,9 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   * SASS
     * Conceitos
       * [Código Fonte TV] [Sass // Dicionário do Programador](https://www.youtube.com/watch?v=WJSJCduJCQM) (YouTube, 4:45, Jul/2018)
+-->
 
   </section>
-  
 </details>
 
 <details>
