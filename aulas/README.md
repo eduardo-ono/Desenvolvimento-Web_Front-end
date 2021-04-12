@@ -69,12 +69,14 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   * <a href="https://www.w3schools.com/css/css_howto.asp" target="_blank">Como adicionar código CSS</a>
   * Exemplos
     * CSS Inline
+    
         ```html
         <p style="color: red">Este é um parágrafo escrito na cor vermelha.</p>
         <p>Esta é um parágrafo com esta <spam style="color: blue">palavra</spam> em cor azul.</p>
         ```
     
     * CSS Interno
+
       ```html
       <head>
           <style>
@@ -98,6 +100,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
       ```
     
     * CSS Externo
+
     ```html
     <head>
         <link rel="stylesheet" href="mystyle.css">
