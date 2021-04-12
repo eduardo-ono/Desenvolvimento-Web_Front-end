@@ -12,7 +12,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
     Aula 01 - Introdução ao Desenvolvimento Web
   </summary>
-  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
   * Revisão de Redes; Protocolos de Comunicação; História da Internet
     * Vídeos
@@ -59,7 +59,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
     Aula 03 - Introdução ao CSS (Cascading Style Sheets)
   </summary>
-  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
 * CSS (Cascading Style Sheets)
   * Conceitos
@@ -113,7 +113,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
     Aula 04 - CSS (Cont.) / Introdução à Linguagem JavaScript
   </summary>
-  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
   * Introdução à linguagem JavaScript
     * Conceitos
@@ -126,7 +126,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
     Aula 05 - Criando Formulários com HTML e CSS
   </summary>
-  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
   * Formulário geral
     * Vídeo Aulas
@@ -144,7 +144,7 @@ Home Page: https://eduardo-ono.github.io/desenvolvimento-web/aulas/
   <summary style="font-size: 1.2rem; font-weight: bold; padding: 10px; background-color: #F1F8FF; border: 1px solid #C8E1FF; border-radius: 6px; margin-top: 5px">
     Aula 06 - AJAX / Uso de APIs
   </summary>
-  <section style="border: 1px solid #C8E1FF; border-radius: 6px">
+  <section style="border: 1px solid #C8E1FF; border-radius: 6px" markdown="1">
 
   * ### CSS - Position
     * **Vídeo Aulas**
