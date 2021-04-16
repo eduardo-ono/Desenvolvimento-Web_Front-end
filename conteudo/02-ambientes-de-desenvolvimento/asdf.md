@@ -1,8 +1,14 @@
-### Desenvolvimento Web
+### Desenvolvimento Web > Ambiente de Desenvolvimento
 
-# Ambiente de Desenvolvimento > asdf
+# asdf
 
 Prof. Eduardo Ono
+
+<br>
+
+## Descrição
+
+> O asdf é um gerenciador de versões de compiladores, interpretadores, ambientes de execução, etc. para Linux.
 
 <br>
 
@@ -39,8 +45,7 @@ Para configurar a versão corrente (exemplo):
 
     asdf global java openjdk-11.0.2
 
-Para estabelecer o JAVA_HOME na inicialização do bash shell, adicionar a seguinte linha no
-arquivo `~/.bashrc`:
+Para estabelecer o JAVA_HOME na inicialização do bash shell, adicionar a seguinte linha no arquivo `~/.bashrc`:
 
     . ~/.asdf/plugins/java/set-java-home.bash
 
