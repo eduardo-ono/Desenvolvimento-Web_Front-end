@@ -16,134 +16,13 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/05-js/
 
 <br>
 
-## Fundamentos da Linguagem
+## Tópicos
 
-<details>
-    <summary>Funções Anônimas</summary>
+* ### [Fundamentos da Linguagem JavaScript](./js-fundamentos/)
 
-Função tradicional:
+* ### [Programação Orientada a Objeto em JavaScript](./js-poo/)
 
-```js
-function calcularIMC(peso, altura) {
-    var imc = 0;
-    if (peso > 0 && altura > 0) {
-        imc = peso / (altura ** 2);
-    }
-    return imc;
-}
-
-var imc = calcularIMC(67, 1.73);
-console.log(imc.toFixed(1));
-```
-
-Função Anônima (função que não possui um nome):
-
-```js
-const imc = (peso, altura) {
-    var imc = 0;
-    if (peso > 0 && altura > 0) {
-        imc = peso / (altura ** 2);
-    }
-    return imc;
-}
-
-console.log(imc(67, 1.73).toFixed(1));
-```
-
-Função Anônima "auto-executável":
-
-```js
-(function () {
-    var now = new Date();
-    var time = ("0" + now.getHours()).slice(-2) + ":" +
-        ("0" + now.getMinutes()).slice(-2) + ":" +
-        ("0" + now.getSeconds()).slice(-2);
-    console.log(time);
-})();
-```
-
-</details>
-
-<details>
-    <summary>Arrow Functions</summary>
-
-Função tradicional:
-
-```js
-function calcularIMC(peso, altura) {
-    var imc = 0;
-    if (peso > 0 && altura > 0) {
-        imc = peso / (altura ** 2);
-    }
-    return imc;
-}
-```
-
-Arrow Function:
-
-```js
-const imc = (peso, altura) => {
-    var imc = 0;
-    if (peso > 0 && altura > 0) {
-        imc = peso / (altura ** 2);
-    }
-    return imc;
-}
-
-console.log(imc(68, 1.73).toFixed(1));
-
-// ou
-
-const imc = (peso, altura) => (peso > 0 && altura > 0) ? peso / (altura ** 2) : 0;
-
-console.log(imc(68, 1.73).toFixed(1));
-```
-
-Arrow Function "auto-executável"
-
-```js
-(() => {
-    var now = new Date();
-    var time = ("0" + now.getHours()).slice(-2) + ":" +
-        ("0" + now.getMinutes()).slice(-2) + ":" +
-        ("0" + now.getSeconds()).slice(-2);
-    console.log(time);
-})();
-```
-
-</details>
-
-<details>
-    <summary>Arrow Function retornando um JSON</summary>
-
-```js
-const pessoa = () => {
-    return {"nome": "Fulano de Tal"};
-}
-// ou
-const pessoa = () => ({"nome": "Fulano de Tal"});
-
-console.log(pessoa());
-```
-
-</details>
-
-### Vídeos Recomendados
-
-* [Derek Banas] [JavaScript Tutorial](https://youtu.be/fju9ii8YsGs) (YouTube, 1:37:08)
-* [Traversy Media] [JavaScript Crash Course for Beginners](https://youtu.be/hdI2bqOjy3c) (YouTube, 1:40:29)
-* [Derek Banas] [ECMAScript 6 Tutorial](https://youtu.be/Jakoi0G8lBg) (YouTube, 45:30)
-* [Academind] [JavaScript Data Structures: Getting Started](https://youtu.be/41GSinwoMYA) (YouTube, 1:36:46)
-
-<br>
-
-## JavaScript Orientado a Objetos
-
-### Vídeos Recomendados
-
-* [Derek Banas] [Object Oriented JavaScript](https://youtu.be/O8wwnhdkPE4) (YouTube, 1:00:34)
-* [Traversy Media] [JavaScript OOP Crash Course (ES5 & ES6)](https://youtu.be/vDJpGenyHaA) (YouTube, 40:20)
-* [Programming with Mosh] [ES6 Tutorial: Learn Modern JavaScript in 1 Hour](https://www.youtube.com/watch?v=NCwa_xi0Uuc) (YouTube, 50:04)
+* ### Programação Funcional em JavaScript
 
 <br>
 
