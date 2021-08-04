@@ -20,7 +20,7 @@ Comandos Básicos do Git/GitHub
 
 <br>
 
-### asdf (Ubuntu)
+### asdf (Linux)
 
 * https://asdf-vm.com/#/core-manage-asdf
 
@@ -28,7 +28,7 @@ No Terminal (Bash), digitar:
 
     git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
 
-Abrir o arquivo `~/.bashrc` e adicionar as linhas:
+Abrir o arquivo `~/.bashrc` e adicionar as linhas (inclusive os pontos iniciais):
 
     . $HOME/.asdf/asdf.sh
     . $HOME/.asdf/completions/asdf.bash

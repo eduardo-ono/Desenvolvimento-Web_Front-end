@@ -6,7 +6,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Vídeos
+## Crash Courses
 
 | Thumb | Descrição |
 | :-:   | --- |
@@ -18,6 +18,10 @@ Prof. Eduardo Ono
 
 * [Academind] [Vue 3 - What's New? What Changed?](https://www.youtube.com/watch?v=A5cVyjrKx_Q) (YouTube, 30:46)
 
+<br>
+
 ### Vídeos Recomendados
 
 * [Honeypot] [Vue.js: O Documentário](https://www.youtube.com/watch?v=OrxmtDw4pVI) (YouTube, 34:45)
+
+<br>
