@@ -5,13 +5,32 @@
     <meta name="author" content="Eduardo Ono">
     <meta name="keywords" content="aula html">
     <title>Aula HTML 01</title>
+    <style>
+      p {
+        color: deeppink;
+        font-size: 1.5em;
+      }
+      h2 {
+        color: green;
+        font-size: 3em;
+      }
+      #caju {
+        color: cyan;
+        font-size: 1.5em;
+      }
+      .pera {
+        font-size: 4em;
+      }
+      code {
+        color: black;
+        font-size: 2em;
+      }
+</style>
   </head>
   <body>
-    <p>Você pode clicar neste <a href="https://www.google.com">link</a>.</p>
-    <p style="text-align: right;">Pode também clicar neste <a href="https://www.uol.com.br"
-        target="_blank">outro link</a>.</p>
-    <p>Uma biblioteca da linguagem C é o <code>&lt;stdio.h&gt;</code> e também
-      o <code>&lt;stdlib.h&gt;</code>.</p>
+    <p class="pera">Você pode <span>clicar</span> neste <a href="https://www.google.com">link</a>.</p>
+    <p style="text-align: center;">Pode também clicar neste <a href="https://www.uol.com.br" target="_blank">outro link</a>.</p>
+    <p style="color: coral;">Uma biblioteca da <span id="caju">linguagem C</span> é o <code>&lt;stdio.h&gt;</code> e também o <code>&lt;stdlib.h&gt;</code>.</p>
     <ul>
       <li>Item 1</li>
       <li>Item2</li>
@@ -22,18 +41,23 @@
       <li>Item 2</li>
       <li>Item 3</li>
     </ol>
-    <p style="text-align: center;"> <img src="../../figuras/yuri-puff-bebel.jpg"
+    <p style="text-align: center;"> <img src="../../figuras/yuri-puff-bebel.jpg"
         alt="Yuri, Puff e Bebel" style="width: 480px; height: auto;"></p>
     <br>
     <p><br>
     </p>
+    <h2>a</h2>
     <p><br>
+      &lt;a href="http://www.uol.com.br"&gt;UOL&lt;/a&gt;<br>
+      <a href="http://www.uol.com.br">UOL</a>
+
     </p>
     <p><br>
     </p>
+    <h2>p</h2>
     <p><br>
     </p>
-    <p><br>
+    <p class="pera">Texto<br>
     </p>
   </body>
 </html>
