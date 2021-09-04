@@ -25,9 +25,10 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 <br>
 
-## Material de Apoio
+## Recursos
 
 - https://www.w3schools.com
+- https://fonts.google.com
 
 <br>
 
