@@ -2,7 +2,7 @@
 
 Prof. Eduardo Ono
 
-Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
+Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 <br>
 
@@ -14,14 +14,14 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/
 
 | Aula | Data  | Conteúdo |
 | ---  | ---   | ---      |
- 01 | 13/08 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub
- 02 |  | Configuração do GitHub Pages; Instalação e configuração do VS Code; Introdução à linguagem HTML
- 03 |  | Introdução a CSS
- 04 |  | Introdução à linguagem JavaScript
- 05 |  | APIs, JSON, AJAX
- 06 |  | Programação Funcional e Orientada à Objetos em JavaScript
- 07 |  | Frameworks: Bootstrap
- 08 |  | Desenvolvimento Back-End; Introdução à linguagem PHP / 1a. AVALIAÇÃO
+ 01 | 13/08 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub.
+ 02 | 20/08 | Configuração do GitHub Pages; Instalação e configuração do VS Code; Introdução à linguagem HTML.
+ 03 | 27/08 | Introdução a CSS.
+ 04 | 03/09 | CSS: Inclusão de fontes, principais seletores e atributos.
+ 05 | 10/09 | Introdução à linguagem JavaScript.
+ 06 | 17/09 | APIs, JSON, AJAX.
+ 07 | 24/09 | Programação Funcional e Orientada à Objetos em JavaScript.
+ 08 | 01/10 | 1a. AVALIAÇÃO; Desenvolvimento Back-End; Introdução à linguagem PHP.
 
 <br>
 
