@@ -6,7 +6,7 @@ Prof. Eduardo Ono
 
 <h2 id="2021_2-GTADS2AN"> 2021_2 - GTADS4AN </h2>
 
-Elaborar um web site utilizando HTML, CSS e JavaScript.<br>
+Elaborar um web site utilizando HTML, CSS e JavaScript com tema de sua preferência.<br>
 O conteúdo deverá ter alguma contribuição pessoal, ou seja, conteúdo não obtido da Internet ou de outras fontes existentes.<br>
 Hospedar o web site no GitHub, utilizando o GitHub Pages.<br>
 O web site poderá ser elaborado em grupo, desde que o grupo seja o mesmo do Projeto Integrador.<br>
