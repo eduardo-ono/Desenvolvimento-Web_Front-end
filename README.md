@@ -14,14 +14,21 @@ Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Aula | Data  | Conteúdo |
 | ---  | ---   | ---      |
- 01 | 13/08 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub.
- 02 | 20/08 | Configuração do GitHub Pages; Instalação e configuração do VS Code; Introdução à linguagem HTML.
- 03 | 27/08 | Introdução a CSS.
- 04 | 03/09 | CSS: Inclusão de fontes, principais seletores e atributos.
- 05 | 10/09 | Introdução à linguagem JavaScript.
- 06 | 17/09 | APIs, JSON, AJAX.
- 07 | 24/09 | Programação Funcional e Orientada à Objetos em JavaScript.
- 08 | 01/10 | 1a. AVALIAÇÃO; Desenvolvimento Back-End; Introdução à linguagem PHP.
+| [01][] | 13/08 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub.
+| [02][] | 20/08 | Configuração do GitHub Pages; Instalação e configuração do VS Code; Introdução à linguagem HTML.
+| [03][] | 27/08 | Introdução a CSS.
+| [04][] | 03/09 | CSS: Inclusão de fontes, principais seletores e atributos.
+| [05][] | 10/09 | Introdução à linguagem JavaScript.
+| [06][] | 17/09 | APIs, JSON, AJAX.
+| 07 | 24/09 | Programação Funcional e Orientada à Objetos em JavaScript.
+| 08 | 01/10 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md#2021_1-GTADS2AN); Desenvolvimento Back-End; Introdução à linguagem PHP.
+
+[01]: ./aulas/README.md#aula-01
+[02]: ./aulas/README.md#aula-02
+[03]: ./aulas/README.md#aula-03
+[04]: ./aulas/README.md#aula-04
+[05]: ./aulas/README.md#aula-05
+[06]: ./aulas/README.md#aula-06
 
 <br>
 

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JSON-01</title>
+
+  <script>
+    window.onload = () => {
+      var strJSON = `{
+        "nome": "Fulano de Tal",
+        "peso": 70,
+        "altura": 1.69
+      }`;
+      var paciente = JSON.parse(strJSON);
+      var imc = paciente.peso / paciente.altura ** 2;
+      document.getElementById('nome').innerHTML = `Nome: ${paciente.nome}`;
+      document.getElementById('peso').innerHTML = `Peso: ${paciente.peso} kg`;
+      document.getElementById('altura').innerHTML = `Peso: ${paciente['altura']} m`;
+      document.getElementById('imc').innerHTML = `IMC: ${imc.toFixed(1)}`;
+    }
+  </script>
+</head>
+
+<body>
+  <p id="nome" ></p>
+  <p id="peso"></p>
+  <p id="altura"></p>
+  <p id="imc"></p>
+</body>
+</html>
