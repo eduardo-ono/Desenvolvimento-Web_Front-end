@@ -10,6 +10,24 @@ Prof. Eduardo Ono
 
 <br>
 
+## Instalação do GitHub
+
+### Instalação no Windows
+
+* Download
+  * https://git-scm.com/
+
+### Instalação no Ubuntu
+
+```
+sudo apt update && sudo apt upgrade
+```
+
+```
+sudo apt install git
+```
+<br>
+
 ## Vídeos Recomendados
 
 * ### Git e GitHub
@@ -27,4 +45,4 @@ Prof. Eduardo Ono
 
 |||
 | :-: | --- |
-| | 
+| |

@@ -6,6 +6,134 @@ Prof. Eduardo Ono
 
 <br>
 
+## Programação
+
+Strings
+```js
+const str1 = 'Olá mundo!';
+console.log(str1.toUpperCase());
+console.log(typeof str1); // string
+
+const str2 = new String('Olá mundo!');
+console.log(typeof str2); // object
+```
+
+Window
+```js
+console.log(window);
+console.log(navigator.appVersion);
+```
+
+Objeto Literal
+```js
+const paciente = {
+  nome: 'Fulano de Tal',
+  peso: 71,
+  altura: 1.76,
+  getImc: function () {
+    if (this.peso > 0 && this.altura > 0)
+      return this.peso / this.altura ** 2;
+    else
+      return null;
+  }
+};
+```
+
+```js
+function Paciente(nome, peso, altura) {
+  this.nome = nome;
+  this.peso = peso;
+  this.altura = altura;
+  this.getImc = fucntion () {
+    if (this.peso > 0 && this.altura > 0)
+      return this.peso / this.altura ** 2;
+    else
+      return null;
+  }
+}
+
+var paciente1 = new Paciente('Fulano', 71, 1.76);
+var paciente2 = new Paciente('Ciclano', 73, 1.72)
+console.log(paciente1.getImc());
+```
+
+Prototypes
+```js
+function Paciente(nome, peso, altura) {
+  this.nome = nome;
+  this.peso = peso;
+  this.altura = altura;
+  this.getImc = function () {
+    if (this.peso > 0 && this.altura > 0)
+      return this.peso / this.altura ** 2;
+    return null;
+  }
+}
+
+Paciente.prototype.getImc = function () {
+  if (this.peso > 0 && this.altura > 0)
+    return this.peso / this.altura ** 2;
+  return null;
+}
+
+var paciente1 = new Paciente('Fulano', 71, 1.76);
+var paciente2 = new Paciente('Ciclano', 73, 1.72);
+console.log(`Nome: ${paciente1.nome}\nIMC = ${paciente1.getImc().toFixed(1)}`);
+```
+
+Classes
+```js
+class Paciente {
+  constructor(nome, peso, altura) {
+    this.nome = nome;
+    this.peso = peso;
+    this.altura = altura;
+  }
+
+  getImc() {
+    if (this.peso > 0 && this.altura > 0)
+      return this.peso / this.altura ** 2;
+    return null;
+  }
+
+  static getClinica() {
+    return 'Pé na Cova';
+  }
+} // Paciente
+
+var paciente = new Paciente('Fulano', 84, 1.75);
+console.log(Paciente.getClinica());
+```
+
+Herança
+```js
+class Paciente {
+  constructor(nome, peso, altura) {
+    this.nome = nome;
+    this.peso = peso;
+    this.altura = altura;
+  }
+
+  getImc() {
+    if (this.peso > 0 && this.altura > 0)
+      return this.peso / (this.altura ** 2);
+    return null;
+  }
+} // Paciente
+
+class Obituario extends Paciente {
+  constructor(nome, peso, altura, idade) {
+    super(nome, peso, altura);
+    this.idade = idade;
+  }
+} // Obituario
+
+var obituario = new Obituario('Fulano', 84, 1.75, 89);
+console.log(`IMC = ${obituario.getImc().toFixed(1)}`);
+```
+
+<br>
+
 ## Vídeo Aulas
 
 | Thumb | Descrição |
