@@ -1,4 +1,4 @@
-### Desenvolvimento Web > Conteúdo
+> Desenvolvimento Web (Front-End) > Conteúdo
 
 # Overview
 
@@ -8,14 +8,18 @@ Prof. Eduardo Ono
 
 ## Pré-Requisitos
 
+
 * [Fabio Akita] [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) (YouTube, 21:07)
 
 <br>
 
 ## História da Web
 
+|||
+|:-:|---|
+| [![](https://img.youtube.com/vi/VKmPGmFY7H4/default.jpg)](https://www.youtube.com/watch?v=VKmPGmFY7H4 "A História do Front-End para Iniciantes em Programação") | [Fabio Akita] <br> [__A História do Front-End para Iniciantes em Programação__](https://www.youtube.com/watch?v=VKmPGmFY7H4) \|\| 48:27, YouTube, Fev/2019.
+|
 * [A Mentira em Que Vivemos] [A História da Internet - A Guerra dos Navegadores](https://www.youtube.com/watch?v=_TW45Wctsmg) (YouTube, 43:09, Ago/2017)
-* [Fabio Akita] [A História do Front-End para Iniciantes em Programação](https://youtu.be/VKmPGmFY7H4) (YouTube, 48:27)
 * [IntroBooks Education] [History of Internet Documentary](https://www.youtube.com/watch?v=dzqr7XQjbKY) (YouTube, 43:08, Jul/2017)
 
 <br>

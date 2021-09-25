@@ -1,4 +1,4 @@
-> ### Desenvolvimento Web (Front-End)
+> Desenvolvimento Web (Front-End)
 
 # JavaScript - Fundamentos da Linguagem
 
@@ -8,13 +8,15 @@ Prof. Eduardo Ono
 
 ## Descrição
 
+Fundamentos da linguagem de programação JavaScript baseado no ECMAScript 6 (2015).
+
 <br>
 
 ## Fundamentos da Linguagem
 
 <details>
   <summary>
-    <strong>Variáveis e Constantes</strong>
+    <strong><font size="4">Variáveis e Constantes</font></strong>
   </summary>
   <section markdown="1">
 
@@ -26,7 +28,7 @@ Prof. Eduardo Ono
   const e; // ERRO! Constante não inicializada
   ```
 
-  * __*var*__ e __*let*__ (ES6)
+  * __*var*__ e __*let*__
 
   ```js
   var num = 10;
@@ -50,10 +52,13 @@ Prof. Eduardo Ono
   {
     console.log(i);
   }
-  console.log('Valor de i = ' + i); // ERRO! A variável i não foi "definida".
+  console.log('Valor de i = ' + i); // ERRO! A variável i não "definida".
   ```
 
   </section>
+
+  ---
+
 </details>
 
 <details>
