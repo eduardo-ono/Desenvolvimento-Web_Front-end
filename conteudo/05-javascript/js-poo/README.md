@@ -10,7 +10,7 @@ Prof. Eduardo Ono
 
 <details>
   <summary>
-    <font size="+1"><strong>Strings</strong></font>
+    <strong><font size="+1">Strings</font></strong>
   </summary>
   <section markdown="1">
 
