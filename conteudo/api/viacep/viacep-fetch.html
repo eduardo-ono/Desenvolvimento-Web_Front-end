@@ -40,12 +40,11 @@
       return null;
     } // validarCep()
 
-    function limpaFormulario() {
-      var labels = document.getElementsByTagName("label");
-      for (var i = 1; i < labels.length; i++) {
-        var inputs = labels[i].getElementsByTagName("input");
-        inputs[0].value = "";
-      }
+    function limparFormulario() {
+      var outputs = document.getElementsByClassName("output");
+        for (var i = 0; i < outputs.length; i++) {
+          outputs[i].value = "";
+        }
     }
 
     function pesquisarCep(cep) {
@@ -53,12 +52,13 @@
       if (cep != null) {
         // Preenche os campos com "..." enquanto consulta o webservice
         var outputs = document.getElementsByClassName("output");
-        for (var i = 1; i < outputs.length; i++) {
+        for (var i = 0; i < outputs.length; i++) {
           outputs[i].value = "...";
         }
       }
       else {
-        limpaFormulario();
+        limparFormulario()
+        alert('CEP no formato inválido!');
         return;
       }
 
@@ -79,9 +79,13 @@
           document.getElementById("uf").value = (data.uf);
           document.getElementById("ibge").value = (data.ibge);
           console.log(data);
+          if (data.erro) {
+            limparFormulario();
+            alert('CEP não encontrado!');
+          }
         });
       })
-      .catch((e) => alert(e.message));
+      .catch((e) => console.log(e.message) );
     } // pesquisarCep
   </script>
 </head>
@@ -92,9 +96,8 @@
   <p><br>
   </p>
   <hr>
-  <label>Cep: <input name="cep" id="cep" value="" size="10" maxlength="9" onblur="pesquisarCep(this.value);"
-          type="text"></label>
-  <input class="output" type="button" value="Buscar" onclick="pesquisarCep(document.getElementById('cep').value)">
+  <label>Cep: <input name="cep" id="cep" value="" size="10" maxlength="9" type="text"></label>
+  <input type="button" value="Buscar" onclick="pesquisarCep(document.getElementById('cep').value)">
   <br>
   <hr><br>
   <label>Rua: <input name="rua" id="rua" class="output" size="60" type="text" disabled></label><br>

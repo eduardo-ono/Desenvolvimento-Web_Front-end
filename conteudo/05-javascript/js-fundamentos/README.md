@@ -18,7 +18,7 @@ Prof. Eduardo Ono
   </summary>
   <section markdown="1">
 
-  * **_const_**
+  * __*const*__
 
   ```js
   const pi = 3.14;
@@ -26,7 +26,7 @@ Prof. Eduardo Ono
   const e; // ERRO! Constante não inicializada
   ```
 
-  * **_var_ e _let_ (ES6)**
+  * __*var*__ e __*let*__ (ES6)
 
   ```js
   var num = 10;

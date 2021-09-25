@@ -1,17 +1,17 @@
-> ### Desenvolvimento Web
+> Desenvolvimento Web (Front-End) > Conteúdo
 
 # JavaScript
 
 Prof. Eduardo Ono
 
-Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/05-js/
+Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-javascript/
 
 <br>
 
 ## Overview
 
 <p>
-<a href="../../mapas-mentais/js-linguagem.svg" target="_new"><img src="../../mapas-mentais/js-linguagem.svg" width="300px"></a>
+  <a href="../../mapas-mentais/js-linguagem.svg" target="_blank"><img src="../../mapas-mentais/js-linguagem.svg" width="300px"></a>
 </p>
 
 <br>
@@ -23,6 +23,10 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/05-js/
 * ### [Programação Orientada a Objeto em JavaScript](./js-poo/)
 
 * ### Programação Funcional em JavaScript
+
+* ### [Estrutura de Dados](./js-estrutura-de-dados/)
+
+* ### [Bibliotecas](./js-bibliotecas)
 
 <br>
 

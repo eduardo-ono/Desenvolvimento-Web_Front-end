@@ -6,6 +6,7 @@
     <title>viacep</title>
     <meta name="author" content="Eduardo Ono">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
     <style>
         body {
             margin: 5% 20% 5% 20%;
@@ -24,6 +25,7 @@
             font-size: 1rem;
         }
     </style>
+
     <script type="text/javascript">
 
         function limpaFormulario() {
@@ -55,7 +57,7 @@
                         type: "GET",
                         dataType: "JSON",
                         url: "https://viacep.com.br/ws/" + cep + "/json/",
-                        success: function(data) {
+                        success: function (data) {
                             document.getElementById("rua").value = (data.logradouro);
                             document.getElementById("bairro").value = (data.bairro);
                             document.getElementById("cidade").value = (data.localidade);
