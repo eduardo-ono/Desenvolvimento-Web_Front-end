@@ -1,10 +1,11 @@
-> Desenvolvimento Web > Conteúdo
+| Desenvolvimento Web > Conteúdo | [Versão HTML](http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/) |
+| :-- | --: |
 
 # React.js
 
 Prof. Eduardo Ono
 
-Versão HTML: http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/
+Versão HTML:
 
 <br>
 
