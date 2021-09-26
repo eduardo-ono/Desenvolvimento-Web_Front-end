@@ -1,4 +1,4 @@
-| <small>Desenvolvimento Web > Conteúdo | [Versão HTML](http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/)</small> |
+| <small>Desenvolvimento Web > Conteúdo</small> | <small>[Versão HTML](http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/)</small> |
 |---|---|
 
 # React.js
