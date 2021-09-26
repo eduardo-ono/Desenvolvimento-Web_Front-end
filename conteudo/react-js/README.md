@@ -1,7 +1,7 @@
-<table>
+<table width="100%">
   <tr>
     <td>Desenvolvimento Web > Conteúdo</td>
-    <td><a href="http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/" target="_blank">Versão HTML</a></td>
+    <td align="right" width="25%"><a href="http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/" target="_blank">Versão HTML</a></td>
   </tr>
 </table>
 
