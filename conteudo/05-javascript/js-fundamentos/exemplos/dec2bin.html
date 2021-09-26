@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conversor Decimal para Binário</title>
+
+  <link rel="stylesheet" href="../../../../bin/main.css">
+
+  <script src="../../../../bin/main.js"></script>
+  <script>
+    function decToBin(num) {
+      num = Number(num);
+      var output = document.getElementById('output');
+      if (!isNaN(num)) {
+        output.innerHTML = Number(num).toString(2);
+      }
+      else {
+        output.innerHTML = 'Entrada inválida!';
+      }
+    }
+  </script>
+</head>
+
+<body>
+  <header>
+  </header>
+  <h1>Conversor Decimal para Binário</h1>
+  <p>Prof. Eduardo Ono</p>
+  <p><br></p>
+  <label>Entre com o número decimal a ser convertido: <br>
+    <input type="text" name="numero" id="numero" onblur="decToBin(this.value)">
+  </label>
+  <p>Binário: <span id="output"></span></p>
+  <p><br></p>
+  <p>Posicionamento do "footer":</p>
+  <p>https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/</p>
+</body>
+</html>

@@ -1,12 +1,12 @@
 > Desenvolvimento Web > Conteúdo
 
-# API (Application Programming Interface)
+# API - Application Programming Interface
 
 Prof. Eduardo Ono
 
 <br>
 
-## História da API
+## Conceitos
 
 <br>
 
@@ -17,18 +17,12 @@ Prof. Eduardo Ono
 
 <br>
 
-## Dicas para o Profissional
+## Vídeos Recomendados
 
-* [Programador BR] [O maior erro que você pode cometer para sua carreira](https://www.youtube.com/watch?v=2v-pT8rDvE4) (YouTube, 7:51, Nov/2020)
-* [Danki Code] [O que Você PRECISA Saber Ter SUCESSO Como Desenvolvedor Web nos Dias De Hoje!](https://www.youtube.com/watch?v=KProuszNyKQ) (12:01)
-* [Danki Code] [Como Divulgar o seu Trabalho de Programador](https://www.youtube.com/watch?v=mObLc_hn2t0) (4:10)
-
-<br>
-
-## Mercado de Trabalho
-
-* [Goianos na Irlanda] [Salário de Programador Javascript na Irlanda e Frameworks com maior demanda](https://www.youtube.com/watch?v=gXs6s5nBEpg) (YouTube, 21:09, Jan/2020)
-* [João Ribeiro] [COMO ESCOLHER O CAMINHO PARA SER WEB DEVELOPER (Out/2020)](https://www.youtube.com/watch?v=to0YodD8I7g) (YouTube, 10:27)
+|||
+| :-: | :-- |
+| [![](https://img.youtube.com/vi/lc0VOosnlAc/default.jpg)](https://www.youtube.com/watch?v=lc0VOosnlAc "Aprenda a Usar APIs // Mão no Código #7") | [Código Fonte TV] <br> [__Aprenda a Usar APIs // Mão no Código #7__](https://www.youtube.com/watch?v=lc0VOosnlAc) \|\| 36:58, YouTube, Jan/2019.
+| [![](https://img.youtube.com/vi/imk6Y0viabg/default.jpg)](https://www.youtube.com/watch?v=imk6Y0viabg "Como consumir uma API de CEP com javascript puro \| ViaCEP") | [Fernando Leonid] <br> [__Como consumir uma API de CEP com javascript puro \| ViaCEP__](https://www.youtube.com/watch?v=imk6Y0viabg) \|\| 38:13, YouTube, Mar/2021.
 
 <br>
 

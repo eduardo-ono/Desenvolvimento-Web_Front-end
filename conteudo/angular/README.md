@@ -1,4 +1,9 @@
-> #### Desenvolvimento Web > Conteúdo
+<table>
+  <tr>
+    <td>Desenvolvimento Web (Front-End) > Conteúdo</td>
+    <td><a href="http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/angular/">Versão HTML</a></td>
+  </tr>
+</table>
 
 # Angular
 
@@ -6,17 +11,11 @@ Prof. Eduardo Ono
 
 <br>
 
-## Conceitos
+## Conteúdo
 
-* [Alura Cursos Online] [O que é Angular e AngularJS?](https://www.youtube.com/watch?v=LFlNU30u7d8) (YouTube, 13:38, Mar/2020)
+* ### [Overview](./overview.md)
 
-<br>
-
-## Crash Courses
-
-|||
-| :-: | --- |
-[![](https://img.youtube.com/vi/3dHNOWTI7H8/default.jpg)](https://www.youtube.com/watch?v=3dHNOWTI7H8 "") | [Traversy Media] <br> [__Angular Crash Course 2021__](https://www.youtube.com/watch?v=3dHNOWTI7H8) \|\| 2:01:31, YouTube, Mai/2021.
+* ### [Exemplos](./exemplos/)
 
 <br>
 

@@ -6,7 +6,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Definição e Características
+## Conceitos
 
 * __Não aceita elementos repetidos.__
 * A ordem de inserção NÃO é memorizada.

@@ -2,7 +2,7 @@
 
 Prof. Eduardo Ono
 
-Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
+Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 <br>
 
@@ -14,14 +14,14 @@ Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Aula | Data  | Conteúdo |
 | ---  | ---   | ---      |
-| [01][] | 13/08 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub.
-| [02][] | 20/08 | Configuração do GitHub Pages; Instalação e configuração do VS Code; Introdução à linguagem HTML.
+| [01][] | 13/08 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub; Configuração do GitHub Pages.
+| [02][] | 20/08 | Instalação e configuração do VS Code; Introdução à linguagem HTML.
 | [03][] | 27/08 | Introdução a CSS.
-| [04][] | 03/09 | CSS: Inclusão de fontes, principais seletores e atributos.
+| [04][] | 03/09 | CSS: Fontes, principais seletores e atributos.
 | [05][] | 10/09 | Introdução à linguagem JavaScript.
 | [06][] | 17/09 | APIs, JSON, AJAX.
-| 07 | 24/09 | Programação Funcional e Orientada à Objetos em JavaScript.
-| 08 | 01/10 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md#2021_1-GTADS2AN); Desenvolvimento Back-End; Introdução à linguagem PHP.
+| [07][] | 24/09 | Programação Funcional e Orientada à Objetos em JavaScript.
+| [08][] | 01/10 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md#2021_1-GTADS2AN); Desenvolvimento Back-End; Introdução à linguagem PHP.
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
@@ -29,20 +29,22 @@ Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
 [04]: ./aulas/README.md#aula-04
 [05]: ./aulas/README.md#aula-05
 [06]: ./aulas/README.md#aula-06
+[07]: ./aulas/README.md#aula-07
+[08]: ./aulas/README.md#aula-08
 
 <br>
 
 ## Recursos
 
-- https://www.w3schools.com
-- https://fonts.google.com
+* ### Sites
 
-<br>
+  * https://www.w3schools.com
+  * https://fonts.google.com
 
-## Softwares
+* ### Softwares
 
-* Microsoft Visual Studio Code - https://code.visualstudio.com
-* BlueGriffon - http://bluegriffon.org
+  * Microsoft Visual Studio Code - https://code.visualstudio.com
+  * BlueGriffon - http://bluegriffon.org
 
 <br>
 
@@ -50,8 +52,8 @@ Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Capa | Descrição |
 | ---  | --- |
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | <p>[ROBBINS_2018]</p>ROBBINS, Jennifer N.; **Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5. ed.**, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
-| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <p>[FLANAGAN_2013]</p>FLANAGAN, David; **JavaScript - O Guia Definitivo, 6. ed.**, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | <p>[ROBBINS_2018]</p>ROBBINS, Jennifer N.; __Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5. ed.__, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
+| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <p>[FLANAGAN_2013]</p>FLANAGAN, David; __JavaScript - O Guia Definitivo, 6. ed.__, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
 
 <br>
 
@@ -59,10 +61,10 @@ Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Capa | Descrição |
 | ---  | ---       |
-<img src="https://git-scm.com/images/progit2.png" width="100px"> | <p>[CHACON_2014]</p>CHACON, Scott; STRAUB, Ben; [**Pro Git, 2. ed.**](https://git-scm.com/book/en/v2), Apress, 2014.
+<img src="https://git-scm.com/images/progit2.png" width="100px"> | <p>[CHACON_2014]</p>CHACON, Scott; STRAUB, Ben; [__Pro Git, 2. ed.__](https://git-scm.com/book/en/v2), Apress, 2014.
 <img src="https://goalkicker.com/GitBook/GitGrow.png" width="100px"> | [Git Notes for Professionals](https://goalkicker.com/GitBook/)
-<img src="./referencias/capas/haverbeke-3e_2018.jpg" width="100px"> | <p>[HAVERBEKE-3e_2018]</p>HAVERBEKE, Marijn. [**Eloquent JavaScript, 3. ed.**](https://archive.org/details/2018eloquentjavascript), 2018.
-<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/react-succinctly.png" width="100px"> | <p>[BUNA_2016]</p>BUNA, Samer. [React.js Succinctly](https://www.syncfusion.com/ebooks/reactjs_succinctly), 102p, 2016.
+<img src="./referencias/capas/haverbeke-3e_2018.jpg" width="100px"> | <p>[HAVERBEKE-3e_2018]</p>HAVERBEKE, Marijn. [__Eloquent JavaScript, 3. ed.__](https://archive.org/details/2018eloquentjavascript), 2018.
+<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/react-succinctly.png" width="100px"> | <p>[BUNA_2016]</p>BUNA, Samer. [__React.js Succinctly__](https://www.syncfusion.com/ebooks/reactjs_succinctly), 102p, 2016.
 
 <br>
 

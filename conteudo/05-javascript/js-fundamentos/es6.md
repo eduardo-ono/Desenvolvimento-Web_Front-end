@@ -63,7 +63,6 @@ console.log(dec2bin_2(25));
 | :-: | --- |
 | ![Thumb](https://img.youtube.com/vi/NCwa_xi0Uuc/default.jpg) | [Programming with Mosh]<br>[**ES6 Tutorial: Learn Modern JavaScript in 1 Hour**](https://www.youtube.com/watch?v=NCwa_xi0Uuc) (YouTube, 50:04, Jun/2018)<br><br>Tópicos:
 
-
 <br>
 
 ## Referências Bibliográficas
