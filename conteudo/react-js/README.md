@@ -1,5 +1,9 @@
-| <small>Desenvolvimento Web > Conteúdo</small> | <small>[Versão HTML](http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/)</small> |
-|---|---|
+<table>
+  <tr>
+    <td><small>Desenvolvimento Web > Conteúdo</small></td>
+    <td><a href="http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/"><small>Versão HTML</small></a></td>
+  </tr>
+</table>
 
 # React.js
 
