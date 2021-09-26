@@ -1,6 +1,9 @@
-| Desenvolvimento Web > Conteúdo | [Versão HTML](http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/) |
-| :-- | --: |
-| |
+<table>
+  <tr>
+    <td>Desenvolvimento Web > Conteúdo</td>
+    <td><a href="http://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/react-js/" target="_blank">Versão HTML</a></td>
+  </tr>
+</table>
 
 # React.js
 
