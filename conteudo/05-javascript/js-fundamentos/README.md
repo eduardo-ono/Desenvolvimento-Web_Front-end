@@ -16,7 +16,7 @@ Fundamentos da linguagem de programação JavaScript baseado no ECMAScript 6 (20
 
 <details>
   <summary>
-    <strong><font size="4">Variáveis e Constantes</font></strong>
+    <strong>Variáveis e Constantes</strong>
   </summary>
   <section markdown="1">
 
