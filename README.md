@@ -52,8 +52,8 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Capa | Descrição |
 | ---  | --- |
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | <p>[ROBBINS_2018]</p>ROBBINS, Jennifer N.; __Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5. ed.__, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
-| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <p>[FLANAGAN_2013]</p>FLANAGAN, David; __JavaScript - O Guia Definitivo, 6. ed.__, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" width="100px"> | <sup>[ROBBINS-5e_2018]</sup> ROBBINS, Jennifer N.; __Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5. ed.__, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
+| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup> FLANAGAN, David; __JavaScript - O Guia Definitivo, 6. ed.__, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
 
 <br>
 
@@ -76,7 +76,7 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 <br>
 
-## Filmes e Documentários Recomendados
+## Filmes/Documentários Recomendados
 
 | Thumb | Título |
 | --- | --- |

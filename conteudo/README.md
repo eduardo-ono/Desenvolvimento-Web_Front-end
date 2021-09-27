@@ -1,45 +1,33 @@
-# Desenvolvimento Web > Conteúdo
+> Desenvolvimento Web (Front-End)
+
+# Conteúdo
 
 Prof. Eduardo Ono
 
-<br><br>
-
-## Conteúdo Programático
 <br>
 
-### [Overview](./01-overview/)
+## Sumário
 
-* Mercado de Trabalho
-* Carreiras do Profissional
+* ### [Overview](./01-overview/)
 
-### [Ambiente de Desenvolvimento](./02-ambiente-de-desenvolvimento/)
+* ### [Ambiente de Desenvolvimento](./02-ambiente-de-desenvolvimento/)
 
-* Softwares
-* Sites de Hospedagem
+* ### [HTML](./03-html/)
 
-### [HTML](./03-html/)
+* ### [CSS](./04-css/)
 
-### [CSS](./04-css/)
+  * SASS
 
-### [JavaScript](05-javascript/)
+* ### [JavaScript](05-javascript/)
 
-* DOM
+  * DOM
 
-### JSON
+* ### JSON
 
-### AJAX
-
-### SASS
+* ### AJAX
 
 <br>
 
-## Cursos Completos
-
-|||
-| :-: | --- |
-| [![img](https://img.youtube.com/vi/TdqQqyc7pfU/default.jpg)](https://www.youtube.com/watch?v=TdqQqyc7pfU "Web Development Full Course (Front End) \| HTML, CSS, JavaScript") | [Nerd's lesson] <br> [__Web Development Full Course (Front End) \| HTML,CSS,JavaScript__](https://www.youtube.com/watch?v=TdqQqyc7pfU) \|\| 10:42:08, YouTube, Ago/2021.
-
-<br>
 
 ## Vídeos Recomendados
 
