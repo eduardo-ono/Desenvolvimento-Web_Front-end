@@ -8,7 +8,7 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 <br>
 
-## Overview
+## Mapa Mental
 
 <p>
   <a href="../../mapas-mentais/js-linguagem.svg" target="_blank"><img src="../../mapas-mentais/js-linguagem.svg" width="300px"></a>
@@ -16,7 +16,9 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 <br>
 
-## Tópicos
+## Sumário
+
+* ### [Overview](./00-overview/)
 
 * ### [Fundamentos da Linguagem JavaScript](./js-fundamentos/)
 
@@ -24,9 +26,15 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 * ### Programação Funcional em JavaScript
 
+  * Arrow Functions
+
 * ### [Estrutura de Dados](./js-estrutura-de-dados/)
 
 * ### [Bibliotecas](./js-bibliotecas)
+
+  * Fancybox
+
+* ### Frameworks
 
 <br>
 
@@ -38,9 +46,9 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 ## Frameworks
 
-|||
+| Thumb | Descrição |
 | :-: | --- |
-| [![](https://img.youtube.com/vi/cuHDQhDhvPE/default.jpg)](https://www.youtube.com/watch?v=cuHDQhDhvPE "I built the same app 10 times // Which JS Framework is best?") | [Fireship] <br> [**I built the same app 10 times // Which JS Framework is best?**](https://www.youtube.com/watch?v=cuHDQhDhvPE) \|\| 21:58, YouTube, Ago/2021.
+| [![Thumb](https://img.youtube.com/vi/cuHDQhDhvPE/default.jpg)](https://www.youtube.com/watch?v=cuHDQhDhvPE "I built the same app 10 times // Which JS Framework is best?") | <sup>[Fireship]</sup> [__I built the same app 10 times // Which JS Framework is best?__](https://www.youtube.com/watch?v=cuHDQhDhvPE) <br> (21:58, YouTube, Ago/2021)
 
 <br>
 

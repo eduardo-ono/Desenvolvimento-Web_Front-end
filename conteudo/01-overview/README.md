@@ -57,6 +57,10 @@ Prof. Eduardo Ono
 
 ## Dicas para o Profissional
 
+| Thumb | Descrição |
+| :-: | --- |
+| [![Thumb](https://img.youtube.com/vi/5LVqVcl9ICY/default.jpg)](https://www.youtube.com/watch?v=5LVqVcl9ICY "QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular") | <sup>[Rafaella Ballerini]</sup> [__QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular__](https://www.youtube.com/watch?v=5LVqVcl9ICY) <br> (21:56, YouTube, Set/2021)
+| [![Thumb](https://img.youtube.com/vi/J6rVaFzOEP8/default.jpg)](https://www.youtube.com/watch?v=J6rVaFzOEP8 "Guide To Becoming A Self-Taught Software Developer") | <sup>[Traversy Media]</sup> [__Guide To Becoming A Self-Taught Software Developer__](https://www.youtube.com/watch?v=J6rVaFzOEP8) <br> (17:13, YouTube, Mar/2020)
 * [Programador BR] [O maior erro que você pode cometer para sua carreira](https://www.youtube.com/watch?v=2v-pT8rDvE4) (YouTube, 7:51, Nov/2020)
 * [Danki Code] [O que Você PRECISA Saber Ter SUCESSO Como Desenvolvedor Web nos Dias De Hoje!](https://www.youtube.com/watch?v=KProuszNyKQ) (12:01)
 * [Danki Code] [Como Divulgar o seu Trabalho de Programador](https://www.youtube.com/watch?v=mObLc_hn2t0) (4:10)

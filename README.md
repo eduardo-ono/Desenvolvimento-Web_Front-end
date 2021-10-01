@@ -72,7 +72,7 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Thumb | Título |
 | --- | --- |
-[![Trailer](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg)](https://youtu.be/Boj9eD0Wug8) | [Yuval Noah Harari] [Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8) (YouTube, 1:33:30)
+| [![Thumb](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg)](https://youtu.be/Boj9eD0Wug8) | [Yuval Noah Harari] [Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8) (YouTube, 1:33:30)
 
 <br>
 
@@ -80,9 +80,8 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Thumb | Título |
 | --- | --- |
-[![Trailer](https://img.youtube.com/vi/oNUl_9ZYA6w/default.jpg)](https://youtu.be/oNUl_9ZYA6w) | History of the Internet / National Geographic 2018 / BBC Documentary 2018 (54:02)
-[![Trailer](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg)](https://youtu.be/ILQeXZTOpkw) | [PC Tweaks] [History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw) (54:02)
-[![Trailer](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg)](https://youtu.be/4Q7FTjhvZ7Y) | [The Documentary Network] [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (56:08)
-[![Trailer](https://img.youtube.com/vi/IsqSwMsI_mc/default.jpg)](https://youtu.be/IsqSwMsI_mc) | [DW Documentary] [Internet from outer space / DW Documentary](https://www.youtube.com/watch?v=IsqSwMsI_mc) (YouTube, 42:25, Out/2020)
+[![Thumb](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg)](https://youtu.be/ILQeXZTOpkw) | [PC Tweaks] [History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw) (54:02)
+[![Thumb](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg)](https://youtu.be/4Q7FTjhvZ7Y) | [The Documentary Network] [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (56:08)
+[![Thumb](https://img.youtube.com/vi/IsqSwMsI_mc/default.jpg)](https://youtu.be/IsqSwMsI_mc) | [DW Documentary] [Internet from outer space / DW Documentary](https://www.youtube.com/watch?v=IsqSwMsI_mc) (YouTube, 42:25, Out/2020)
 
 <br>
