@@ -1,6 +1,6 @@
 > Desenvolvimento Web (Front-End) > Conteúdo > Angular
 
-# Angular - Overview
+# Overview do Angular
 
 Prof. Eduardo Ono
 
@@ -23,5 +23,7 @@ Prof. Eduardo Ono
 <br>
 
 ## Cursos "Completos"
+
+https://www.youtube.com/playlist?list=PL4iwH9RF8xHnMnKewOLjDvTHzTmyxJNHF
 
 <br>

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Canivetes</title>
+  <link rel="stylesheet" href="./style.css">
+
+  <script>
+    const canivetes = [
+      {
+        filename: 'victorinox-swiss-army-1.webp',
+        marca: "Victorinox",
+        modelo: "Swiss Army 1",
+      },
+      {
+        filename: 'victorinox-cadet-alox.webp',
+        marca: "Victorinox",
+        modelo: "Cadet Alox",
+      },
+      {
+        filename: 'victorinox-pioneer-alox.webp',
+        marca: "Victorinox",
+        modelo: "Pioneer Alox",
+      },
+      {
+        filename: 'victorinox-pioneer-x-alox.webp',
+        marca: "Victorinox",
+        modelo: "Pioneer X Alox",
+      },
+      {
+        filename: 'victorinox-farmer-alox.webp',
+        marca: "Victorinox",
+        modelo: "Farmer Alox",
+      },
+      {
+        filename: 'victorinox-farmer-x-alox.webp',
+        marca: "Victorinox",
+        modelo: "Farmer X Alox",
+      },
+      {
+        filename: 'victorinox-swiss-army-electrician.jpg',
+        marca: "Victorinox",
+        modelo: "Swiss Army Electrician",
+      },
+      {
+        filename: 'victorinox-swiss-army-electrician-plus.jpg',
+        marca: "Victorinox",
+        modelo: "Swiss Army Electrician Plus",
+      }
+    ];
+
+    function criarGaleria() {
+      canivetes.forEach(el => {
+        filepath = `./imagens/${el.filename}`;
+        let img = document.createElement('img');
+        img.setAttribute('src', filepath);
+        img.setAttribute('alt', 'Foto');
+        let figcaption = document.createElement('figcaption');
+        figcaption.innerHTML = `${el.marca}<br>${el.modelo}`;
+        let figure = document.createElement('figure');
+        figure.appendChild(img);
+        figure.appendChild(figcaption);
+        let a = document.createElement('a');
+        a.setAttribute('href', filepath);
+        a.appendChild(figure);
+
+        let containerGaleria = document.getElementById('container-galeria');
+        containerGaleria.appendChild(a);
+        console.log(containerGaleria.innerHTML);
+      });
+    }
+
+    window.onload = () => criarGaleria();
+  </script>
+</head>
+
+<body>
+  <h1>Canivetes</h1>
+
+  <section>
+    <div id="container-galeria">
+
+    </div>
+  </section>
+</body>
+</html>

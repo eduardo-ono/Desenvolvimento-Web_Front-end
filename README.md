@@ -39,11 +39,16 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 * ### Sites
 
   * https://www.w3schools.com
+
   * https://fonts.google.com
 
 * ### Softwares
 
   * Microsoft Visual Studio Code - https://code.visualstudio.com
+
+    * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+    * https://docs.emmet.io/cheat-sheet/
+
   * BlueGriffon - http://bluegriffon.org
 
 <br>

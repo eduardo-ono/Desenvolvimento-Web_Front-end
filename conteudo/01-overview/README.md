@@ -47,6 +47,8 @@ Prof. Eduardo Ono
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/TdqQqyc7pfU/default.jpg)](https://www.youtube.com/watch?v=TdqQqyc7pfU "Web Development Full Course (Front End) \| HTML, CSS, JavaScript") | <sup>[[Nerd's lesson]]</sup> [__Web Development Full Course (Front End) \| HTML, CSS, JavaScript__](https://www.youtube.com/watch?v=TdqQqyc7pfU) <br> (10:42:08, YouTube, Ago/2021)
 
+https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
+
 <br>
 
 ## Projetos
