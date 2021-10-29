@@ -14,6 +14,12 @@ Prof. Eduardo Ono
 
 [<img src="../../mapas-mentais/git-github.svg" width="300">](../../mapas-mentais/git-github.svg)
 
+* "Limpar" o repositório:
+
+  ```sh
+  git rm -r --cached .
+  ```
+
 <br>
 
 ### Opcional: asdf (Linux)

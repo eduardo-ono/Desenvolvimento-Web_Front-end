@@ -61,6 +61,12 @@ Fundamentos da linguagem de programação JavaScript baseado no ECMAScript 6 (20
 
 </details>
 
+Vetores
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/NH_lCxa1hv8/default.jpg)](https://www.youtube.com/watch?v=NH_lCxa1hv8) | <sup>[JavaScript Mastery]</sup> [__Top 10 JavaScript Array Methods__](https://www.youtube.com/watch?v=NH_lCxa1hv8) <br> <sub>(15:51, YouTube, Mai/2019)</sub>
+
 <details>
     <summary>
       <strong>Funções Anônimas</strong>

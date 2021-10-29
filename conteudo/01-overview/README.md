@@ -76,5 +76,11 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
 <br>
 
+## Canais Recomendados
+
+* https://www.youtube.com/c/AniaKub%C3%B3w/videos
+
+<br>
+
 [Fabio Akita]: https://www.youtube.com/c/FabioAkita1990
 [Nerd's lesson]: https://www.youtube.com/c/Nerdslesson
