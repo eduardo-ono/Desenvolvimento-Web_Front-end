@@ -32,6 +32,12 @@ Prof. Eduardo Ono
 
 <br>
 
+## Referências
+
+* https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf
+
 https://www.youtube.com/watch?v=qpOlG7BYJlQ
 https://blog.logrocket.com/learn-these-keyboard-shortcuts-to-become-a-vs-code-ninja/
 https://zellwk.com/blog/useful-vscode-keyboard-shortcuts/
+
+<br>

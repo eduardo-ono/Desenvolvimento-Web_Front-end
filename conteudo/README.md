@@ -28,7 +28,6 @@ Prof. Eduardo Ono
 
 <br>
 
-
 ## Vídeos Recomendados
 
 * [Fabio Akita] [A História do Front-End para Iniciantes em Programação](https://youtu.be/VKmPGmFY7H4) (YouTube, 48:27)

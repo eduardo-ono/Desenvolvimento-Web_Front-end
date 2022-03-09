@@ -39,3 +39,38 @@ Prof. Eduardo Ono
 
 [Web Dev Simplified]: https://www.youtube.com/c/WebDevSimplified/videos
 [freeCodeCamp.org]: https://www.youtube.com/c/Freecodecamp/videos
+
+<br>
+
+## Backup e Recuperação de Extensões do VS Code
+
+```
+Windows: %USERPROFILE%\.vscode\extensions
+Linux: ~/.vscode/extensions
+Mac: ~/.vscode/extensions
+```
+
+```powershell
+code --list-extensions > vsc-extensions.txt
+```
+
+* Restaurar (Windows PowerShell)
+
+```PowerShell
+cat vsc-extensions.txt | % { "code --install-extension $_" }
+```
+
+ou
+
+```powershell
+code --list-extensions | % { "code --install-extension $_" }
+```
+
+* Restaurar (Linux)
+
+```sh
+cat vsc-extensions.txt | xargs -L 1 code --install-extension
+```
+ou
+
+<br>

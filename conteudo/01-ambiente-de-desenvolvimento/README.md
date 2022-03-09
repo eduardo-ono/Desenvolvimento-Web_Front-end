@@ -1,49 +1,22 @@
-> ### Desenvolvimento Web > Conteúdo
+> <h5>Desenvolvimento Web > Conteúdo</h5>
 
-# Ambientes de Desenvolvimento
+# Ambiente de Desenvolvimento
 
 Prof. Eduardo Ono
 
 <br>
 
-## Ferramentas de Desenvolvimento
+## Tópicos
 
-### Git/GitHub
+* ### Git/GitHub
 
-* #### Comandos Básicos do Git/GitHub
+* ### Linux
 
-[<img src="../../mapas-mentais/git-github.svg" width="300">](../../mapas-mentais/git-github.svg)
+  * #### Opcional: asdf (Linux/Mac)
 
-* "Limpar" o repositório:
+* ### Editores/IDEs para Desenvolvimento Web
 
-  ```sh
-  git rm -r --cached .
-  ```
-
-<br>
-
-### Opcional: asdf (Linux)
-
-* Site do desenvolvedor
-
-  * https://asdf-vm.com/#/core-manage-asdf
-
-* No Terminal (Bash), digitar:
-
-  ```bash
-  git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
-  ```
-
-* Abrir o arquivo `~/.bashrc` e adicionar as linhas (inclusive os pontos iniciais):
-
-  ```bash
-  . $HOME/.asdf/asdf.sh
-  . $HOME/.asdf/completions/asdf.bash
-  ```
-
-<br>
-
-## Editores/IDEs para Desenvolvimento Web
+  * #### Microsoft Visual Studio Code (VS Code)
 
 ### Opção 1:
 

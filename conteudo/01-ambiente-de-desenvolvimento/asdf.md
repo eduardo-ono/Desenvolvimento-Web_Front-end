@@ -16,16 +16,24 @@ Prof. Eduardo Ono
 
 > OBS.: Requer o Git previamente instalado.
 
-* https://asdf-vm.com/#/core-manage-asdf
+* Site do desenvolvedor
 
-No Terminal (Bash), digitar:
+  * https://asdf-vm.com/#/core-manage-asdf
 
-    git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
+* No Terminal (Bash), digitar:
 
-Abrir o arquivo `~/.bashrc` e adicionar as linhas:
+  ```bash
+  git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.8.0
+  ```
 
-    . $HOME/.asdf/asdf.sh
-    . $HOME/.asdf/completions/asdf.bash
+* Abrir o arquivo `~/.bashrc` e adicionar as linhas (inclusive os pontos iniciais):
+
+  ```bash
+  . $HOME/.asdf/asdf.sh
+  . $HOME/.asdf/completions/asdf.bash
+  ```
+
+<br>
 
 ## Plugins
 
