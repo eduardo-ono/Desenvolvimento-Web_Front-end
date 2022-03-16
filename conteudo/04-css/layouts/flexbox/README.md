@@ -6,6 +6,23 @@ Prof. Eduardo Ono
 
 <br>
 
+## CSS
+
+| Propriedade | Valor |
+| --- | --- |
+| display | flex
+| flex-direction | _row_ \| column
+| justify-content<br>(eixo horizontal) | flex-start \| center \| flex-end<br>space-around \| space-between \| space-evenly
+| align-items<br>(eixo vertical) | flex-start \| center \| flex-end<br>space-around \| space-between \| space-evenly
+
+<br>
+
+## Exemplos
+
+* [flexbox-01.html](./flexbox-01.html)
+
+<br>
+
 ## Vídeos Recomendados
 
 | Thumb | Descrição |

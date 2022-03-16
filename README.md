@@ -16,12 +16,12 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 | ---  | ---   | ---      |
 | [01][] | 16/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub; Configuração do GitHub Pages.
 | [02][] | 23/02 | Instalação e configuração do VS Code; Revisão de Redes e Internet; Introdução à linguagem HTML.
-| [03][] | 09/02 | Introdução a CSS.
-| [04][] |  | CSS: Fontes, principais seletores e atributos.
+| [03][] | 09/03 | Introdução a CSS: Principais seletores e atributos, cores, fontes
+| [04][] | 16/03 | CSS (cont.); Position; Layouts: flexbox, grid layout
 | [05][] |  | Introdução à linguagem JavaScript.
 | [06][] |  | APIs, JSON, AJAX.
 | [07][] |  | Programação Funcional e Orientada à Objetos em JavaScript.
-| [08][] |  | __1a. AVALIAÇÃO__; Desenvolvimento Back-End; Introdução à linguagem PHP.
+| [08][] | [13/03] | __1a. AVALIAÇÃO__; Desenvolvimento Back-End; Introdução à linguagem PHP.
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
