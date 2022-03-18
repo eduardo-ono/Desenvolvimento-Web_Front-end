@@ -18,10 +18,10 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 | [02][] | 23/02 | Instalação e configuração do VS Code; Revisão de Redes e Internet; Introdução à linguagem HTML.
 | [03][] | 09/03 | Introdução a CSS: Principais seletores e atributos, cores, fontes
 | [04][] | 16/03 | CSS (cont.); Position; Layouts: flexbox, grid layout
-| [05][] |  | Introdução à linguagem JavaScript.
-| [06][] |  | APIs, JSON, AJAX.
-| [07][] |  | Programação Funcional e Orientada à Objetos em JavaScript.
-| [08][] | [13/03] | __1a. AVALIAÇÃO__; Desenvolvimento Back-End; Introdução à linguagem PHP.
+| [05][] | 23/03 | Introdução à linguagem JavaScript.
+| [06][] | 30/03 | APIs, JSON, AJAX.
+| [07][] | 06/04 | Programação Funcional e Orientada à Objetos em JavaScript.
+| [08][] | 13/03 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md); Desenvolvimento Back-End; Introdução à linguagem PHP.
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
