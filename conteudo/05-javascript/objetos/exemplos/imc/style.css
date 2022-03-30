@@ -1,0 +1,56 @@
+* {
+    border: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+.container {
+  display: table;
+  padding: 20px;
+  margin: auto;
+  border: 1px solid silver;
+  border-radius: 8px;
+  background-color: lightsteelblue;
+}
+
+.container label {
+}
+
+input {
+  padding: 8px;
+  border: 2px solid silver;
+  border-radius: 6px;
+  margin: 6px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  outline: none;
+}
+
+input:focus {
+  border: 2px solid #555;
+}
+
+.container .atributo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.container .atributo-button {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+button {
+  width: fit-content;
+  padding: 10px;
+  border: 1px;
+  margin: 10px;
+}
+
+.imc {
+  text-align: center;
+}

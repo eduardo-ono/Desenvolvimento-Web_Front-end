@@ -6,6 +6,14 @@ Prof. Eduardo Ono
 
 <br>
 
+## Introdução ao Desenvolvimento Web
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![Thumb](https://img.youtube.com/vi/01bCZPpSQxY/default.jpg)](https://www.youtube.com/watch?v=01bCZPpSQxY "Como iniciar em Desenvolvimento Web? O que estudar?") | <sup>[Rafaella Ballerini]</sup> [__Como iniciar em Desenvolvimento Web? O que estudar?__](https://www.youtube.com/watch?v=01bCZPpSQxY)<br><sub>(19:49, YouTube, Mar/2022)</sub>
+
+<br>
+
 ## Cursos Introdutórios
 
 | Thumb | Descrição |

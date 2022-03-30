@@ -8,6 +8,8 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 ## Descrição
 
+Introdução ao Desenvolvimento Web Front-End, com ênfase no HTML5, CSS3 e JavaScript (ECMAScript 6).
+
 <br>
 
 ## Conteúdo Programático
@@ -16,9 +18,9 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 | ---  | ---   | ---      |
 | [01][] | 16/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub; Configuração do GitHub Pages.
 | [02][] | 23/02 | Instalação e configuração do VS Code; Revisão de Redes e Internet; Introdução à linguagem HTML.
-| [03][] | 09/03 | Introdução a CSS: Principais seletores e atributos, cores, fontes
+| [03][] | 09/03 | Introdução a CSS: Principais seletores e atributos, cores e fontes.
 | [04][] | 16/03 | CSS (cont.); Position; Layouts: flexbox, grid layout
-| [05][] | 23/03 | Introdução à linguagem JavaScript.
+| [05][] | 23/03 | Fundamentos da linguagem JavaScript.
 | [06][] | 30/03 | APIs, JSON, AJAX.
 | [07][] | 06/04 | Programação Funcional e Orientada à Objetos em JavaScript.
 | [08][] | 13/03 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md); Desenvolvimento Back-End; Introdução à linguagem PHP.
@@ -42,6 +44,10 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
   * https://fonts.google.com
 
+  * https://regex101.com/
+
+  * https://www.mathjax.org
+
 * ### Softwares
 
   * Microsoft Visual Studio Code - https://code.visualstudio.com
@@ -58,7 +64,8 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 | Capa | Descrição |
 | ---  | --- |
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" alt="img" width="100px"> | <sup>[ROBBINS-5e_2018]</sup><br>ROBBINS, Jennifer N.; __Learning Web Design - A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics, 5. ed.__, 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
-| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup><br>FLANAGAN, David; __JavaScript - O Guia Definitivo, 6. ed.__, Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup><br>FLANAGAN, David; __JavaScript - O Guia Definitivo, 6. ed.__, Porto Alegre : Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+| <img src="./referencias/capas/FLANAGAN-7e_2020.jpg" width="100px" alt="img"> | <sup>[FLANAGAN-7e_2020]</sup><br>FLANAGAN, David; __JavaScript - The Definitive Guide, 7. ed.__, O’Reilly Media, 2020.
 
 <br>
 
@@ -77,16 +84,16 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 | Thumb | Título |
 | --- | --- |
-| [![Thumb](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg)](https://youtu.be/Boj9eD0Wug8) | [Yuval Noah Harari] [Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8) (YouTube, 1:33:30)
+| [![Thumb](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg)](https://youtu.be/Boj9eD0Wug8) | [Yuval Noah Harari] [Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8)<br><sub>(1:33:30, YouTube)</sub>
 
 <br>
 
-## Filmes/Documentários Recomendados
+## Filmes e Documentários Recomendados
 
 | Thumb | Título |
 | --- | --- |
-[![Thumb](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg)](https://youtu.be/ILQeXZTOpkw) | [PC Tweaks] [History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw) (54:02)
-[![Thumb](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg)](https://youtu.be/4Q7FTjhvZ7Y) | [The Documentary Network] [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (56:08)
-[![Thumb](https://img.youtube.com/vi/IsqSwMsI_mc/default.jpg)](https://youtu.be/IsqSwMsI_mc) | [DW Documentary] [Internet from outer space / DW Documentary](https://www.youtube.com/watch?v=IsqSwMsI_mc) (YouTube, 42:25, Out/2020)
+[![Thumb](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg)](https://youtu.be/ILQeXZTOpkw) | <sup>[PC Tweaks]</sup> [History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw) (54:02)
+[![Thumb](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg)](https://youtu.be/4Q7FTjhvZ7Y) | <sup>[The Documentary Network]</sup> [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) (56:08)
+[![Thumb](https://img.youtube.com/vi/IsqSwMsI_mc/default.jpg)](https://youtu.be/IsqSwMsI_mc) | <sup>[DW Documentary]</sup> [Internet from outer space / DW Documentary](https://www.youtube.com/watch?v=IsqSwMsI_mc)<br><sub>(42:25, YouTube, Out/2020)</sub>
 
 <br>

@@ -6,12 +6,16 @@ Prof. Eduardo Ono
 
 <br>
 
-## Principais Layouts
+## Overview
+
+* ### Flexbox x Grid Layout
+
+<br>
+
+## Layouts
 
 * ### [Flexbox](./flexbox)
 
-* ### Grid Layout
-
-* ### Flexbox x Grid Layout
+* ### [Grid Layout](./grid-layout)
 
 <br>

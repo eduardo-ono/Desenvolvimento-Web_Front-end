@@ -6,9 +6,19 @@ Prof. Eduardo Ono
 
 <br>
 
+## Conceitos
+
+| Thumb | Descrição |
+|:-:|---|
+| [![thumb](https://img.youtube.com/vi/Em0R3csNMVE/default.jpg)](https://www.youtube.com/watch?v=Em0R3csNMVE "O QUE É FRONT-END E BACK-END???") | <sup>[[Rafaella Ballerini]]</sup> [__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=Em0R3csNMVE)<br><sub>(6:22, YouTube, Nov/2020)</sub>
+
+<br>
+
 ## Pré-Requisitos
 
-* [[Fabio Akita]] [Conhecimentos Básicos para Iniciantes em Programação](https://www.youtube.com/watch?v=sx4hAHhO9CY) (YouTube, 21:07)
+| Thumb | Descrição |
+|:-:|---|
+| [![thumb](https://img.youtube.com/vi/sx4hAHhO9CY/default.jpg)](https://www.youtube.com/watch?v=sx4hAHhO9CY "O QUE É FRONT-END E BACK-END???") | <sup>[[Fabio Akita]]</sup> [__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=sx4hAHhO9CY)<br><sub>(21:07, YouTube, Fev/2019)</sub>
 
 <br>
 
@@ -16,7 +26,7 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 |:-:|---|
-| [![](https://img.youtube.com/vi/VKmPGmFY7H4/default.jpg)](https://www.youtube.com/watch?v=VKmPGmFY7H4 "A História do Front-End para Iniciantes em Programação") | <sup>[[Fabio Akita]]</sup> [__A História do Front-End para Iniciantes em Programação__](https://www.youtube.com/watch?v=VKmPGmFY7H4) <br> (48:27, YouTube, Fev/2019)
+| [![](https://img.youtube.com/vi/VKmPGmFY7H4/default.jpg)](https://www.youtube.com/watch?v=VKmPGmFY7H4 "A História do Front-End para Iniciantes em Programação") | <sup>[[Fabio Akita]]</sup> [__A História do Front-End para Iniciantes em Programação__](https://www.youtube.com/watch?v=VKmPGmFY7H4)<br><sub>(48:27, YouTube, Fev/2019)</sub>
 
 * [A Mentira em Que Vivemos] [A História da Internet - A Guerra dos Navegadores](https://www.youtube.com/watch?v=_TW45Wctsmg) (YouTube, 43:09, Ago/2017)
 * [IntroBooks Education] [History of Internet Documentary](https://www.youtube.com/watch?v=dzqr7XQjbKY) (YouTube, 43:08, Jul/2017)
@@ -45,7 +55,7 @@ Prof. Eduardo Ono
 
 |||
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/TdqQqyc7pfU/default.jpg)](https://www.youtube.com/watch?v=TdqQqyc7pfU "Web Development Full Course (Front End) \| HTML, CSS, JavaScript") | <sup>[[Nerd's lesson]]</sup> [__Web Development Full Course (Front End) \| HTML, CSS, JavaScript__](https://www.youtube.com/watch?v=TdqQqyc7pfU) <br> (10:42:08, YouTube, Ago/2021)
+| [![img](https://img.youtube.com/vi/TdqQqyc7pfU/default.jpg)](https://www.youtube.com/watch?v=TdqQqyc7pfU "Web Development Full Course (Front End) \| HTML, CSS, JavaScript") | <sup>[[Nerd's lesson]]</sup> [__Web Development Full Course (Front End) \| HTML, CSS, JavaScript__](https://www.youtube.com/watch?v=TdqQqyc7pfU)<br><sub>(10:42:08, YouTube, Ago/2021)</sub>
 
 https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
@@ -61,8 +71,8 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![Thumb](https://img.youtube.com/vi/5LVqVcl9ICY/default.jpg)](https://www.youtube.com/watch?v=5LVqVcl9ICY "QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular") | <sup>[Rafaella Ballerini]</sup> [__QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular__](https://www.youtube.com/watch?v=5LVqVcl9ICY) <br> (21:56, YouTube, Set/2021)
-| [![Thumb](https://img.youtube.com/vi/J6rVaFzOEP8/default.jpg)](https://www.youtube.com/watch?v=J6rVaFzOEP8 "Guide To Becoming A Self-Taught Software Developer") | <sup>[Traversy Media]</sup> [__Guide To Becoming A Self-Taught Software Developer__](https://www.youtube.com/watch?v=J6rVaFzOEP8) <br> (17:13, YouTube, Mar/2020)
+| [![Thumb](https://img.youtube.com/vi/5LVqVcl9ICY/default.jpg)](https://www.youtube.com/watch?v=5LVqVcl9ICY "QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular") | <sup>[Rafaella Ballerini]</sup> [__QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular__](https://www.youtube.com/watch?v=5LVqVcl9ICY)<br><sub>(21:56, YouTube, Set/2021)</sub>
+| [![Thumb](https://img.youtube.com/vi/J6rVaFzOEP8/default.jpg)](https://www.youtube.com/watch?v=J6rVaFzOEP8 "Guide To Becoming A Self-Taught Software Developer") | <sup>[Traversy Media]</sup> [__Guide To Becoming A Self-Taught Software Developer__](https://www.youtube.com/watch?v=J6rVaFzOEP8)<br><sub>(17:13, YouTube, Mar/2020)</sub>
 * [Programador BR] [O maior erro que você pode cometer para sua carreira](https://www.youtube.com/watch?v=2v-pT8rDvE4) (YouTube, 7:51, Nov/2020)
 * [Danki Code] [O que Você PRECISA Saber Ter SUCESSO Como Desenvolvedor Web nos Dias De Hoje!](https://www.youtube.com/watch?v=KProuszNyKQ) (12:01)
 * [Danki Code] [Como Divulgar o seu Trabalho de Programador](https://www.youtube.com/watch?v=mObLc_hn2t0) (4:10)
@@ -83,5 +93,6 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
 <br>
 
+[Rafaella Ballerini]: https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q
 [Fabio Akita]: https://www.youtube.com/c/FabioAkita1990
 [Nerd's lesson]: https://www.youtube.com/c/Nerdslesson
