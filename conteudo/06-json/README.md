@@ -6,16 +6,20 @@ Prof. Eduardo Ono
 
 <br>
 
-## Fundamentos da Notação
-
-* [Traversy Media] JSON Crash Course | [YouTube](https://youtu.be/wI1CWzNtE-M) (24:49)
-* [LearnWebCode] JavaScript Template Literals: JSON to HTML | [YouTube](https://youtu.be/DG4obitDvUA) (39:33)
-
 ## Definição
 
 Formato aberto para representação e troca de dados, assim como o XML, porém mais simples. É independente de lingugem de programação.
 
 É constituído por pares do tipo `"chave": valor`, entre chaves e separados por vírgula.
+
+<br>
+
+## Fundamentos da Notação
+
+* [Traversy Media] JSON Crash Course | [YouTube](https://youtu.be/wI1CWzNtE-M) (24:49)
+* [LearnWebCode] JavaScript Template Literals: JSON to HTML | [YouTube](https://youtu.be/DG4obitDvUA) (39:33)
+
+<br>
 
 ## Exemplos
 
@@ -39,8 +43,10 @@ console.log(paciente.peso);
 console.log(paciente['altura']);
 ```
 
-## Vídeo Aulas
+## Vídeos de Apoio
 
-| | |
+| Thumb | Dewscrição |
 | :-: | --- |
-| [![](https://img.youtube.com/vi/K1f7G0JMkLU/default.jpg)](https://www.youtube.com/watch?v=K1f7G0JMkLU "O que é JSON - JavaScript Object Notation") | [Bóson Treinamentos] <br> [**O que é JSON - JavaScript Object Notation**](https://www.youtube.com/watch?v=K1f7G0JMkLU) \|\| 17:37, YouTube, Mar/2020.
+| [![img](https://img.youtube.com/vi/K1f7G0JMkLU/default.jpg)](https://www.youtube.com/watch?v=K1f7G0JMkLU "O que é JSON - JavaScript Object Notation") | <sup>[Bóson Treinamentos]</sup> [__O que é JSON - JavaScript Object Notation__](https://www.youtube.com/watch?v=K1f7G0JMkLU)<br><sub>(17:37, YouTube, Mar/2020)</sub>
+
+<br>

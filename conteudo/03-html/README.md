@@ -4,8 +4,9 @@ Prof. Eduardo Ono
 
 <br>
 
-### Material de Apoio
-<br>
+<img src="./.figuras/html-meme.webp" alt="img" width="360px">
+
+## Material de Apoio
 
 * [CodeBeauty] [HTML & CSS (2020) - Introduction to HTML](https://www.youtube.com/watch?v=3UxQ_LLzR-8&list=PL43pGnjiVwgR0KvKTXdJDrCpzUYkFQqDo) (YouTube, 20:39)
 

@@ -21,11 +21,11 @@ Prof. Eduardo Ono
 
 ### Instalação no Ubuntu
 
-```
+```sh
 sudo apt update && sudo apt upgrade
 ```
 
-```
+```sh
 sudo apt install git
 ```
 <br>
@@ -53,6 +53,14 @@ machine github.com login <login-id> password <token-password>
   ```sh
   git rm -r --cached .
   ```
+
+<br>
+
+## Associação do GitHub ao VS Code
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/peGUkhXD3Vw/default.jpg)](https://www.youtube.com/watch?v=peGUkhXD3Vw) | <sup>[Rafaella Ballerini]</sup> [__Associando o GitHub no Visual Studio Code__](https://www.youtube.com/watch?v=peGUkhXD3Vw) <br><sub>(8:01, YouTube, Abr/2020)</sub>
 
 <br>
 

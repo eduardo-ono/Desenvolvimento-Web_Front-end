@@ -22,7 +22,7 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 * ### [Fundamentos da Linguagem JavaScript](./js-fundamentos/)
 
-* ### [Programação Orientada a Objeto em JavaScript](./js-poo/)
+* ### [Programação Orientada a Objetos em JavaScript](./js-poo/)
 
 * ### Programação Funcional em JavaScript
 
@@ -41,6 +41,8 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 ## Canais do YouTube Recomendados
 
 * [queroser.ninja - Fernando Daciuk](https://www.youtube.com/channel/UCoMS25HuclMfa6IQJNcvh2w)
+
+* [James Q Quick](https://www.youtube.com/c/JamesQQuick)
 
 <br>
 

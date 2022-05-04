@@ -8,7 +8,7 @@ Prof. Eduardo Ono
 
 ## Descrição
 
-Fundamentos da linguagem de programação JavaScript baseado no ECMAScript 6 (2015).
+Fundamentos da linguagem de programação JavaScript, baseado no ECMAScript 6, de 2015.
 
 <br>
 
@@ -291,16 +291,24 @@ console.log(pessoa());
 
 <br>
 
-### Vídeos Aulas
+### Vídeos de Apoio
 
 | Thumb | Descrição |
 | :-: | --- |
-| ![Thumb](https://img.youtube.com/vi/fju9ii8YsGs/default.jpg) | [Derek Banas]<br>[**JavaScript Tutorial**](https://www.youtube.com/watch?v=fju9ii8YsGs) (YouTube, 1:37:08, Set/2015)<br><br>Tópicos:
-| ![Thumb](https://img.youtube.com/vi/hdI2bqOjy3c/default.jpg) | [Traversy Media]<br>[**JavaScript Crash Course for Beginners**](https://www.youtube.com/watch?v=hdI2bqOjy3c) (YouTube, 1:40:29, Mar/2019)<br><br>Tópicos: [Arrays](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=1432s); [Objetos Literais](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=1808s)
-| ![Thumb](https://img.youtube.com/vi/NCwa_xi0Uuc/default.jpg) | [Programming with Mosh]<br>[**ES6 Tutorial: Learn Modern JavaScript in 1 Hour**](https://www.youtube.com/watch?v=NCwa_xi0Uuc) (YouTube, 50:04, Jun/2018)<br><br>Tópicos:
+| ![img](https://img.youtube.com/vi/fju9ii8YsGs/default.jpg) | [Derek Banas]<br>[**JavaScript Tutorial**](https://www.youtube.com/watch?v=fju9ii8YsGs) (YouTube, 1:37:08, Set/2015)<br><br>Tópicos:
+| ![img](https://img.youtube.com/vi/hdI2bqOjy3c/default.jpg) | [Traversy Media]<br>[**JavaScript Crash Course for Beginners**](https://www.youtube.com/watch?v=hdI2bqOjy3c) (YouTube, 1:40:29, Mar/2019)<br><br>Tópicos: [Arrays](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=1432s); [Objetos Literais](https://www.youtube.com/watch?v=hdI2bqOjy3c&t=1808s)
+| ![img](https://img.youtube.com/vi/NCwa_xi0Uuc/default.jpg) | [Programming with Mosh]<br>[**ES6 Tutorial: Learn Modern JavaScript in 1 Hour**](https://www.youtube.com/watch?v=NCwa_xi0Uuc) (YouTube, 50:04, Jun/2018)<br><br>Tópicos:
 
 * [Derek Banas] [ECMAScript 6 Tutorial](https://youtu.be/Jakoi0G8lBg) (YouTube, 45:30)
 * [Academind] [JavaScript Data Structures: Getting Started](https://youtu.be/41GSinwoMYA) (YouTube, 1:36:46)
+
+<br>
+
+## Cursos "Completos"
+
+| Thumb | Descrição |
+| :-: | --- |
+| ![img](https://img.youtube.com/vi/l1-OzK1CWh4/default.jpg) | <sup>[João Ribeiro]</sup><br>[__JAVASCRIPT FUNDAMENTOS__](https://www.youtube.com/playlist?list=PLXik_5Br-zO-bZ7q3TC1oFbqwLP2491Ms)<br><sub>(45 vídeos, YouTube, Abr/2022)</sub>
 
 <br>
 

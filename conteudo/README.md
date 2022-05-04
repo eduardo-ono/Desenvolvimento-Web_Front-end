@@ -22,9 +22,11 @@ Prof. Eduardo Ono
 
   * DOM
 
-* ### JSON
+* ### [JSON](./06-json/README.md)
 
 * ### AJAX
+
+* ### [PyScript](./pyscript/README.md)
 
 <br>
 

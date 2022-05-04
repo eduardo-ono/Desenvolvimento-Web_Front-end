@@ -23,7 +23,7 @@ Prof. Eduardo Ono
 
 <br>
 
-## Vídeo Aulas
+## Vídeos de Apoio
 
   | Thumb | Descrição |
   | :-: | --- |

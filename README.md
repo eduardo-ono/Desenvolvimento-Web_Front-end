@@ -73,7 +73,7 @@ Introdução ao Desenvolvimento Web Front-End, com ênfase no HTML5, CSS3 e Java
 
 | Capa | Descrição |
 | ---  | ---       |
-| <img src="https://git-scm.com/images/progit2.png" alt="img" width="100px"> | <sup>[CHACON_2014]</sup><br>CHACON, Scott; STRAUB, Ben. [__Pro Git__](https://git-scm.com/book/en/v2). 2. ed. Apress, 2014.
+| <img src="https://git-scm.com/images/progit2.png" alt="img" width="100px"> | <sup>[CHACON_2014]</sup><br>CHACON, Scott; STRAUB, Ben. [__Pro Git__](https://git-scm.com/book/). 2. ed. Apress, 2014.
 | <img src="https://goalkicker.com/GitBook/GitGrow.png" width="100px"> | [Git Notes for Professionals](https://goalkicker.com/GitBook/)
 | <img src="./referencias/capas/haverbeke-3e_2018.jpg" alt="img" width="100px"> | <sup>[HAVERBEKE-3e_2018]</sup><br>HAVERBEKE, Marijn. [__Eloquent JavaScript__](https://archive.org/details/2018eloquentjavascript). 3. ed., 2018.
 | <img src="./referencias/capas/GRONER-2e_2018.png" alt="img" width="100px"> | <sup>[GRONER-2e_2018]</sup><br>GRONER, Loiane. __Estruturas de Dados e Algoritmos em JavaScript__. São Paulo: Novatec, 2018[.](https://app.box.com/s/ad9284w4gaxfyi3s6jtngy9i2wjnnx2k)
