@@ -1,8 +1,22 @@
-> Desenvolvimento Web (Front-End) > Conteúdo > JavaScript
+<table>
+<tr>
+<td align="left" width="8000">
+  <small>Desenvolvimento Web (Front-End) > Conteúdo > JavaScript</small>
+</td>
+<td align="right">
+  <small>Atualizado&nbsp;em:&nbsp;15/05/2022</small>
+</td>
+</tr>
+</table>
 
-# Programação Orientada a Objeto em JavaScript
+<br>
 
+<h1 align="center">
+Programação Orientada a Objeto em JavaScript
+</h1>
+<h4 align="center">
 Prof. Eduardo Ono
+</h4>
 
 <br>
 

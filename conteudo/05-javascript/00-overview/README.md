@@ -42,13 +42,20 @@ Prof. Eduardo Ono
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/g7T23Xzys-A/default.jpg)](https://www.youtube.com/watch?v=g7T23Xzys-A) | <sup>[JavaScript Mastery]</sup><br>[__JavaScript Crash Course 2021 - Master JavaScript in One Video!__](https://www.youtube.com/watch?v=g7T23Xzys-A)<br><sub>(2:08:58, YouTube, Jan/2021)</sub>
+| [![img](https://img.youtube.com/vi/jS4aFq5-91M/default.jpg)](https://www.youtube.com/watch?v=jS4aFq5-91M) | <sup>[freeCodeCamp.org]</sup><br>[__JavaScript Programming - Full Course__](https://www.youtube.com/watch?v=jS4aFq5-91M)<br><sub>(7:44:19, YouTube, Jun/2021)</sub>
 | [![img](https://img.youtube.com/vi/t9dEgHpCNJE/default.jpg)](https://www.youtube.com/watch?v=t9dEgHpCNJE "JavaScript Course") | <sup>[Bro Code]</sup><br>[__JavaScript Course__](https://www.youtube.com/watch?v=t9dEgHpCNJE)<br><sub>(4:30:19, YouTube, Abr/2021)</sub>
 
 <br>
 
 ## Cursos "Completos"
 
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/51SPSPsCD8I/default.jpg)](https://www.youtube.com/watch?v=51SPSPsCD8I) | <sup>[Simplilearn]</sup><br>[__JavaScript Developer Full Course \| JavaScript Developer Tutorial 2022 \| JavaScript \| Simplilearn__](https://www.youtube.com/watch?v=51SPSPsCD8I)<br><sub>(11:41:56, YouTube, Jul/2022)</sub>
+
 * https://www.youtube.com/watch?v=pOoP8DE_H70
+
+* https://www.youtube.com/playlist?list=PLI7nHlOIIPOIBIHhyj_wtSs_Wk4lKTxdL
 
 <br>
 
@@ -66,5 +73,11 @@ Prof. Eduardo Ono
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/a00NRSFgHsY/default.jpg)](https://www.youtube.com/watch?v=a00NRSFgHsY) | <sup>[James Q Quick]</sup><br>[__5 JavaScript Concepts You HAVE TO KNOW__](https://www.youtube.com/watch?v=a00NRSFgHsY)<br><sub>(9:37, YouTube, Fev/2021)</sub>
+
+<br>
+
+## Canais do YouTube Recomendados
+
+* https://www.youtube.com/c/RogerMelo/videos
 
 <br>

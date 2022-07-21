@@ -18,7 +18,9 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 ## Sumário
 
-* ### [Overview](./00-overview/)
+* ### [Overview](./00-overview/README.md)
+
+* ### [Ambiente de Desenvolvimento](./01-ambiente-de-desenvolvimento/README.md)
 
 * ### [Fundamentos da Linguagem JavaScript](./js-fundamentos/)
 
@@ -54,9 +56,16 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 <br>
 
-## Bibliografia
+## Bibliografia Básica
 
-* FLANAGAN, David. [JavaScript - O Guia Definitivo, 6 ed.](https://www.academia.edu/40442620/JavaScript_O_Guia_Definitivo_v), Porto Alegre: Bookman, 2013.
+| Thumb | Descrição |
+| :-: | --- |
+| <img src="../../referencias/capas/FLANAGAN-6e_2013.jpg" alt="img" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup><br>FLANAGAN, David. [__JavaScript: O Guia Definitivo__](https://www.academia.edu/40442620/JavaScript_O_Guia_Definitivo_v). 6. ed. Porto Alegre: Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+| <img src="../../referencias/capas/FLANAGAN-7e_2020.jpg" alt="img" width="100px"> | <sup id="FLANAGAN-7e_2020">[FLANAGAN-7e_2020]</sup><br>FLANAGAN, David. __JavaScript: The Definitive Guide__. 7. ed. O’Reilly Media, 2020.
+| <img src="../../referencias/capas/DELBONO_2016.jpg" alt="img" width="100px"> | <sup id="DELBONO_2016">[DELBONO_2016]</sup><br>DelBONO, Emanuele. [__Node.js Succinctly__](https://www.syncfusion.com/succinctly-free-ebooks/nodejs). 1 ed. Morrisville: Syncfusion, 2016.
+
+## Bibliografia Complementar
+
 * [JavaScript Notes for Professionals](https://goalkicker.com/HTML5Book/) (PDF)
 
 <br>

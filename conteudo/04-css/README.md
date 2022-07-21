@@ -1,10 +1,12 @@
 > ##### Desenvolvimento Web > Conteúdo
 
+<div align="center">
+
 # CSS (Cascading Style Sheet)
 
-Prof. Eduardo Ono
+#### Prof. Eduardo Ono
 
-Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/04-css
+</div>
 
 <br>
 
@@ -21,6 +23,8 @@ Versão Web: https://eduardo-ono.github.io/desenvolvimento-web/conteudo/04-css
         * [Dev Ed] Learn Flexbox In 20 Minutes | [YouTube](https://youtu.be/FTlczfR82mQ) (20:20)
 
     * Grid Layout
+
+* ### Animações
 
 * ### Frameworks
 

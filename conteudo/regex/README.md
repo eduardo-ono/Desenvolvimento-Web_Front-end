@@ -25,11 +25,12 @@ Prof. Eduardo Ono
 
 ## Vídeos de Apoio
 
-  | Thumb | Descrição |
-  | :-: | --- |
-  | [![](https://img.youtube.com/vi/db-L-ne0AMY/default.jpg)](https://www.youtube.com/watch?v=db-L-ne0AMY "") | [Rodrigo Mello] <br> [__Aula Virtual 22 - USP - ICC1: Expressões Regulares__](https://www.youtube.com/watch?v=db-L-ne0AMY) \|\| 1:34:45, YouTube, Jun/2020.
-  | ![Thumb](https://img.youtube.com/vi/rhzKDrUiJVk/default.jpg) | [Web Dev Simplified]<br>[Learn Regular Expressions In 20 Minutess__](https://www.youtube.com/watch?v=rhzKDrUiJVk) \|\| 20:51, YouTube, Out/2019)<br><br>Tópicos:
-  | ![Thumb](https://img.youtube.com/vi/sa-TUpSx1JA/default.jpg) | [Corey Schafer]<br>[__Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text__](https://www.youtube.com/watch?v=sa-TUpSx1JA) \|\| 37:54, YouTube, Out/2017)<br><br>Tópicos:
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/db-L-ne0AMY/default.jpg)](https://www.youtube.com/watch?v=db-L-ne0AMY) | <sup>[Rodrigo Mello]</sup><br>[__Aula Virtual 22 - USP - ICC1: Expressões Regulares__](https://www.youtube.com/watch?v=db-L-ne0AMY)<br><sub>(1:34:45, YouTube, Jun/2020)</sub>
+| [![img](https://img.youtube.com/vi/8oPIfO6r2vA/default.jpg)](https://www.youtube.com/watch?v=8oPIfO6r2vA) | <sup>[Mango]</sup><br>[__Regular Expressions - JS__](https://www.youtube.com/watch?v=8oPIfO6r2vA)<br><sub>(25:46, YouTube, Nov/2020)</sub>
+| ![img](https://img.youtube.com/vi/rhzKDrUiJVk/default.jpg) | <sup>[Web Dev Simplified]</sup><br>[Learn Regular Expressions In 20 Minutess__](https://www.youtube.com/watch?v=rhzKDrUiJVk)<br><sub>(20:51, YouTube, Out/2019)</sub>
+| ![img](https://img.youtube.com/vi/sa-TUpSx1JA/default.jpg) | <sup>[Corey Schafer]</sup><br>[__Regular Expressions (Regex) Tutorial: How to Match Any Pattern of Text__](https://www.youtube.com/watch?v=sa-TUpSx1JA)<br><sub>(37:54, YouTube, Out/2017)</sub>
 
 <br>
 

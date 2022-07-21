@@ -16,14 +16,14 @@ Introdução ao Desenvolvimento Web Front-End, com ênfase no HTML5, CSS3 e Java
 
 | Aula | Data  | Conteúdo |
 | ---  | ---   | ---      |
-| [01][] | 16/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub; Configuração do GitHub Pages.
-| [02][] | 23/02 | Instalação e configuração do VS Code; Revisão de Redes e Internet; Introdução à linguagem HTML.
-| [03][] | 09/03 | Introdução a CSS: Principais seletores e atributos, cores e fontes.
-| [04][] | 16/03 | CSS (cont.); Position; Layouts: flexbox, grid layout
-| [05][] | 23/03 | Fundamentos da linguagem JavaScript.
-| [06][] | 30/03 | APIs, JSON, AJAX.
-| [07][] | 06/04 | Programação Funcional e Orientada à Objetos em JavaScript.
-| [08][] | 13/03 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md); Desenvolvimento Back-End; Introdução à linguagem PHP.
+| [01] | 16/02 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub; Configuração do GitHub Pages.
+| [02] | 23/02 | Instalação e configuração do VS Code; Revisão de Redes e Internet; Introdução à linguagem HTML.
+| [03] | 09/03 | Introdução a CSS: Principais seletores e atributos, cores e fontes.
+| [04] | 16/03 | CSS (cont.); Position; Layouts: flexbox, grid layout
+| [05] | 23/03 | Fundamentos da linguagem JavaScript.
+| [06] | 30/03 | APIs, JSON, AJAX.
+| [07] | 06/04 | Programação Funcional e Orientada à Objetos em JavaScript.
+| [08] | 13/03 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md); Desenvolvimento Back-End; Introdução à linguagem PHP.
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
@@ -64,7 +64,7 @@ Introdução ao Desenvolvimento Web Front-End, com ênfase no HTML5, CSS3 e Java
 | Capa | Descrição |
 | ---  | --- |
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iVcZUGuoL._SX408_BO1,204,203,200_.jpg" alt="img" width="100px"> | <sup>[ROBBINS-5e_2018]</sup><br>ROBBINS, Jennifer N. __Learning Web Design: A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics__. 5. ed., 2018[.](https://app.box.com/s/thfya26nnxo8gwbwo09qjfwq83n96m4a)
-| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup><br>FLANAGAN, David. __JavaScript: O Guia Definitivo__. 6. ed. Porto Alegre: Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
+| <img src="https://m.media-amazon.com/images/I/51w53T12s8L.jpg" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup><br>FLANAGAN, David. [__JavaScript: O Guia Definitivo__](https://www.academia.edu/40442620/JavaScript_O_Guia_Definitivo_v). 6. ed. Porto Alegre: Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
 | <img src="./referencias/capas/FLANAGAN-7e_2020.jpg" alt="img" width="100px"> | <sup id="FLANAGAN-7e_2020">[FLANAGAN-7e_2020]</sup><br>FLANAGAN, David. __JavaScript: The Definitive Guide__. 7. ed. O’Reilly Media, 2020.
 
 <br>

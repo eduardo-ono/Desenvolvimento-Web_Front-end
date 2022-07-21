@@ -10,6 +10,7 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![Thumb](https://img.youtube.com/vi/e-5obm1G_FY/default.jpg)](https://www.youtube.com/watch?v=e-5obm1G_FY "Aprendendo programação funcional com JavaScript - Anjana Vakil - JSUnconf") | <sup>[JSConf]</sup> [__Aprendendo programação funcional com JavaScript - Anjana Vakil - JSUnconf__](https://www.youtube.com/watch?v=e-5obm1G_FY) <br> (29:56, YouTube, Jun/2016)
+| [![img](https://img.youtube.com/vi/e-5obm1G_FY/default.jpg)](https://www.youtube.com/watch?v=e-5obm1G_FY) | <sup>[JSConf]</sup><br>[__Aprendendo programação funcional com JavaScript - Anjana Vakil - JSUnconf__](https://www.youtube.com/watch?v=e-5obm1G_FY)<br><sub>(29:56, YouTube, Jun/2016)</sub>
+| [![img](https://img.youtube.com/vi/D0h1KCcPpbY/default.jpg)](https://www.youtube.com/watch?v=D0h1KCcPpbY) | <sup>[Mango]</sup><br>[__Functional Programming__](https://www.youtube.com/watch?v=D0h1KCcPpbY)<br><sub>(21:14, YouTube, Jun/2020)</sub>
 
 <br>

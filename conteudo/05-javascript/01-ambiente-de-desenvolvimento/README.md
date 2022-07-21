@@ -1,10 +1,10 @@
 <table>
 <tr>
 <td align="left" width="8000">
-    <small>Desenvolvimento Web (Front-End)</small>
+    <small>Desenvolvimento Web (Front-End) > Conteúdo > JavaScript</small>
 </td>
 <td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;22/04/2022</small>
+    <small>Atualizado&nbsp;em:&nbsp;14/05/2022</small>
 </td>
 </tr>
 </table>

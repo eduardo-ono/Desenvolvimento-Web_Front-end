@@ -14,6 +14,14 @@ Prof. Eduardo Ono
 
 <br>
 
+## Pré-Requisitos
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/a2ni_JNvJYQ/default.jpg)](https://www.youtube.com/watch?v=a2ni_JNvJYQ) | <sup>[Rocketseat]</sup><br>[__3 coisas que você precisa dominar no Javascript pra se dar bem no React__](https://www.youtube.com/watch?v=a2ni_JNvJYQ)<br><sub>(11:41, YouTube, Mai/2022)</sub>
+
+<br>
+
 ## Cursos Introdutórios
 
 | Thumb | Descrição |

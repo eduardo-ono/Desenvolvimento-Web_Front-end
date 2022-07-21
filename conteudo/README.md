@@ -18,7 +18,7 @@ Prof. Eduardo Ono
 
   * SASS
 
-* ### [JavaScript](05-javascript/)
+* ### [JavaScript](05-javascript/README.md)
 
   * DOM
 
