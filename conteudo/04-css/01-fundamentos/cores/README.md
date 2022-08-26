@@ -54,3 +54,13 @@ Prof. Eduardo Ono
 | --- | :--: | :-: | :-: |
 | Branco (50%) | 255, 255, 255, 0.5 | FFFFFF80 | <img src="./img/branco-alpha-50.png" width="50">
 | Vermelho (50%) | 255, 0, 0, 0.5 | FF000080 | <img src="./img/vermelho-alpha-50.png" width="50">
+
+&nbsp;
+
+## Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/EJtmfkKulNA/default.jpg)](https://www.youtube.com/watch?v=EJtmfkKulNA) | <sup>[Web Dev Simplified]</sup><br>[__Are You Making This Mistake With CSS Colors?__](https://www.youtube.com/watch?v=EJtmfkKulNA)<br><sub>(6:57, YouTube, Jul/2021)</sub>
+
+&nbsp;

@@ -2,24 +2,24 @@
 
 # Extensões do VS Code
 
-Prof. Eduardo Ono
+__Prof. Eduardo Ono__
 
-<br>
+&nbsp;
 
-## Desenvolvimento Web
+## Extensões Recomendadas
 
-* Live Server (Ritwick Dey)
+* [Ritwick Dey] Live Server
 
-  > Caso aconteça um erro na execução do Live Sever (Go Live), abrir a tela de configuração da extensão (Extension Settings) e procurar pela opção `Use local IP as host`. Habilitar esta opção.
+    * Caso aconteça um erro na execução do Live Sever (Go Live), abrir a tela de configuração da extensão (Extension Settings) e habilitar a opção `Use local IP as host`.
 
-<br>
+&nbsp;
 
 ## Vídeos Recomendados
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![Thumb](https://img.youtube.com/vi/fyg9Uw3CLUU/default.jpg)](https://www.youtube.com/watch?v=fyg9Uw3CLUU "VS Code Tips and Tricks for 2021") | <sup>[[Coding Tech]]</sup> [__VS Code Tips and Tricks for 2021__](https://www.youtube.com/watch?v=fyg9Uw3CLUU) <br> (32:18, YouTube, Jul/2021)
+| [![Thumb](https://img.youtube.com/vi/fyg9Uw3CLUU/default.jpg)](https://www.youtube.com/watch?v=fyg9Uw3CLUU "VS Code Tips and Tricks for 2021") | <sup>[[Coding Tech]]</sup><br>[__VS Code Tips and Tricks for 2021__](https://www.youtube.com/watch?v=fyg9Uw3CLUU)<br><sub>(32:18, YouTube, Jul/2021)</sub>
 
-<br>
+&nbsp;
 
 [Coding Tech]: https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ

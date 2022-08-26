@@ -41,6 +41,7 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
+| [![img](https://img.youtube.com/vi/McKNP3g6VBA/default.jpg)](https://www.youtube.com/watch?v=McKNP3g6VBA) | <sup>[Programação Web]</sup><br>[__Curso Javascript Completo (6 Horas)__](https://www.youtube.com/watch?v=McKNP3g6VBA)<br><sub>(6:09:53, YouTube, Jan/2022)</sub>
 | [![img](https://img.youtube.com/vi/g7T23Xzys-A/default.jpg)](https://www.youtube.com/watch?v=g7T23Xzys-A) | <sup>[JavaScript Mastery]</sup><br>[__JavaScript Crash Course 2021 - Master JavaScript in One Video!__](https://www.youtube.com/watch?v=g7T23Xzys-A)<br><sub>(2:08:58, YouTube, Jan/2021)</sub>
 | [![img](https://img.youtube.com/vi/jS4aFq5-91M/default.jpg)](https://www.youtube.com/watch?v=jS4aFq5-91M) | <sup>[freeCodeCamp.org]</sup><br>[__JavaScript Programming - Full Course__](https://www.youtube.com/watch?v=jS4aFq5-91M)<br><sub>(7:44:19, YouTube, Jun/2021)</sub>
 | [![img](https://img.youtube.com/vi/t9dEgHpCNJE/default.jpg)](https://www.youtube.com/watch?v=t9dEgHpCNJE "JavaScript Course") | <sup>[Bro Code]</sup><br>[__JavaScript Course__](https://www.youtube.com/watch?v=t9dEgHpCNJE)<br><sub>(4:30:19, YouTube, Abr/2021)</sub>

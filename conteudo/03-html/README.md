@@ -1,6 +1,6 @@
 ## Desenvolvimento Web - HTML
 
-Prof. Eduardo Ono
+__Prof. Eduardo Ono__
 
 <br>
 

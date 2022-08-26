@@ -4,21 +4,18 @@
     <small>Desenvolvimento Web (Front-End) > Conteúdo</small>
 </td>
 <td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;23/04/2022</small>
+    <small>Atualizado&nbsp;em:&nbsp;21/07/2022</small>
 </td>
 </tr>
 </table>
 
 <br>
 
-<h1 align="center">
-Overview
-</h1>
-<h4 align="center">
-Prof. Eduardo Ono
-</h4>
+# Overview
 
-<br>
+#### Prof. Eduardo Ono
+
+&nbsp;
 
 ## Conceitos
 
@@ -59,6 +56,10 @@ Prof. Eduardo Ono
 
 ## Cursos Introdutórios
 
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/nPEpaft1y1k/default.jpg)](https://www.youtube.com/watch?v=nPEpaft1y1k) | <sup>[Programação Web]</sup><br>[__Curso HTML Completo (4 Horas)__](https://www.youtube.com/watch?v=nPEpaft1y1k)<br><sub>(4:14:56, YouTube, Nov/2021)</sub>
+
 <br>
 
 ## "Crash Courses"
@@ -95,6 +96,7 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
 ## Mercado de Trabalho
 
+* https://leetcode.com
 * [balta.io] [Entrevista de emprego: Frameworks VS Fundamentos]() (8:32, YouTube, Ago/2020)
 * [Goianos na Irlanda] [Salário de Programador Javascript na Irlanda e Frameworks com maior demanda](https://www.youtube.com/watch?v=gXs6s5nBEpg) (21:09, YouTube, Jan/2020)
 * [João Ribeiro] [COMO ESCOLHER O CAMINHO PARA SER WEB DEVELOPER](https://www.youtube.com/watch?v=to0YodD8I7g) (10:27, YouTube, Out/2020)

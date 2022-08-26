@@ -1,6 +1,6 @@
 > Desenvolvimento Web (Front-End) > Conteúdo > CSS
 
-# Flexbox
+# CSS Flexbox
 
 Prof. Eduardo Ono
 
@@ -8,7 +8,7 @@ Prof. Eduardo Ono
 
 ## CSS
 
-| Propriedade | Valor |
+| Atributo | Valor |
 | --- | --- |
 | display | flex
 | flex-direction | _row_ \| column

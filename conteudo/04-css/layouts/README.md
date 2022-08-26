@@ -1,6 +1,6 @@
 > Desenvolvimento Web (Front-End) > Conteúdo > CSS
 
-# Layouts
+# CSS Layouts
 
 Prof. Eduardo Ono
 

@@ -1,10 +1,14 @@
 > Desenvolvimento Web (Front-End) > Conteúdo > Ambiente de Desenvolvimento
 
+<div align="center">
+
 # Microsoft Visual Studio Code (VS Code)
 
-Prof. Eduardo Ono
+__Prof. Eduardo Ono__
 
-<br>
+</div>
+
+&nbsp;
 
 ## Instalação
 
@@ -22,7 +26,7 @@ Prof. Eduardo Ono
 
 <br>
 
-### Ubuntu 20.04 LTS
+### Ubuntu 22.04 LTS
 
 * No Terminal, digitar:
 
@@ -31,6 +35,25 @@ Prof. Eduardo Ono
   ```
 
 <br>
+
+## Configurações Recomendadas
+
+| Comando | Chave: Valor (settings.json) | Descrição
+| --- | --- | --- |
+| Editor: Linked Editing | `"editor.linkedEditing": true` | Auto renomeação de tags.
+| Editor: Mouse Wheel Zoom | `"editor.mouseWheelZoom": true` | Habilita o zoom via <kbd>Ctrl</kbd>+<kbd>rolete do mouse</kbd>
+| Editor: Wrapping Indent | `"editor.wrappingIndent": "deepIndent"` | Espaçamento do "wrapping"
+| Window: Command Center | `"window.commandCenter": true` | 
+
+&nbsp;
+
+### Vídeos Recomendados
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/H2gvHxC9gFY/default.jpg)](https://www.youtube.com/watch?v=H2gvHxC9gFY) | <sup>[ForrestKnight]</sup><br>[__My Visual Studio Code Setup for Web Development__](https://www.youtube.com/watch?v=H2gvHxC9gFY)<br><sub>(15:21, YouTube, Jul/2022)</sub>
+
+&nbsp;
 
 ## Extensões
 
