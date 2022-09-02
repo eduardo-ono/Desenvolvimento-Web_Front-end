@@ -14,8 +14,8 @@ Prof. Eduardo Ono
 
 ## Layouts
 
-* ### [Flexbox](./flexbox)
+* ### [Flexbox](./flexbox/README.md)
 
-* ### [Grid Layout](./grid-layout)
+* ### [Grid Layout](./grid-layout/README.md)
 
 <br>

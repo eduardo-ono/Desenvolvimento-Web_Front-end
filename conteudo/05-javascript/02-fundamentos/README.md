@@ -14,7 +14,15 @@ Fundamentos da linguagem de programação JavaScript, baseado no ECMAScript 6, d
 
 ## Tópicos
 
-### ECMAScript
+* ### ECMAScript
+
+* ### Tipos de Dados, Variáveis e Constantes
+
+    * #### [Strings](./tipos-de-dados-e-variaveis/strings.md)
+
+* ### [Vetores (Arrays)](./vetores/README.md)
+
+* ### Funções
 
 <br>
 
@@ -67,12 +75,6 @@ Fundamentos da linguagem de programação JavaScript, baseado no ECMAScript 6, d
 
 </details>
 
-Vetores
-
-| Thumb | Descrição |
-| :-: | --- |
-| [![img](https://img.youtube.com/vi/NH_lCxa1hv8/default.jpg)](https://www.youtube.com/watch?v=NH_lCxa1hv8) | <sup>[JavaScript Mastery]</sup> [__Top 10 JavaScript Array Methods__](https://www.youtube.com/watch?v=NH_lCxa1hv8) <br> <sub>(15:51, YouTube, Mai/2019)</sub>
-
 <details>
     <summary>
       <strong>Funções Anônimas</strong>
@@ -111,28 +113,6 @@ console.log(calcularImc(67, 1.73).toFixed(1));
     console.log(time);
 })();
 ```
-
-</details>
-
-<details>
-  <summary>
-    <strong>Vetores (Arrays)</strong>
-  </summary>
-
-```js
-const frutas = [ 'maçã', 'laranja', 'pera' ];
-frutas[3] = 'uva'; // Cuidado!
-frutas.push('manga'); // Insere como último elemento
-frutas.unshift('morango'); // Insere como primeiro elemento
-frutas.pop(); // Remove o último elemento
-console.log(Array.isArray(frutas));
-console.log(frutas);
-console.log(frutas.indexOf('laranja'));
-
-const coisas = [ 'maçã', 'laranja', 10, true ];
-console.log(Array.isArray(frutas)); // => true
-console.log(coisas);
- ```
 
 </details>
 

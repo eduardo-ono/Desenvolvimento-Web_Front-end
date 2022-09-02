@@ -8,9 +8,13 @@ __Prof. Eduardo Ono__
 
 ## Extensões Recomendadas
 
-* [Ritwick Dey] Live Server
-
-    * Caso aconteça um erro na execução do Live Sever (Go Live), abrir a tela de configuração da extensão (Extension Settings) e habilitar a opção `Use local IP as host`.
+| Extensão | Desenvolvedor | Descrição |
+| --- | --- | --- |
+| Live Server | Ritwick Dey | Obs.: Caso aconteça um erro na execução do Live Sever (Go Live), abrir a tela de configuração da extensão (Extension Settings) e habilitar a opção `Use local IP as host`.
+| ESLint | Microsoft | Integra o JavaScript ESLint no VS Code.
+| Quokka.js | Wallaby.js | Playground para JavaScript e TypeScript.
+| Quokka Statusbar Buttons | Skerchbuch | Botões de controle para o Quokka.
+| Regex Previewer | Christof Marti | Previewer.
 
 &nbsp;
 

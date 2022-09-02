@@ -43,7 +43,7 @@ __Prof. Eduardo Ono__
 | Editor: Linked Editing | `"editor.linkedEditing": true` | Auto renomeação de tags.
 | Editor: Mouse Wheel Zoom | `"editor.mouseWheelZoom": true` | Habilita o zoom via <kbd>Ctrl</kbd>+<kbd>rolete do mouse</kbd>
 | Editor: Wrapping Indent | `"editor.wrappingIndent": "deepIndent"` | Espaçamento do "wrapping"
-| Window: Command Center | `"window.commandCenter": true` | 
+| Terminal › Integrated: Smooth Scrolling | `"terminal.integrated.smoothScrolling": true`
 
 &nbsp;
 
