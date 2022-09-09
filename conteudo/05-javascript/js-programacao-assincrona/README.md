@@ -1,16 +1,16 @@
 > Desenvolvimento Web (Front-End) > Conteúdo > JavaScript
 
-# JavaScript Assíncrono
+# Programação Assíncrona em JavaScript
 
-Prof. Eduardo Ono
+__Prof. Eduardo Ono__
 
-<br>
+&nbsp;
 
-## Conteúdo
+## Tópicos
 
 * Callbacks
 * Promisses
-* Async Await
+* Async-Await
 
 &nbsp;
 
@@ -25,4 +25,4 @@ Prof. Eduardo Ono
 
 ## Bibliografia
 
-<br>
+&nbsp;

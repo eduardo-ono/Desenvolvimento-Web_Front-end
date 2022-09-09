@@ -18,14 +18,15 @@ Introdução ao Desenvolvimento Web Front-End, com ênfase no HTML5, CSS3 e Java
 | ---  | ---   | ---      |
 | [01] | 12/08 | Overview de Desenvolvimento Web: Front-End, Back-End e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub; Configuração do GitHub Pages.
 | [02] | 19/08 | Instalação e configuração do VS Code; Revisão de Redes e Internet; Introdução à linguagem HTML; Introdução ao CSS.
-| [03] | 26/08 | Introdução a CSS: Principais seletores e atributos, cores e fontes; Exemplo: [Formulário de login].
-| [04] |  | CSS (cont.); Position; Layouts: flexbox, grid layout
-| [05] |  | Fundamentos da linguagem JavaScript.
-| [06] |  | APIs, JSON, AJAX.
-| [07] |  | Programação Funcional e Orientada à Objetos em JavaScript.
-| [08] |  | [__1a. AVALIAÇÃO__](./avaliacoes/README.md); Desenvolvimento Back-End; Introdução à linguagem PHP.
+| [03] | 26/08 | Introdução a CSS: Principais seletores e atributos, cores e fontes; Exemplo: [Formulário de login]; Position; Layouts: flexbox, grid layout.
+| [04] | 02/09 | Fundamentos da linguagem JavaScript.
+| [05] | 09/09 | DOM; Aplicação do JavaScript: [Projeto "To Do List"].
+| [06] | 16/09 | APIs, JSON, AJAX.
+| [07] | 23/09 | Orientação à Objetos em JavaScript; Introdução ao desenvolvimento Back-End.
+| [08] | 30/09 | [__1a. AVALIAÇÃO__](./avaliacoes/README.md); Desenvolvimento Back-End.
 
 [Formulário de login]: ./conteudo/04-css/exemplos/README.md
+[Projeto "To Do List"]: ./projetos/to-do-list/README.md
 
 [01]: ./aulas/README.md#aula-01
 [02]: ./aulas/README.md#aula-02
