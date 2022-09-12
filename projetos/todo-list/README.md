@@ -1,26 +1,27 @@
 > Desenvolvimento Web (Front-End) > Projetos
 
-# To Do List
+# To-Do List
 
 __Prof. Eduardo Ono__
 
 &nbsp;
 
-## Projeto
-
-* Descrição: "To do list"
-* Versão: "iniciante"
-* Recursos utilizados: HTML, CSS, JavaScript ("vanilla")
-* Criado em: 09/09/2022
-* Modificado em:
-* Referências:
-    * https://www.youtube.com/watch?v=HSssE1PRQcA
-    * https://github.com/matheusbattisti/todo-avancado-js
-
-
 ## Versão Online
 
 * https://eduardo-ono.github.io/Desenvolvimento-Web/projetos/todo-list/
+
+&nbsp;
+
+## Projeto
+
+* Descrição: "To-do list"
+* Versão: "iniciante"
+* Recursos utilizados: HTML, CSS, "Vanilla" JavaScript
+* Criado em: 09/09/2022
+* Modificado em: 12/09/2022
+* Referências:
+    * https://www.youtube.com/watch?v=HSssE1PRQcA
+    * https://github.com/matheusbattisti/todo-avancado-js
 
 &nbsp;
 
@@ -30,7 +31,7 @@ __Prof. Eduardo Ono__
 
     * HTML
         * <a href="https://youtu.be/HSssE1PRQcA?t=519" target="todo-list">div class="todo-container"</a>
-            * div class=""
+            * div
     * [CSS](https://youtu.be/HSssE1PRQcA?t=1041)
     * [JavaScript](https://youtu.be/HSssE1PRQcA?t=1885)
 
