@@ -20,7 +20,7 @@ __Prof. Eduardo Ono__
 
 ## Versão Online
 
-* https://eduardo-ono.github.io/Desenvolvimento-Web/projetos/to-do-list/
+* https://eduardo-ono.github.io/Desenvolvimento-Web/projetos/todo-list/
 
 &nbsp;
 

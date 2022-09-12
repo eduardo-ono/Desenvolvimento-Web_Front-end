@@ -21,57 +21,60 @@ button {
     justify-content: center;
 }
 
-.todo-container {
+.main-container {
     background-color: hsl(0, 0%, 99%);
     border-radius: 15px;
     margin: 3rem auto;
-    max-width: 450px;
+    max-width: 600px;
     padding: 1.5rem;
 
 }
 
-.todo-container header {
+.main-container header {
     text-align: center;
     padding: 0 1rem 1rem; /* top right bottom left */
     border-bottom: 1px solid hsl(0, 0%, 50%)
 }
 
-.form-control {
+.input-container {
     display: flex;
 }
 
-.form-control input {
+.input-container input {
+    font-size: 1rem;
+    padding: .5rem;
     margin-right: 0.3rem;
 }
 
-#todo-form, #edit-form {
+#input-form, #edit-form {
     padding: 1rem;
     border-bottom: 1px solid hsl(0, 0%, 50%);
-
 }
 
-.todo {
+.tarefa {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 0.75rem;
+    padding: 0.5rem;
     border-bottom: 1px solid hsl(0, 0%, 50%);
-    transition: .5s;
+    transition: .3s;
 }
 
-.todo h3 {
+.tarefa h3 {
     flex: 1;
     font-size: .9rem;
 }
 
-.todo button {
+.tarefa button {
+    font-size: 0.9rem;
     margin-left: .4rem;
 }
 
-.done {
-    background: hsl(0, 0%, 40%);
+.tarefa-finalizada {
+    background: hsl(0, 0%, 85%);
 }
 
-.done h3 {
+.tarefa-finalizada h3 {
+    color: hsl(0, 0%, 60%);
     text-decoration: line-through;
 }

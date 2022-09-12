@@ -8,7 +8,7 @@ Prof. Eduardo Ono
 
 ## Sumário
 
-* [To Do List](./to-do-list/README.md)
+* [To Do List](./todo-list/README.md)
 
 <br>
 

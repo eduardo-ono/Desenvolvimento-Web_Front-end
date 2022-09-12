@@ -6,9 +6,34 @@ Prof. Eduardo Ono
 
 <br>
 
-## 2022_1 - GECO5AN
+## 2022_2 - GTADS4AN
 
 ### 1a. Avaliação
+
+- Criar uma Single Page Application (SPA) front-end utilizando HTML, CSS e "Vanilla" JavaScript.
+- Valor: 35 (-> 3,5 no Portal do Aluno)
+- Data da entrega: O link do web site deverá ser postado até o dia 26/09 às 23:59.
+
+O site deverá conter:
+
+- HTML com o conteúdo da tag <body> "em branco";
+- Três telas, no mínimo, de conteúdo livre (o tema deve ser individual);
+- Pelo menos, uma fonte do Google Fonts;
+- Uma "switch" que alterna entre o "light/dark mode";
+- Um menu (horizontal ou vertical) simples, com links para outras telas da SPA ou para âncoras na mesma tela;
+- Um "botão" no conto inferior direito que leva ao topo da página;
+- Consumo de uma API;
+- Hospedagem no GitHub, utilizando o recurso GitHub Pages.
+
+&nbsp;
+
+<details>
+<summary>
+    <strong>2022_1 - GECO5AN</strong>
+</summary>
+<section markdown="1">
+
+__1a. Avaliação__
 
 * Desenvolver um web site responsivo utilizando HTML, CSS e JavaScript, cujo conteúdo deverá ser condizente com o tema do Projeto Integrador.
 
@@ -29,3 +54,6 @@ Prof. Eduardo Ono
     * Um "botão" no canto inferior direito que leva ao topo da página.
 
     * Consumo de uma API.
+
+</section>
+</details>

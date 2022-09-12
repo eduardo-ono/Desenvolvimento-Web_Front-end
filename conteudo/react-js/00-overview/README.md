@@ -19,6 +19,7 @@ Prof. Eduardo Ono
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/a2ni_JNvJYQ/default.jpg)](https://www.youtube.com/watch?v=a2ni_JNvJYQ) | <sup>[Rocketseat]</sup><br>[__3 coisas que você precisa dominar no Javascript pra se dar bem no React__](https://www.youtube.com/watch?v=a2ni_JNvJYQ)<br><sub>(11:41, YouTube, Mai/2022)</sub>
+| [![img](https://img.youtube.com/vi/37SwqREHRGI/default.jpg)](https://www.youtube.com/watch?v=37SwqREHRGI) | <sup>[Rocketseat]</sup><br>[__TUDO que você deve estudar de JavaScript antes do React__](https://www.youtube.com/watch?v=37SwqREHRGI)<br><sub>(1:25:23, YouTube, Ago/2022)</sub>
 
 &nbsp;
 
