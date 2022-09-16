@@ -11,5 +11,6 @@ __Prof. Eduardo Ono__
 | Exemplo | Descrição |
 | --- | --- |
 | `formulario-login` | Transparência em CSS em um formulário de login.
+| `dark-mode` | Alterna entre "light-mode" e "dark-mode".
 
 &nbsp;
