@@ -1,5 +1,6 @@
 .gitignore
-.ipynb_checkpoints/
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
 tempCodeRunnerFile.js
 alunos/tmp/
 Bibliografia/

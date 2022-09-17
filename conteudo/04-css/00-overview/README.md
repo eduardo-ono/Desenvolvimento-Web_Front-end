@@ -18,11 +18,18 @@ __Prof. Eduardo Ono__
 
 &nbsp;
 
-## Crash Courses - CSS
+## Cursos Introdutórios
 
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/vwbegraDXD8/default.jpg)](https://www.youtube.com/watch?v=vwbegraDXD8) | <sup>[Matheus Battisti - Hora de Codar]</sup><br>[__Curso de CSS para iniciantes - Aprenda CSS e crie um projeto__](https://www.youtube.com/watch?v=vwbegraDXD8)<br><sub>(1:49:16, YouTube, Out/2021)</sub>
+
+&nbsp;
+
+## Crash Courses - CSS
+
+| Thumb | Descrição |
+| :-: | --- |
 | [![img](https://img.youtube.com/vi/1Rs2ND1ryYc/default.jpg)](https://www.youtube.com/watch?v=1Rs2ND1ryYc) | <sup>[freeCodeCamp.org]</sup><br>[__CSS Tutorial - Zero to Hero (Complete Course)__](https://www.youtube.com/watch?v=1Rs2ND1ryYc)<br><sub>(6:18:37, YouTube, Out/2019)</sub>
 
 &nbsp;
