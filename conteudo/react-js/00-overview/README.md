@@ -10,7 +10,8 @@ Prof. Eduardo Ono
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![](https://img.youtube.com/vi/N3AkSS5hXMA/default.jpg)](https://www.youtube.com/watch?v=N3AkSS5hXMA) | <sup>[Programming with Mosh]</sup><br>[__What Is React (React js) & Why Is It So Popular?__](https://www.youtube.com/watch?v=N3AkSS5hXMA)<br><sub>(YouTube, Jun/2018)</sub>
+| [![img](https://img.youtube.com/vi/NhUr8cwDiiM/default.jpg)](https://www.youtube.com/watch?v=NhUr8cwDiiM) | <sup>[Código Fonte TV]</sup><br>[__React JS // Dicionário do Programador__](https://www.youtube.com/watch?v=NhUr8cwDiiM)<br><sub>(10:03, YouTube, Set/2020)</sub>
+| [![img](https://img.youtube.com/vi/N3AkSS5hXMA/default.jpg)](https://www.youtube.com/watch?v=N3AkSS5hXMA) | <sup>[Programming with Mosh]</sup><br>[__What Is React (React js) & Why Is It So Popular?__](https://www.youtube.com/watch?v=N3AkSS5hXMA)<br><sub>(YouTube, Jun/2018)</sub>
 
 &nbsp;
 

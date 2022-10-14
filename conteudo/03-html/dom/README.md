@@ -1,19 +1,19 @@
-> #### Desenvolvimento Web (Front-End)
+> Desenvolvimento Web (Front-End) > Conteúdo > HTML
 
 # DOM (Document Object Model)
 
-Prof. Eduardo Ono
+__Prof. Eduardo Ono__
 
 <br>
 
-## Vídeo Aulas
+## Conceitos
 
-  | Thumb | Descrição |
-  | :-: | --- |
-  | ![Thumb](https://img.youtube.com/vi/wiozYyXQEVk/default.jpg) | [Dev Ed]<br>[Javascript Dom Manipulation \| Javascript Tutorial For Beginners](https://www.youtube.com/watch?v=wiozYyXQEVk) (YouTube, 16:49, Jan/2019)<br><br>Tópicos:
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/HOv9CqqAZk0/default.jpg)](https://www.youtube.com/watch?v=HOv9CqqAZk0) | <sup>[Código Fonte TV]</sup><br>[__DOM (Document Object Model) // Dicionário do Programador__](https://www.youtube.com/watch?v=HOv9CqqAZk0)<br><sub>(8:10, YouTube, Fev/2020)</sub>
 
-<br>
+&nbsp;
 
-## Referências Bibliográficas
+## Referências
 
-<br>
+&nbsp;

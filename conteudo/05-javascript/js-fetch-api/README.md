@@ -12,6 +12,7 @@ __Prof. Eduardo Ono__
 | Thumb | Descrição |
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/qIGYM4S8x50/default.jpg)](https://www.youtube.com/watch?v=qIGYM4S8x50) | <sup>[Matheus Battisti - Hora de Codar]</sup><br>[__APRENDA FETCH API DE JAVASCRIPT COM PROJETO__](https://www.youtube.com/watch?v=qIGYM4S8x50)<br><sub>(45:04, YouTube, Mai/2022)</sub>
+| [![img](https://img.youtube.com/vi/Oive66jrwBs/default.jpg)](https://www.youtube.com/watch?v=Oive66jrwBs) | <sup>[Oive66jrwBs]</sup><br>[__Fetch API Introduction__](https://www.youtube.com/watch?v=Oive66jrwBs)<br><sub>(30:53, YouTube, Ago/2017)</sub>
 
 &nbsp;
 

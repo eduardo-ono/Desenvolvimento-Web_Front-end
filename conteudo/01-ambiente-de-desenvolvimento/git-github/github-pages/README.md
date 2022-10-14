@@ -4,7 +4,7 @@
     <small>Desenvolvimento Web (Front-End) > Conteúdo > Ambiente de Desenvolvimento > Git-GitHub</small>
 </td>
 <td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;18/04/2022</small>
+    <small>Atualizado&nbsp;em:&nbsp;26/09/2022</small>
 </td>
 </tr>
 </table>

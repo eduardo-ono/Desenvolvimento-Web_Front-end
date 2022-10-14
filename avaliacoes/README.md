@@ -16,14 +16,14 @@ Prof. Eduardo Ono
 
 O site deverá conter:
 
-- HTML com o conteúdo da tag <body> "em branco";
-- Três telas, no mínimo, de conteúdo livre (o tema deve ser individual);
-- Pelo menos, uma fonte do Google Fonts;
-- Uma "switch" que alterna entre o "light/dark mode";
-- Um menu (horizontal ou vertical) simples, com links para outras telas da SPA ou para âncoras na mesma tela;
-- Um "botão" no conto inferior direito que leva ao topo da página;
-- Consumo de uma API;
-- Hospedagem no GitHub, utilizando o recurso GitHub Pages.
+- (Requisito) HTML com o conteúdo da tag <body> "em branco";
+- (1.5 pt.) Três telas, no mínimo, de conteúdo livre (o tema deve ser individual);
+- (0,25 pt.) Pelo menos, uma fonte do Google Fonts;
+- (0,5 pt.) Uma "switch" que alterna entre o "light/dark mode";
+- (0,5 pt) Um menu (horizontal ou vertical) simples, com links para outras telas da SPA ou para âncoras na mesma tela;
+- (0,25 pt.) Um "botão" no canto inferior direito que leva ao topo da página;
+- (0,5 pt.) Consumo de uma API;
+- (Requisito) Hospedagem no GitHub, utilizando o recurso GitHub Pages.
 
 &nbsp;
 
