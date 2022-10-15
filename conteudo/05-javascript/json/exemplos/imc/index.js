@@ -17,7 +17,7 @@ fetch("./pacientes.json")
       peso.textContent = `${paciente.peso}`;
       const altura = document.createElement("strong");
       altura.textContent = `${paciente.altura}`;
-      listItem.append(`${nome.textContent}, ${peso.textContent} kg, ${altura.textContent} m`);
+      listItem.append(nome, ', ', peso, ' kg, ', altura, ' m');
       myList.appendChild(listItem);
     }
   })
