@@ -1,0 +1,8 @@
+{
+    "pacientes": [
+        { "nome": "Fulano de Tal", "peso": 79.4, "altura": 1.76 },
+        { "nome": "Ciclano de Tal", "peso": 72.1, "altura": 1.72 },
+        { "nome": "Beltrano de Tal", "peso": 69.3, "altura": 1.73 },
+        { "nome": "Mengano de Tal", "peso": 75.4, "altura": 1.77 }
+    ]
+}
