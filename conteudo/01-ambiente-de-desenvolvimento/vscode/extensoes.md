@@ -18,11 +18,12 @@ __Prof. Eduardo Ono__
 
 &nbsp;
 
-## Vídeos Recomendados
+## Vídeos de Apoio
 
 | Thumb | Descrição |
 | :-: | --- |
 | [![Thumb](https://img.youtube.com/vi/fyg9Uw3CLUU/default.jpg)](https://www.youtube.com/watch?v=fyg9Uw3CLUU "VS Code Tips and Tricks for 2021") | <sup>[[Coding Tech]]</sup><br>[__VS Code Tips and Tricks for 2021__](https://www.youtube.com/watch?v=fyg9Uw3CLUU)<br><sub>(32:18, YouTube, Jul/2021)</sub>
+| [![img](https://img.youtube.com/vi/5pZOCXJp0C8/default.jpg)](https://www.youtube.com/watch?v=5pZOCXJp0C8) | <sup>[João Ribeiro]</sup><br>[__VISUAL STUDIO CODE LIVE SERVER__](https://www.youtube.com/watch?v=5pZOCXJp0C8)<br><sub>(4:23, YouTube, Ago/2019)</sub> |  
 
 &nbsp;
 

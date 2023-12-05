@@ -1,8 +1,8 @@
-> Desenvolvimento Web > Conteúdo > React.js
+&nbsp;
 
-# Overview
+<h1 align="center">Overview - React JS</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
 &nbsp;
 
@@ -21,6 +21,22 @@ Prof. Eduardo Ono
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/a2ni_JNvJYQ/default.jpg)](https://www.youtube.com/watch?v=a2ni_JNvJYQ) | <sup>[Rocketseat]</sup><br>[__3 coisas que você precisa dominar no Javascript pra se dar bem no React__](https://www.youtube.com/watch?v=a2ni_JNvJYQ)<br><sub>(11:41, YouTube, Mai/2022)</sub>
 | [![img](https://img.youtube.com/vi/37SwqREHRGI/default.jpg)](https://www.youtube.com/watch?v=37SwqREHRGI) | <sup>[Rocketseat]</sup><br>[__TUDO que você deve estudar de JavaScript antes do React__](https://www.youtube.com/watch?v=37SwqREHRGI)<br><sub>(1:25:23, YouTube, Ago/2022)</sub>
+
+&nbsp;
+
+## Dicas para o profissional
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/ySpPnhaa9GA/default.jpg)](https://www.youtube.com/watch?v=ySpPnhaa9GA) | <sup>[Dev Junior Alves]</sup><br>[__O QUE VOCÊ DEVE SABER COMO DEV JUNIOR/PLENO/SENIOR?__](https://www.youtube.com/watch?v=ySpPnhaa9GA)<br><sub>(20:11, YouTube, 05/Dez/2022)</sub>
+
+&nbsp;
+
+## Iniciando no React
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/pDbcC-xSat4/default.jpg)](https://www.youtube.com/watch?v=pDbcC-xSat4) | <sup>[Rocketseat]</sup><br>[__COMEÇANDO NO REACT.JS EM 2022__](https://www.youtube.com/watch?v=pDbcC-xSat4)<br><sub>(45:40, YouTube, 24/Jan/2022)</sub>
 
 &nbsp;
 

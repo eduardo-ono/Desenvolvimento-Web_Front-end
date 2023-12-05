@@ -9,7 +9,7 @@
 </tr>
 </table>
 
-<br>
+&nbsp;
 
 # Overview
 
@@ -17,21 +17,29 @@
 
 &nbsp;
 
+## Atualizações
+
+| Thumb | Descrição |
+| :-: | --- |
+| [![img](https://img.youtube.com/vi/30nlBGjPRYM/default.jpg)](https://www.youtube.com/watch?v=30nlBGjPRYM) | <sup>[Código Fonte TV]</sup><br>[__CAMINHOS PARA SER UM DEV FRONT-END EM 2023 (GUIA COMPLETO E ATUALIZADO)__](https://www.youtube.com/watch?v=30nlBGjPRYM)<br><sub>(29:52, YouTube, 10/Fev/2023)</sub>
+
+&nbsp;
+
 ## Conceitos
 
 | Thumb | Descrição |
 |:-:|---|
-| [![img](https://img.youtube.com/vi/Em0R3csNMVE/default.jpg)](https://www.youtube.com/watch?v=Em0R3csNMVE "O QUE É FRONT-END E BACK-END???") | <sup>[Rafaella Ballerini]</sup> [__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=Em0R3csNMVE)<br><sub>(6:22, YouTube, Nov/2020)</sub>
+| [![img](https://img.youtube.com/vi/Em0R3csNMVE/default.jpg)](https://www.youtube.com/watch?v=Em0R3csNMVE "O QUE É FRONT-END E BACK-END???") | <sup>[Rafaella Ballerini]</sup><br>[__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=Em0R3csNMVE)<br><sub>(6:22, YouTube, Nov/2020)</sub>
 
-<br>
+&nbsp;
 
 ## Pré-Requisitos
 
 | Thumb | Descrição |
 |:-:|---|
-| [![img](https://img.youtube.com/vi/sx4hAHhO9CY/default.jpg)](https://www.youtube.com/watch?v=sx4hAHhO9CY "O QUE É FRONT-END E BACK-END???") | <sup>[Fabio Akita]</sup> [__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=sx4hAHhO9CY)<br><sub>(21:07, YouTube, Fev/2019)</sub>
+| [![img](https://img.youtube.com/vi/sx4hAHhO9CY/default.jpg)](https://www.youtube.com/watch?v=sx4hAHhO9CY "O QUE É FRONT-END E BACK-END???") | <sup>[Fabio Akita]</sup><br>[__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=sx4hAHhO9CY)<br><sub>(21:07, YouTube, Fev/2019)</sub>
 
-<br>
+&nbsp;
 
 ## História da Web
 
@@ -42,7 +50,7 @@
 | [![img](https://img.youtube.com/vi/dzqr7XQjbKY/default.jpg)](https://www.youtube.com/watch?v=dzqr7XQjbKY) | <sup>[IntroBooks Education]</sup><br>[__History of Internet Documentary__](https://www.youtube.com/watch?v=dzqr7XQjbKY)<br><sub>(43:08, YouTube, Jul/2017)</sub>
 | [![img](https://img.youtube.com/vi/Q089i8RQPB0/default.jpg)](https://www.youtube.com/watch?v=Q089i8RQPB0) | <sup>[Cleo Abram]</sup><br>[__Why Elon Musk is really building Starlink__](https://www.youtube.com/watch?v=Q089i8RQPB0)<br><sub>(15:20, YouTube, Mar/2022)</sub>
 
-<br>
+&nbsp;
 
 ## Principais Sites de Hospedagem no País
 
@@ -52,7 +60,7 @@
 
 * [Filipe Deschamps] [Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe](https://www.youtube.com/watch?v=EW7m2WIvFgQ) (YouTube, 31:07, Nov/2020)
 
-<br>
+&nbsp;
 
 ## Cursos Introdutórios
 
@@ -60,11 +68,11 @@
 | :-: | --- |
 | [![img](https://img.youtube.com/vi/nPEpaft1y1k/default.jpg)](https://www.youtube.com/watch?v=nPEpaft1y1k) | <sup>[Programação Web]</sup><br>[__Curso HTML Completo (4 Horas)__](https://www.youtube.com/watch?v=nPEpaft1y1k)<br><sub>(4:14:56, YouTube, Nov/2021)</sub>
 
-<br>
+&nbsp;
 
 ## "Crash Courses"
 
-<br>
+&nbsp;
 
 ## Cursos "Completos"
 
@@ -74,13 +82,13 @@
 
 https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
-<br>
+&nbsp;
 
 ## Projetos
 
 * [Traversy Media] [Starting a Serious Web Development Project](https://youtu.be/gGGPTskb7c8) (YouTube, 19:03)
 
-<br>
+&nbsp;
 
 ## Dicas para o Profissional
 
@@ -92,7 +100,7 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 * [Danki Code] [O que Você PRECISA Saber Ter SUCESSO Como Desenvolvedor Web nos Dias De Hoje!](https://www.youtube.com/watch?v=KProuszNyKQ) (12:01)
 * [Danki Code] [Como Divulgar o seu Trabalho de Programador](https://www.youtube.com/watch?v=mObLc_hn2t0) (4:10)
 
-<br>
+&nbsp;
 
 ## Mercado de Trabalho
 
@@ -101,7 +109,7 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 * [Goianos na Irlanda] [Salário de Programador Javascript na Irlanda e Frameworks com maior demanda](https://www.youtube.com/watch?v=gXs6s5nBEpg) (21:09, YouTube, Jan/2020)
 * [João Ribeiro] [COMO ESCOLHER O CAMINHO PARA SER WEB DEVELOPER](https://www.youtube.com/watch?v=to0YodD8I7g) (10:27, YouTube, Out/2020)
 
-<br>
+&nbsp;
 
 ## Canais Recomendados
 
@@ -109,8 +117,11 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
 * https://www.youtube.com/c/AniaKub%C3%B3w/videos
 
-<br>
+&nbsp;
 
 [Rafaella Ballerini]: https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q
 [Fabio Akita]: https://www.youtube.com/c/FabioAkita1990
 [Nerd's lesson]: https://www.youtube.com/c/Nerdslesson
+
+&nbsp;
+
