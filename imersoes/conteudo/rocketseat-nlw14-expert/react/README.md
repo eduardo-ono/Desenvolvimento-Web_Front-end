@@ -37,7 +37,7 @@ Propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para us
     <td align="center">01</td>
     <td><img src="https://img.youtube.com/vi/oHRhNas5MtY/default.jpg" alt=""></td>
     <td>
-      <a href="https://www.youtube.com/watch?v=oHRhNas5MtY">Trilha React - Aula 1</a><br>
+      <a href="https://www.youtube.com/watch?v=oHRhNas5MtY">Trilha React: Aula 01 - NLW Expert</a><br>
       <sub>(1:04:23, YouTube, 05/Fev/2024)</sub>
     </td>
     <td>
@@ -61,7 +61,7 @@ Propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para us
       <sub>(56:05, YouTube, 07/Fev/2024)</sub>
     </td>
     <td>
-      <small>
+      <sub>
       0=849000*Local storage*<br>
       1=1068250*Search*<br>
       2=1370250*Voice note*<br>
@@ -69,7 +69,7 @@ Propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para us
       4=2736250*Layout responsivo*<br>
       5=3046000*Apagar nota*<br>
       6=
-      </small>
+      </sub>
     </td>
   </tr>
 </table>

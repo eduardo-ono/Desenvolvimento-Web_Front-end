@@ -1,8 +1,6 @@
-<h1 align="center">Desenvolvimento Web (Front-End)</h1>
+<h1 align="center">Desenvolvimento Web Front-end</h1>
 
 <h4 align="center">Prof. Eduardo Ono</h4>
-
-Versão Web: https://eduardo-ono.github.io/Desenvolvimento-Web/
 
 &nbsp;
 
