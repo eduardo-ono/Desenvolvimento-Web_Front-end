@@ -1,30 +1,77 @@
-# React + TypeScript + Vite
+# Voice Notes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
 
-Currently, two official plugins are available:
+Aplicação desenvolvida durante o NLW Expert (edição 14) da Rocketseat, utilizando React, TypeScript, Tailwind e a API SpeechRecognition.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+&nbsp;
 
-## Expanding the ESLint configuration
+## Repositório do projeto original
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+* GitHub
+  * https://github.com/rocketseat-education/nlw-expert-react
 
-- Configure the top-level `parserOptions` property like this:
+* Figma
+  * https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+&nbsp;
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Stacks e Ferramentas Utilizadas
+
+Propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para uso de modal), date-fns (para tratamento de datas) e Sonner (para exibição de toasts).
+
+&nbsp;
+
+## Resources
+
+* Vídeos das aulas
+
+<table>
+  <tr>
+    <th>Aula</th>
+    <th>Thumbnail</th>
+    <th>Título</th>
+    <th>Marcadores</th>
+  </tr>
+  <tr>
+    <td align="center">01</td>
+    <td><img src="https://img.youtube.com/vi/oHRhNas5MtY/default.jpg" alt=""></td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=oHRhNas5MtY">Trilha React - Aula 1</a><br>
+      <sub>(1:04:23, YouTube, 05/Fev/2024)</sub>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">02</td>
+    <td><img src="https://img.youtube.com/vi/8TydWjnb0_s/default.jpg" alt=""></td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=8TydWjnb0_s">Trilha React - Aula 2</a><br>
+      <sub>(56:45, YouTube, 06/Fev/2024)</sub>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">03</td>
+    <td><img src="https://img.youtube.com/vi/juqyYfuOVjM/default.jpg" alt=""></td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=juqyYfuOVjM">Trilha React - Aula 3</a><br>
+      <sub>(56:05, YouTube, 07/Fev/2024)</sub>
+    </td>
+    <td>
+      <small>
+      0=849000*Local storage*<br>
+      1=1068250*Search*<br>
+      2=1370250*Voice note*<br>
+      3=1901250*Speech Recognition API*<br>
+      4=2736250*Layout responsivo*<br>
+      5=3046000*Apagar nota*<br>
+      6=
+      </small>
+    </td>
+  </tr>
+</table>
+
+&nbsp;

@@ -13,7 +13,7 @@
     <th>Nível</th>
   </tr>
   <tr>
-    <td rowspan="8">05/Fev a 08/Fev<br>de 2024</td>
+    <td rowspan="8">05/Fev a 14/Fev<br>de 2024</td>
     <td><a href="./conteudo/rocketseat-nlw14-expert/"><strong>Rocketseat - NLW Expert #14</strong></a><br>Trilhas:</td>
   </tr>
   <tr>
