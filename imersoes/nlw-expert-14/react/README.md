@@ -2,11 +2,15 @@
 
 ## Descrição
 
-Aplicação desenvolvida durante o NLW Expert (edição 14) da Rocketseat, utilizando React, TypeScript, Tailwind e a API SpeechRecognition.
+Aplicação web front-end desenvolvida em React.js durante o NLW Expert (edição 14) da Rocketseat, utilizando TypeScript, Tailwind CSS e a API SpeechRecognition.
+
+## Limitações
+
+Não funciona em todos os navegadores. Testado apenas no Google Chrome.
 
 &nbsp;
 
-## Repositório do projeto original
+## Repositório do projeto original (Rocketseat)
 
 * GitHub
   * https://github.com/rocketseat-education/nlw-expert-react
@@ -47,7 +51,7 @@ Propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para us
     <td align="center">02</td>
     <td><img src="https://img.youtube.com/vi/8TydWjnb0_s/default.jpg" alt=""></td>
     <td>
-      <a href="https://www.youtube.com/watch?v=8TydWjnb0_s">Trilha React - Aula 2</a><br>
+      <a href="https://www.youtube.com/watch?v=8TydWjnb0_s">Trilha React: Aula 02 - NLW Expert</a><br>
       <sub>(56:45, YouTube, 06/Fev/2024)</sub>
     </td>
     <td>
@@ -57,7 +61,7 @@ Propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para us
     <td align="center">03</td>
     <td><img src="https://img.youtube.com/vi/juqyYfuOVjM/default.jpg" alt=""></td>
     <td>
-      <a href="https://www.youtube.com/watch?v=juqyYfuOVjM">Trilha React - Aula 3</a><br>
+      <a href="https://www.youtube.com/watch?v=juqyYfuOVjM">Trilha React: Aula 03 - NLW Expert</a><br>
       <sub>(56:05, YouTube, 07/Fev/2024)</sub>
     </td>
     <td>
@@ -73,5 +77,11 @@ Propriedades e estado, além de conhecer e usar as bibliotecas Radix UI (para us
     </td>
   </tr>
 </table>
+
+&nbsp;
+
+## Certificado
+
+* https://app.rocketseat.com.br/certificates/6038cc06-31ad-48b6-93f5-f0a89397570c
 
 &nbsp;

@@ -14,13 +14,13 @@
   </tr>
   <tr>
     <td rowspan="8">05/Fev a 14/Fev<br>de 2024</td>
-    <td rowspan="8"><a href="./conteudo/rocketseat-nlw14-expert/"><strong>Rocketseat - NLW Expert #14</strong></a></td>
+    <td rowspan="8"><a href="./nlw-expert-14/"><strong>Rocketseat - NLW Expert #14</strong></a></td>
   </tr>
   <tr>
     <td>C#</td>
   </tr>
   <tr>
-    <td>HTML+CSS+JS</td>
+    <td><a href="./nlw-expert-14/html-css-js/">HTML+CSS+JS</a></td>
   </tr>
   <tr>
     <td>Java</td>
@@ -29,7 +29,7 @@
     <td>Node.js</td>
   </tr>
   <tr>
-    <td><a href="./conteudo/rocketseat-nlw14-expert/react/">React</a></td>
+    <td><a href="./nlw-expert-14/react/">React</a></td>
   </tr>
   <tr>
     <td>React Native</td>
@@ -43,7 +43,7 @@
   </tr>
   <tr>
     <td>2023</td>
-    <td><a href="./conteudo/alura-imersao-dev-07/"><strong>Alura - Imersão Dev 7ª Edição</strong></a></td>
+    <td><a href="./alura-imersao-dev-07/"><strong>Alura - Imersão Dev 7ª Edição</strong></a></td>
   </tr>
 </table>
 
