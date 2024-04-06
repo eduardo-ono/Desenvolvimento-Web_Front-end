@@ -20,13 +20,13 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 | [04] |  | - Introdução à linguagem HTML. |
 | [05] |  | - Introdução ao CSS; Principais seletores e atributos; Cores e fontes. |
 | [06] |  | - CSS: Position; Layouts: flexbox, grid layout;<br> - Exemplo: [Formulário de login].  |
-| [07] |  | Fundamentos da linguagem JavaScript. |
-| [08] |  | DOM; Aplicação do JavaScript: [Projeto "To Do List"]. |
-| [09] |  | Consumo de APIs, JSON, AJAX. |
-| [10] |  | Orientação à Objetos em JavaScript; Introdução ao desenvolvimento Back-End. |
-| [11] |  | Fundamentos da linguagem TypeScript. |
-| [12] |  | Introdução à biblioteca React.js |
-| [13] |  | Exemplo de aplicação front-end com React.js. |
+| [07] |  | - Fundamentos da linguagem JavaScript. |
+| [08] |  | - DOM; Aplicação do JavaScript: [Projeto "To Do List"]. |
+| [09] |  | - Consumo de APIs, JSON, AJAX. |
+| [10] |  | - Orientação à Objetos em JavaScript; Introdução ao desenvolvimento Back-End. |
+| [11] |  | - Fundamentos da linguagem TypeScript. |
+| [12] |  | - Introdução à biblioteca React.js |
+| [13] |  | - Exemplo de aplicação front-end com React.js. |
 
 [01]: ./conteudo/00-overview/
 [02]: ./conteudo/01-ambiente-de-desenvolvimento/
@@ -42,7 +42,7 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 [12]: ./conteudo/react-js/
 [13]: ./imersoes/nlw-expert-14/react/
 [Formulário de login]: ./conteudo/04-css/exemplos/README.md
-[Projeto "To Do List"]: ./projetos/to-do-list/README.md
+[Projeto "To Do List"]: ./projetos/todo-list/README.md
 
 &nbsp;
 
