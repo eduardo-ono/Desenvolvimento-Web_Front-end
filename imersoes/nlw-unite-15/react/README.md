@@ -7,7 +7,7 @@
 
 ## Descrição
 
-Desenvolvimento de um aaplicação web front-end em React.js durante o evento NLW Unite (15ª edição), promovido pela Rocketseat. Foram aplicados os conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, "tooling" com Vite, interface responsiva com TailwindCSS, consumo de API Node.js e uso de URL states.
+Desenvolvimento de um aplicação web front-end em ReactJS durante o evento NLW Unite (15ª edição), promovido pela Rocketseat. Foram aplicados os conceitos de Propriedades, Estados e Componentes, tipagem com Typescript, "tooling" com Vite, interface responsiva com TailwindCSS, consumo de API Node.js e uso de URL states.
 
 Período: 01/04/2024 à 04/04/2024<br>
 Carga horária: 5 horas
@@ -21,8 +21,9 @@ Carga horária: 5 horas
 * GitHub
     * <https://github.com/rocketseat-education/nlw-expert-react>
 
-* Figma
-    * <https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes>
+* Notion
+    * <https://efficient-sloth-d85.notion.site/React-529e4443080a4d889f7a0714aa09348c>
+    * <https://efficient-sloth-d85.notion.site/NLW-UNITE-bad7b350c332474d8f5e3b717f6808a6?pvs=74> (geral)
 
 ### Vídeos das aulas
 
