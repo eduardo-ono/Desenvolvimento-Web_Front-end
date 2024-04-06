@@ -7,7 +7,7 @@
 
 ## Descrição
 
-Desenvolvimento Web Front-end usando a biblioteca React.js e a linguagem de programação TypeScript.
+Desenvolvimento Web Front-end usando a biblioteca React.js e as linguagens de programação JavaScript e TypeScript.
 
 &nbsp;
 
@@ -15,8 +15,10 @@ Desenvolvimento Web Front-end usando a biblioteca React.js e a linguagem de prog
 
 * [Overview](./00-overview/)
 * [Ambiente de Desenvolvimento](./01-ambiente-de-desenvolvimento/)
-* [Hello World!](./02-hello-world/)
+* [Hello World!](./02-hello-world/) (Primeiro projeto em React.js)
 * [TypeScript](./03-typescript/)
+* React Hooks
+* React Route
 * [Exemplos](./exemplos/)
 * [Projetos](./projetos/)
 

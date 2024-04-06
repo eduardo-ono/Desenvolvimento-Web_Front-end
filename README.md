@@ -6,35 +6,43 @@
 
 ## Descrição
 
-Introdução ao Desenvolvimento Web Front-end, com ênfase no HTML5, CSS3 e JavaScript (ECMAScript 6). Inclui também bibliotecas como o React.js e op framework Angular.
+Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaScript (ECMAScript 6) e TypeScript. Inclui também a biblioteca React.js.
 
 &nbsp;
 
 ## Conteúdo Programático
 
-| Aula | Data  | Conteúdo |
+| Aula | Data  | Descrição |
 | :-:  | :-:   | ---      |
-| [01] | / | Overview de Desenvolvimento Web: Front-end, Back-end e Full-Stack; Instalação e Configuração do Git; Criação e configuração de conta no GitHub; Configuração do GitHub Pages. |
-| [02] | / | Instalação e configuração do VS Code; Revisão de Redes e Internet; Introdução à linguagem HTML; Introdução ao CSS. |
-| [03] | / | Introdução a CSS: Principais seletores e atributos, cores e fontes; Exemplo: [Formulário de login]; Position; Layouts: flexbox, grid layout. |
-| [04] | / | Fundamentos da linguagem JavaScript. |
-| [05] | / | DOM; Aplicação do JavaScript: [Projeto "To Do List"]. |
-| [06] | / | APIs, JSON, AJAX. |
-| [07] | / | Orientação à Objetos em JavaScript; Introdução ao desenvolvimento Back-End. |
-| [08] | / | Biblioteca React.js |
-| [08] | / | Angular |
+| [01] |  | - Overview de Desenvolvimento Web: Front-end, Back-end e Full-Stack. |
+| [02] |  | - Configuração do ambiente de desenvolvimento;<br> - Revisão de Redes e Internet. |
+| [03] |  | - Instalação e configuração do Git;<br> - Cadastro e configuração de uma conta no GitHub;<br> - Configuração do GitHub Pages. |
+| [04] |  | - Introdução à linguagem HTML. |
+| [05] |  | - Introdução ao CSS; Principais seletores e atributos; Cores e fontes. |
+| [06] |  | - CSS: Position; Layouts: flexbox, grid layout;<br> - Exemplo: [Formulário de login].  |
+| [07] |  | Fundamentos da linguagem JavaScript. |
+| [08] |  | DOM; Aplicação do JavaScript: [Projeto "To Do List"]. |
+| [09] |  | Consumo de APIs, JSON, AJAX. |
+| [10] |  | Orientação à Objetos em JavaScript; Introdução ao desenvolvimento Back-End. |
+| [11] |  | Fundamentos da linguagem TypeScript. |
+| [12] |  | Introdução à biblioteca React.js |
+| [13] |  | Exemplo de aplicação front-end com React.js. |
 
+[01]: ./conteudo/00-overview/
+[02]: ./conteudo/01-ambiente-de-desenvolvimento/
+[03]: ./conteudo/01-ambiente-de-desenvolvimento/git-github/
+[04]: ./conteudo/03-html/
+[05]: ./conteudo/04-css/
+[06]: ./conteudo/04-css/layouts/
+[07]: ./conteudo/05-javascript/
+[08]: ./projetos/todo-list/
+[09]: ./conteudo/
+[10]: ./conteudo/05-javascript/js-poo/
+[11]: ./conteudo/06-typescript/
+[12]: ./conteudo/react-js/
+[13]: ./imersoes/nlw-expert-14/react/
 [Formulário de login]: ./conteudo/04-css/exemplos/README.md
 [Projeto "To Do List"]: ./projetos/to-do-list/README.md
-
-[01]: ./aulas/README.md#aula-01
-[02]: ./aulas/README.md#aula-02
-[03]: ./aulas/README.md#aula-03
-[04]: ./aulas/README.md#aula-04
-[05]: ./aulas/README.md#aula-05
-[06]: ./aulas/README.md#aula-06
-[07]: ./aulas/README.md#aula-07
-[08]: ./aulas/README.md#aula-08
 
 &nbsp;
 
@@ -87,7 +95,7 @@ Introdução ao Desenvolvimento Web Front-end, com ênfase no HTML5, CSS3 e Java
 
 ## Vídeos Recomendados
 
-| Thumb | Título |
+| Thumb | Descrição |
 | --- | --- |
 | [![img](https://img.youtube.com/vi/1RARFXh_aa0/default.jpg)](https://www.youtube.com/watch?v=1RARFXh_aa0) | <sup>[Fabio Akita]</sup><br>[__"Akita, quais Cursos você recomenda? E o Low-Code? E o GPT-3?"__](https://www.youtube.com/watch?v=1RARFXh_aa0)<br><sub>(41:29, YouTube, Ago/2020)</sub> |
 | [![img](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg)](https://youtu.be/Boj9eD0Wug8) | <sup>[Yuval Noah Harari]</sup><br>[Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8)<br><sub>(1:33:30, YouTube, Abr/2019)</sub> |
@@ -96,7 +104,7 @@ Introdução ao Desenvolvimento Web Front-end, com ênfase no HTML5, CSS3 e Java
 
 ## Filmes e Documentários Recomendados
 
-| Thumb | Título |
+| Thumb | Descrição |
 | --- | --- |
 | [![img](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg)](https://www.youtube.com/watch?v=ILQeXZTOpkw) | <sup>[PC Tweaks]</sup><br>[History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw)<br><sub>(54:02, Youtube, Out/2018)</sub> |
 | [![img](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg)](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) | <sup>[The Documentary Network]</sup><br>[Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)<br><sub>(56:08, YouTube, Ago/2013)</sub> |
