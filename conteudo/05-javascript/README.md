@@ -1,12 +1,11 @@
-> Desenvolvimento Web (Front-End) > Conteúdo
 
-# JavaScript
+<h1 align="center">JavaScript</h1>
 
-Prof. Eduardo Ono
+<h3 align="center">Prof. Eduardo Ono</h3>
 
-Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-javascript/
+<h5 align="center">Atualizado em: 21/04/2024</h5>
 
-<br>
+&nbsp;
 
 ## Mapa Mental
 
@@ -14,7 +13,7 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
   <a href="../../mapas-mentais/js-linguagem.svg" target="_blank"><img src="../../mapas-mentais/js-linguagem.svg" width="300px"></a>
 </p>
 
-<br>
+&nbsp;
 
 ## Sumário
 
@@ -30,7 +29,7 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
   * Arrow Functions
 
-* ### [Estrutura de Dados](./js-estrutura-de-dados/)
+* ### [Estruturas de Dados](./js-estrutura-de-dados/)
 
 * ### [Bibliotecas](./js-bibliotecas)
 
@@ -38,7 +37,7 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 * ### Frameworks
 
-<br>
+&nbsp;
 
 ## Canais do YouTube Recomendados
 
@@ -46,26 +45,26 @@ Versão HTML: https://eduardo-ono.github.io/Desenvolvimento-Web/conteudo/05-java
 
 * [James Q Quick](https://www.youtube.com/c/JamesQQuick)
 
-<br>
+&nbsp;
 
-## Frameworks
+## Vídeos Recomendados
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![Thumb](https://img.youtube.com/vi/cuHDQhDhvPE/default.jpg)](https://www.youtube.com/watch?v=cuHDQhDhvPE "I built the same app 10 times // Which JS Framework is best?") | <sup>[Fireship]</sup> [__I built the same app 10 times // Which JS Framework is best?__](https://www.youtube.com/watch?v=cuHDQhDhvPE) <br> (21:58, YouTube, Ago/2021)
+| ![Thumb](https://img.youtube.com/vi/cuHDQhDhvPE/default.jpg) | <sup>[Fireship]</sup><br>[__I built the same app 10 times // Which JS Framework is best?__](https://www.youtube.com/watch?v=cuHDQhDhvPE)<sub>(21:58, YouTube, Ago/2021)</sub> |
 
-<br>
+&nbsp;
 
 ## Bibliografia Básica
 
 | Thumb | Descrição |
 | :-: | --- |
-| <img src="../../referencias/capas/FLANAGAN-6e_2013.jpg" alt="img" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup><br>FLANAGAN, David. [__JavaScript: O Guia Definitivo__](https://www.academia.edu/40442620/JavaScript_O_Guia_Definitivo_v). 6. ed. Porto Alegre: Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr)
-| <img src="../../referencias/capas/FLANAGAN-7e_2020.jpg" alt="img" width="100px"> | <sup id="FLANAGAN-7e_2020">[FLANAGAN-7e_2020]</sup><br>FLANAGAN, David. __JavaScript: The Definitive Guide__. 7. ed. O’Reilly Media, 2020.
-| <img src="../../referencias/capas/DELBONO_2016.jpg" alt="img" width="100px"> | <sup id="DELBONO_2016">[DELBONO_2016]</sup><br>DelBONO, Emanuele. [__Node.js Succinctly__](https://www.syncfusion.com/succinctly-free-ebooks/nodejs). 1 ed. Morrisville: Syncfusion, 2016.
+| <img src="../../referencias/capas/FLANAGAN-6e_2013.jpg" alt="img" width="100px"> | <sup>[FLANAGAN-6e_2013]</sup><br>FLANAGAN, David. [__JavaScript: O Guia Definitivo__](https://www.academia.edu/40442620/JavaScript_O_Guia_Definitivo_v). 6. ed. Porto Alegre: Bookman, 2013[.](https://app.box.com/s/1nud9latis2zqn63f3ycsj0nv7zlv1mr) |
+| <img src="../../referencias/capas/FLANAGAN-7e_2020.jpg" alt="img" width="100px"> | <sup id="FLANAGAN-7e_2020">[FLANAGAN-7e_2020]</sup><br>FLANAGAN, David. __JavaScript: The Definitive Guide__. 7. ed. O’Reilly Media, 2020. |
+| <img src="../../referencias/capas/DELBONO_2016.jpg" alt="img" width="100px"> | <sup id="DELBONO_2016">[DELBONO_2016]</sup><br>DelBONO, Emanuele. [__Node.js Succinctly__](https://www.syncfusion.com/succinctly-free-ebooks/nodejs). 1 ed. Morrisville: Syncfusion, 2016. |
 
 ## Bibliografia Complementar
 
 * [JavaScript Notes for Professionals](https://goalkicker.com/HTML5Book/) (PDF)
 
-<br>
+&nbsp;

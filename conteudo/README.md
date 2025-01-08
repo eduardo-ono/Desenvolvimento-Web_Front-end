@@ -1,37 +1,33 @@
-> Desenvolvimento Web (Front-End)
 
-# Conteúdo
+<h1 align="center">Desenvolvimento Web Front-end<br>- Conteúdo -</h1>
 
-Prof. Eduardo Ono
+<h4 align="center">Prof. Eduardo Ono</h4>
 
-<br>
+&nbsp;
 
 ## Sumário
 
-* ### [Overview](./01-overview/)
+### &nbsp; &nbsp; &nbsp; [Overview](./00-overview/)
 
-* ### [Ambiente de Desenvolvimento](./02-ambiente-de-desenvolvimento/)
+1. ### [Ambiente de Desenvolvimento](./01-ambiente-de-desenvolvimento/)
 
-* ### [HTML](./03-html/)
+1. ### [Fundamentos](./02-fundamentos/)
 
-* ### [CSS](./04-css/)
+1. ### [HTML](./03-html/)
 
-  * SASS
+1. ### [CSS](./04-css/)
 
-* ### [JavaScript](05-javascript/README.md)
+    1. SASS
+    1. Tailwind CSS
 
-  * DOM
+1. ### [JavaScript](05-javascript/README.md)
 
-* ### [JSON](./06-json/README.md)
+1. ### DOM (Document Object Model)
 
-* ### AJAX
+1. ### [JSON](./06-json/README.md)
 
-* ### [PyScript](./pyscript/README.md)
+1. ### TypeScript
 
-<br>
+1. ### [PyScript](./pyscript/README.md)
 
-## Vídeos Recomendados
-
-* [Fabio Akita] [A História do Front-End para Iniciantes em Programação](https://youtu.be/VKmPGmFY7H4) (YouTube, 48:27)
-
-<br>
+&nbsp;

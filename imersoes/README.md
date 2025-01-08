@@ -1,10 +1,14 @@
 <h1 align="center">Imersões</h1>
-
-<h4 align="center">Prof. Eduardo Ono</h4>
+<h3 align="center">Prof. Eduardo Ono</h3>
+<h3 align="center">Atualizado em: 14/07/2024</h3>
 
 &nbsp;
 
 ## Conteúdo
+
+| Período | Descrição | Trilhas |
+| :-: | --- | --- |
+| 08/Jul/2024<br>a<br>11/Jul/2024 | <sup>[Rocketseat]</sup><br>NLW Journey (#16) | - C#<br>- DevOps<br>- HTML+CSS+JS<br>- IA<br>- Java<br>- Node.js<br>- ReactJS<br>- Python<br>- React Native |
 
 <table>
   <tr>

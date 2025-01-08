@@ -1,12 +1,20 @@
 <h1 align="center">Desenvolvimento Web Front-end</h1>
-
-<h4 align="center">Prof. Eduardo Ono</h4>
+<h3 align="center">Prof. Eduardo Ono</h3>
+<h6 align="center"><img src="https://img.shields.io/github/last-commit/eduardo-ono/Desenvolvimento-Web_Front-end" alt="img: last-commit"></h6>
 
 &nbsp;
 
 ## Descrição
 
-Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaScript (ECMAScript 6) e TypeScript. Inclui também a biblioteca React.js.
+Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaScript (ES6) e TypeScript, além de frameworks e bibliotecas como o React.js.
+
+&nbsp;
+
+## Sumário
+
+* [__Conteúdo__](./conteudo/)
+* [__Imersões__](./imersoes/)
+* [__Projetos__](./projetos/)
 
 &nbsp;
 
@@ -21,11 +29,11 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 | [05] |  | - Introdução ao CSS; Principais seletores e atributos; Cores e fontes. |
 | [06] |  | - CSS: Position; Layouts: flexbox, grid layout;<br> - Exemplo: [Formulário de login].  |
 | [07] |  | - Fundamentos da linguagem JavaScript. |
-| [08] |  | - DOM; Aplicação do JavaScript: [Projeto "To Do List"]. |
+| [08] |  | - DOM; [Projeto "To Do List"]. |
 | [09] |  | - Consumo de APIs, JSON, AJAX. |
 | [10] |  | - Orientação à Objetos em JavaScript; Introdução ao desenvolvimento Back-End. |
 | [11] |  | - Fundamentos da linguagem TypeScript. |
-| [12] |  | - Introdução à biblioteca React.js |
+| [12] |  | - Introdução à biblioteca React.js. |
 | [13] |  | - Exemplo de aplicação front-end com React.js. |
 
 [01]: ./conteudo/00-overview/
@@ -36,7 +44,7 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 [06]: ./conteudo/04-css/layouts/
 [07]: ./conteudo/05-javascript/
 [08]: ./projetos/todo-list/
-[09]: ./conteudo/
+[09]: ./conteudo/05-javascript/js-fetch-api/
 [10]: ./conteudo/05-javascript/js-poo/
 [11]: ./conteudo/06-typescript/
 [12]: ./conteudo/react-js/
@@ -46,28 +54,39 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 
 &nbsp;
 
+## Árvore de Conteúdo
+
+```mermaid
+graph TB;
+    Bibliotecas(Bibliotecas JS) --> React(React.js)
+    click React "./conteudo/react-js/" "React.js"
+```
+
+&nbsp;
+
 ## Recursos
 
-* ### Sites
+* ### Sites da Internet
 
-    * https://www.w3schools.com
-    * https://fonts.google.com
-    * https://regex101.com
-    * https://colorhunt.co
-    * https://www.mathjax.org
+  * <https://www.w3schools.com>
+  * <https://fonts.google.com>
+  * <https://regex101.com>
+  * <https://colorhunt.co>
+  * <https://www.mathjax.org>
 
-* Canais do YouTube
+* ### Canais do YouTube
 
-    * [Rocketseat]()
+  * [Rocketseat](https://www.youtube.com/@rocketseat)
 
 * ### Softwares
 
-    * Microsoft Visual Studio Code - https://code.visualstudio.com
+  * Microsoft Visual Studio Code (VS Code)
 
-        * https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
-        * https://docs.emmet.io/cheat-sheet/
+    * <https://code.visualstudio.com>
+    * <https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf>
+    * <https://docs.emmet.io/cheat-sheet/>
 
-    * BlueGriffon - http://bluegriffon.org
+  * BlueGriffon - <http://bluegriffon.org>
 
 &nbsp;
 
@@ -97,8 +116,9 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 
 | Thumb | Descrição |
 | --- | --- |
-| [![img](https://img.youtube.com/vi/1RARFXh_aa0/default.jpg)](https://www.youtube.com/watch?v=1RARFXh_aa0) | <sup>[Fabio Akita]</sup><br>[__"Akita, quais Cursos você recomenda? E o Low-Code? E o GPT-3?"__](https://www.youtube.com/watch?v=1RARFXh_aa0)<br><sub>(41:29, YouTube, Ago/2020)</sub> |
-| [![img](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg)](https://youtu.be/Boj9eD0Wug8) | <sup>[Yuval Noah Harari]</sup><br>[Uma conversa entre Mark Zuckerberg & Yuval Noah Harari](https://www.youtube.com/watch?v=Boj9eD0Wug8)<br><sub>(1:33:30, YouTube, Abr/2019)</sub> |
+| ![img](https://img.youtube.com/vi/VKmPGmFY7H4/default.jpg) | <sup>[Fabio Akita]</sup><br>[__A História do Front-End para Iniciantes em Programação \| Série "Começando aos 40"__](https://www.youtube.com/watch?v=VKmPGmFY7H4)<br><sub>(48:27, YouTube, 13/Fev/2019)</sub> |
+| ![img](https://img.youtube.com/vi/1RARFXh_aa0/default.jpg) | <sup>[Fabio Akita]</sup><br>[__"Akita, quais Cursos você recomenda? E o Low-Code? E o GPT-3?"__](https://www.youtube.com/watch?v=1RARFXh_aa0)<br><sub>(41:29, YouTube, Ago/2020)</sub> |
+| ![img](https://img.youtube.com/vi/Boj9eD0Wug8/default.jpg) | <sup>[Yuval Noah Harari]</sup><br>[__Uma conversa entre Mark Zuckerberg & Yuval Noah Harari__](https://www.youtube.com/watch?v=Boj9eD0Wug8)<br><sub>(1:33:30, YouTube, Abr/2019)</sub> |
 
 &nbsp;
 
@@ -106,8 +126,8 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 
 | Thumb | Descrição |
 | --- | --- |
-| [![img](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg)](https://www.youtube.com/watch?v=ILQeXZTOpkw) | <sup>[PC Tweaks]</sup><br>[History of the Internet 2018 Documentary](https://www.youtube.com/watch?v=ILQeXZTOpkw)<br><sub>(54:02, Youtube, Out/2018)</sub> |
-| [![img](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg)](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) | <sup>[The Documentary Network]</sup><br>[Project Code Rush - The Beginnings of Netscape / Mozilla Documentary](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)<br><sub>(56:08, YouTube, Ago/2013)</sub> |
-| [![img](https://img.youtube.com/vi/IsqSwMsI_mc/default.jpg)](https://www.youtube.com/watch?v=IsqSwMsI_mc) | <sup>[DW Documentary]</sup><br>[Internet from outer space / DW Documentary](https://www.youtube.com/watch?v=IsqSwMsI_mc)<br><sub>(42:25, YouTube, Out/2020)</sub> |
+| ![img](https://img.youtube.com/vi/ILQeXZTOpkw/default.jpg) | <sup>[PC Tweaks]</sup><br>[__History of the Internet 2018 Documentary__](https://www.youtube.com/watch?v=ILQeXZTOpkw)<br><sub>(54:02, Youtube, Out/2018)</sub> |
+| ![img](https://img.youtube.com/vi/4Q7FTjhvZ7Y/default.jpg) | <sup>[The Documentary Network]</sup><br>[__Project Code Rush - The Beginnings of Netscape / Mozilla Documentary__](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)<br><sub>(56:08, YouTube, Ago/2013)</sub> |
+| ![img](https://img.youtube.com/vi/IsqSwMsI_mc/default.jpg) | <sup>[DW Documentary]</sup><br>[__Internet from outer space / DW Documentary__](https://www.youtube.com/watch?v=IsqSwMsI_mc)<br><sub>(42:25, YouTube, Out/2020)</sub> |
 
 &nbsp;

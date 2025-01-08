@@ -1,19 +1,9 @@
-<table>
-<tr>
-<td align="left" width="8000">
-    <small>Desenvolvimento Web (Front-End) > Conteúdo</small>
-</td>
-<td align="right">
-    <small>Atualizado&nbsp;em:&nbsp;21/07/2022</small>
-</td>
-</tr>
-</table>
 
-&nbsp;
+<h1 align="center">Overview</h1>
 
-# Overview
+<h3 align="center">Prof. Eduardo Ono</h3>
 
-#### Prof. Eduardo Ono
+<h5 align="center">Atualizado em: 10/04/2024</h5>
 
 &nbsp;
 
@@ -21,7 +11,7 @@
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/30nlBGjPRYM/default.jpg)](https://www.youtube.com/watch?v=30nlBGjPRYM) | <sup>[Código Fonte TV]</sup><br>[__CAMINHOS PARA SER UM DEV FRONT-END EM 2023 (GUIA COMPLETO E ATUALIZADO)__](https://www.youtube.com/watch?v=30nlBGjPRYM)<br><sub>(29:52, YouTube, 10/Fev/2023)</sub>
+| ![img](https://img.youtube.com/vi/30nlBGjPRYM/default.jpg) | <sup>[Código Fonte TV]</sup><br>[__CAMINHOS PARA SER UM DEV FRONT-END EM 2023 (GUIA COMPLETO E ATUALIZADO)__](https://www.youtube.com/watch?v=30nlBGjPRYM)<br><sub>(29:52, YouTube, 10/Fev/2023)</sub> |
 
 &nbsp;
 
@@ -29,7 +19,7 @@
 
 | Thumb | Descrição |
 |:-:|---|
-| [![img](https://img.youtube.com/vi/Em0R3csNMVE/default.jpg)](https://www.youtube.com/watch?v=Em0R3csNMVE "O QUE É FRONT-END E BACK-END???") | <sup>[Rafaella Ballerini]</sup><br>[__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=Em0R3csNMVE)<br><sub>(6:22, YouTube, Nov/2020)</sub>
+| ![img](https://img.youtube.com/vi/Em0R3csNMVE/default.jpg) | <sup>[Rafaella Ballerini]</sup><br>[__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=Em0R3csNMVE)<br><sub>(6:22, YouTube, Nov/2020)</sub> |
 
 &nbsp;
 
@@ -37,7 +27,7 @@
 
 | Thumb | Descrição |
 |:-:|---|
-| [![img](https://img.youtube.com/vi/sx4hAHhO9CY/default.jpg)](https://www.youtube.com/watch?v=sx4hAHhO9CY "O QUE É FRONT-END E BACK-END???") | <sup>[Fabio Akita]</sup><br>[__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=sx4hAHhO9CY)<br><sub>(21:07, YouTube, Fev/2019)</sub>
+| ![img](https://img.youtube.com/vi/sx4hAHhO9CY/default.jpg) | <sup>[Fabio Akita]</sup><br>[__O QUE É FRONT-END E BACK-END???__](https://www.youtube.com/watch?v=sx4hAHhO9CY)<br><sub>(21:07, YouTube, Fev/2019)</sub> |
 
 &nbsp;
 
@@ -45,18 +35,18 @@
 
 | Thumb | Descrição |
 |:-:|---|
-| [![img](https://img.youtube.com/vi/VKmPGmFY7H4/default.jpg)](https://www.youtube.com/watch?v=VKmPGmFY7H4) | <sup>[Fabio Akita]</sup><br>[__A História do Front-End para Iniciantes em Programação__](https://www.youtube.com/watch?v=VKmPGmFY7H4)<br><sub>(48:27, YouTube, Fev/2019)</sub>
-| [![img](https://img.youtube.com/vi/_TW45Wctsmg/default.jpg)](https://www.youtube.com/watch?v=_TW45Wctsmg) | <sup>[A Mentira em Que Vivemos]</sup><br>[__A História da Internet - A Guerra dos Navegadores__](https://www.youtube.com/watch?v=_TW45Wctsmg)<br><sub>(43:09, YouTube, Ago/2017)</sub>
-| [![img](https://img.youtube.com/vi/dzqr7XQjbKY/default.jpg)](https://www.youtube.com/watch?v=dzqr7XQjbKY) | <sup>[IntroBooks Education]</sup><br>[__History of Internet Documentary__](https://www.youtube.com/watch?v=dzqr7XQjbKY)<br><sub>(43:08, YouTube, Jul/2017)</sub>
-| [![img](https://img.youtube.com/vi/Q089i8RQPB0/default.jpg)](https://www.youtube.com/watch?v=Q089i8RQPB0) | <sup>[Cleo Abram]</sup><br>[__Why Elon Musk is really building Starlink__](https://www.youtube.com/watch?v=Q089i8RQPB0)<br><sub>(15:20, YouTube, Mar/2022)</sub>
+| ![img](https://img.youtube.com/vi/VKmPGmFY7H4/default.jpg) | <sup>[Fabio Akita]</sup><br>[__A História do Front-End para Iniciantes em Programação__](https://www.youtube.com/watch?v=VKmPGmFY7H4)<br><sub>(48:27, YouTube, Fev/2019)</sub> |
+| ![img](https://img.youtube.com/vi/_TW45Wctsmg/default.jpg) | <sup>[A Mentira em Que Vivemos]</sup><br>[__A História da Internet - A Guerra dos Navegadores__](https://www.youtube.com/watch?v=_TW45Wctsmg)<br><sub>(43:09, YouTube, Ago/2017)</sub> |
+| ![img](https://img.youtube.com/vi/dzqr7XQjbKY/default.jpg) | <sup>[IntroBooks Education]</sup><br>[__History of Internet Documentary__](https://www.youtube.com/watch?v=dzqr7XQjbKY)<br><sub>(43:08, YouTube, Jul/2017)</sub> |
+| ![img](https://img.youtube.com/vi/Q089i8RQPB0/default.jpg) | <sup>[Cleo Abram]</sup><br>[__Why Elon Musk is really building Starlink__](https://www.youtube.com/watch?v=Q089i8RQPB0)<br><sub>(15:20, YouTube, Mar/2022)</sub> |
 
 &nbsp;
 
 ## Principais Sites de Hospedagem no País
 
-* https://www.hostgator.com.br
-* https://www.locaweb.com.br
-* https://www.hostinger.com.br
+* <https://www.hostgator.com.br>
+* <https://www.locaweb.com.br>
+* <https://www.hostinger.com.br>
 
 * [Filipe Deschamps] [Como Eu Programo e Hospedo Sites da Forma Mais Moderna que Existe](https://www.youtube.com/watch?v=EW7m2WIvFgQ) (YouTube, 31:07, Nov/2020)
 
@@ -94,8 +84,9 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
 | Thumb | Descrição |
 | :-: | --- |
-| [![img](https://img.youtube.com/vi/5LVqVcl9ICY/default.jpg)](https://www.youtube.com/watch?v=5LVqVcl9ICY "QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular") | <sup>[Rafaella Ballerini]</sup><br> [__QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular__](https://www.youtube.com/watch?v=5LVqVcl9ICY)<br><sub>(21:56, YouTube, Set/2021)</sub>
-| [![img](https://img.youtube.com/vi/J6rVaFzOEP8/default.jpg)](https://www.youtube.com/watch?v=J6rVaFzOEP8 "Guide To Becoming A Self-Taught Software Developer") | <sup>[Traversy Media]</sup><br> [__Guide To Becoming A Self-Taught Software Developer__](https://www.youtube.com/watch?v=J6rVaFzOEP8)<br><sub>(17:13, YouTube, Mar/2020)</sub>
+| ![img](https://img.youtube.com/vi/5LVqVcl9ICY/default.jpg) | <sup>[Rafaella Ballerini]</sup><br> [__QUANTO COBRAR POR UM SITE? O que levar em conta e como calcular__](https://www.youtube.com/watch?v=5LVqVcl9ICY)<br><sub>(21:56, YouTube, Set/2021)</sub> |
+| ![img](https://img.youtube.com/vi/J6rVaFzOEP8/default.jpg) | <sup>[Traversy Media]</sup><br> [__Guide To Becoming A Self-Taught Software Developer__](https://www.youtube.com/watch?v=J6rVaFzOEP8)<br><sub>(17:13, YouTube, Mar/2020)</sub> |
+
 * [Programador BR] [O maior erro que você pode cometer para sua carreira](https://www.youtube.com/watch?v=2v-pT8rDvE4) (YouTube, 7:51, Nov/2020)
 * [Danki Code] [O que Você PRECISA Saber Ter SUCESSO Como Desenvolvedor Web nos Dias De Hoje!](https://www.youtube.com/watch?v=KProuszNyKQ) (12:01)
 * [Danki Code] [Como Divulgar o seu Trabalho de Programador](https://www.youtube.com/watch?v=mObLc_hn2t0) (4:10)
@@ -115,7 +106,7 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 
 ### YouTube
 
-* https://www.youtube.com/c/AniaKub%C3%B3w/videos
+* <https://www.youtube.com/c/AniaKub%C3%B3w/videos>
 
 &nbsp;
 
@@ -124,4 +115,3 @@ https://www.youtube.com/playlist?list=PL4iwH9RF8xHmjxVNJcyNSkVDYNUo6r2BM
 [Nerd's lesson]: https://www.youtube.com/c/Nerdslesson
 
 &nbsp;
-
