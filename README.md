@@ -59,7 +59,7 @@ Introdução ao Desenvolvimento Web Front-end com ênfase em HTML5, CSS3, JavaSc
 ```mermaid
 graph TB;
     Bibliotecas(Bibliotecas JS) --> React(React.js)
-    click React "./conteudo/react-js/" "React.js"
+    click React "https://github.com/eduardo-ono/Desenvolvimento-Web_Front-end/tree/22ffd61a7138d934c45a93fe2000e2536cd0e55c/conteudo/react-js/" "React.js"
 ```
 
 &nbsp;
